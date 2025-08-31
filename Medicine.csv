@@ -1,17 +1,314 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
-a6e3bc1e-edaa-4fb8-9f9f-42bb2a51508b,care.ac,expiring,80,,4,"Spaceship, Inc.",27/09/2012 16:51,27/09/2025 16:51
-c8d02bdb-037b-4375-8814-7fd25565f0a0,care.bz,available,80,,4,,,
-6c618dd0-7f3d-43a6-a29e-4419306820e1,care.cloud,available,80,92,4,,,
-4dca31d3-f5ff-4579-a15f-e706cca5c1d2,care.co,resell,80,92,4,Hello Internet Corp.,24/02/2010 23:16,23/02/2026 23:59
-8e0462c2-af82-446d-8ae7-b2ada518bcec,care.dev,available,80,92,4,,,
-403c15e7-211c-406e-bb76-f232efd85a70,care.im,available,80,,4,,,
-5aa4643e-528b-434a-bba1-9d3dc56c937a,care.it,expiring,80,92,4,,15/09/2021 16:00,15/09/2025 00:00
-593e6e90-b90f-4f70-b3fe-1f5a2ff74694,care.la,resell,80,,4,Internet Domain Service BS Corp.,02/02/2004 01:00,02/02/2026 23:59
-af192a72-2861-4783-9da7-d79e1565c8d4,care.mx,resell,80,,4,NameSilo,03/10/2009 00:00,02/10/2025 00:00
-f9133b9d-a8cc-44be-ba24-410462a33b23,care.online,available,80,92,4,,,
-4039da5f-bced-4474-8513-90d505999c88,care.space,available,80,92,4,,,
-b74728a5-5fb1-4d99-80c3-83b09c123d54,care.store,available,80,92,4,,,
-4622e8eb-1670-44cc-9c2a-2e1a5f7d70f3,care.vc,resell,80,,4,"Name.com, Inc.",25/03/2020 07:01,25/03/2026 07:01
+a6e3bc1e-edaa-4fb8-9f9f-42bb2a51508b,care.ac,expiring,80,35,4,"Spaceship, Inc.",27/09/2012 16:51,27/09/2025 16:51
+d1df24f6-ecab-4911-9c41-e343ae7f208e,care.academy,expiring,80,35,4,"Global Domains International, Inc. DBA DomainCostClub.com",30/09/2020 23:20,30/09/2025 23:20
+13816251-bb96-4c8a-a844-42285ef49b36,care.accountant,available,80,35,4,,,
+93e1d951-21aa-4e94-b2d6-9a3d2fb405e7,care.accountants,available,80,35,4,,,
+8adcb37b-82af-483c-9e84-d6d1b6108673,care.actor,available,80,35,4,,,
+21103835-16e9-4f43-beca-4dbc45b62b2b,care.adult,available,80,35,4,,,
+15116759-63ac-468d-b950-21244bd3d74d,care.archi,available,80,35,4,,,
+ad8ab630-31f9-4fef-9463-a5ceace98c4c,care.art,available,80,35,4,,,
+4c057ebc-de47-4748-979c-b9d7549e8651,care.attorney,available,80,35,4,,,
+e5525ed7-f2cb-419e-ae07-d79a2577dc09,care.audio,available,80,35,4,,,
+29b96fa0-b0f6-4e0f-86a7-7d3496a37662,care.auto,available,80,35,4,,,
+50d68adc-ccd5-428e-bb31-a181f558afce,care.autos,available,80,35,4,,,
+03ec5859-c22b-4067-95ce-3064082f815b,care.baby,resell,80,35,4,Namecheap,01/08/2024 20:54,01/08/2026 23:59
+696f725c-557e-407e-8c2d-1cc6bbb0bbd6,care.bar,available,80,35,4,,,
+4f899abc-8bf3-4771-8b1d-88564ed672ea,care.bargains,available,80,35,4,,,
+b8fe0500-698a-4875-a63e-b1336c07d843,care.beauty,available,80,35,4,,,
+2b9497c9-bad4-4d0d-aac9-8d229f734265,care.beer,available,80,35,4,,,
+6e2c0220-4477-4044-92fe-613085746a40,care.berlin,available,80,35,4,,,
+7ae494c4-1c42-4555-a9b3-0fc305e90978,care.best,expired,80,35,4,Namecheap,27/06/2024 22:01,27/06/2025 23:59
+13c6c9ea-71a1-440a-9315-9b92f5dbdc50,care.bet,resell,80,35,4,Porkbun LLC,01/06/2023 14:48,01/06/2026 14:48
+0dbad187-5bad-4e41-9b3e-afe26e428f88,care.bid,resell,80,35,4,Porkbun,27/07/2019 03:11,27/07/2026 03:11
+d93936a4-2752-4702-a36c-02d4e932684a,care.bingo,available,80,35,4,,,
+9a5357db-428f-4352-a0e9-99d9fee67e76,care.bio,expiring,80,35,4,Vautron Rechenzentrum AG,09/09/2014 17:46,09/09/2025 17:46
+f9cfcca0-0da0-4d7f-aa23-827a8d459b1b,care.black,resell,80,35,4,"Xiamen ChinaSource Internet Service Co., Ltd",07/11/2024 17:00,07/11/2025 17:00
+a6bae29f-da9e-40dd-91a3-a9294e2c897c,care.blackfriday,available,80,35,4,,,
+6ddf6a3f-ceed-4c05-af3b-b5947e882b20,care.blog,available,80,35,4,,,
+69b8cc36-1736-4d99-9245-141d9ec4b475,care.blue,available,80,35,4,,,
+80f897b3-a949-4c59-af96-2b6369f838d9,care.boats,available,80,35,4,,,
+a9bd2afd-e4e3-4d8f-9674-ad16824a93f8,care.boo,available,80,35,4,,,
+0a5b9ff4-62ea-4fed-839e-05b475a7a782,care.boutique,resell,80,35,4,"Spaceship, Inc.",08/08/2025 07:58,08/08/2026 07:58
+70dbb89f-d9c1-4400-bc33-de45f21895ed,care.build,available,80,35,4,,,
+5305d9a9-81e2-4f8d-92d1-12c6dc99f716,care.buzz,available,80,35,4,,,
+c8d02bdb-037b-4375-8814-7fd25565f0a0,care.bz,available,80,35,4,,,
+a85dc32a-570b-4def-b50f-7604057063cd,care.cam,available,80,35,4,,,
+0083d0c8-611e-4439-9ec8-9ad167b1328c,care.camera,available,80,35,4,,,
+ec540d8b-d458-4d0a-9440-8537ab4a9c76,care.camp,resell,80,35,4,"Sav.com, LLC - 6",16/05/2025 15:16,16/05/2026 15:16
+27d663a7-18a6-40dc-bdbb-6b849b83aef3,care.car,available,80,35,4,,,
+e236b85b-02f8-471a-91b6-1890541ce78a,care.careers,available,80,35,4,,,
+8cc531fb-7a8f-4e2b-a3e6-8ef1acf4bbfc,care.cars,available,80,35,4,,,
+61d5b2cd-3423-4d5c-9ca9-8a3ea411db1b,care.casino,available,80,35,4,,,
+a0a878dc-99ba-4bbc-985b-11db7c27ded8,care.catering,available,80,35,4,,,
+94bf5671-22f8-4941-ac92-03c1ccc90382,care.ceo,available,80,35,4,,,
+bed2a6de-dba5-4aea-a50f-a40ed6b6fab8,care.cfd,available,80,35,4,,,
+98757711-25de-44c3-9d2c-789441be183a,care.chat,available,80,35,4,,,
+a42dff93-1ee7-47ec-abf3-67fe147ecaea,care.cheap,resell,80,35,4,"NameCheap, Inc.",02/08/2024 15:19,02/08/2026 15:19
+64fd0324-9bd9-4b37-943a-249492b03f08,care.church,resell,80,35,4,"Sav.com, LLC",10/10/2024 17:09,10/10/2025 17:09
+a14b626d-3295-439d-8bfc-394af7b242c6,care.city,resell,80,35,4,Dynadot Inc,04/11/2022 19:28,04/11/2025 19:28
+e061f5f5-33fe-45d1-8675-344b43e87b5b,care.clothing,available,80,35,4,,,
+6c618dd0-7f3d-43a6-a29e-4419306820e1,care.cloud,available,80,35,4,,,
+4dca31d3-f5ff-4579-a15f-e706cca5c1d2,care.co,resell,80,35,4,Hello Internet Corp.,24/02/2010 23:16,23/02/2026 23:59
+48c391ca-5dbb-4208-a4b7-ada6ff678e9f,care.company,expiring,80,35,4,"Global Domains International, Inc. DBA DomainCostClub.com",07/09/2016 10:20,07/09/2025 10:20
+bb3f5c9c-7671-43c2-9f18-bc5ac8e87dc7,care.computer,resell,80,35,4,"Sav.com, LLC",08/06/2024 19:59,08/06/2026 19:59
+e7daf61b-ba0a-4b53-83ce-592dc1095551,care.condos,available,80,35,4,,,
+41604914-71e8-40a4-ad04-3d4377ac7ff9,care.construction,resell,80,35,4,"Sav.com, LLC - 27",25/11/2024 15:15,25/11/2025 15:15
+adde3f1c-bbd4-4f7d-8f55-7dad20e3b3dc,care.consulting,available,80,35,4,,,
+524f1333-17ed-48ca-b760-7079620b08be,care.contact,resell,80,35,4,"Sav.com, LLC",06/12/2020 16:59,06/12/2025 16:59
+4763bf0c-15dd-4ee7-b5fd-3d2a3ed1c93f,care.contractors,available,80,35,4,,,
+d2aecbcd-db16-4016-950a-99b67d9b08a6,care.cooking,available,80,35,4,,,
+f8ea158d-f14e-4b1c-804a-06776bc6ed66,care.cool,resell,80,35,4,"DNSPod, Inc.",14/08/2020 13:08,14/08/2026 13:08
+32bce2ef-6587-4159-beba-5e6e1f6ca515,care.country,available,80,35,4,,,
+6e4f33bd-33d0-4588-9989-ee888f2cefc1,care.coupons,resell,80,35,4,"NameCheap, Inc.",26/07/2024 18:51,26/07/2026 18:51
+0dc9ec73-6199-4bd9-adb3-186a27a64642,care.creditcard,available,80,35,4,,,
+c5da019f-3652-4a45-b557-fe84dea5daa2,care.cricket,available,80,35,4,,,
+b2fb2661-8044-4996-bfb6-3428f0241a27,care.cruises,available,80,35,4,,,
+a8d031f3-1319-4bf0-835b-822a2ce78216,care.cx,resell,80,35,4,CentralNic Ltd,02/12/2019 00:00,02/12/2025 14:16
+353dab4f-55d2-44e3-8705-f85e583e3ac0,care.cyou,available,80,35,4,,,
+b4f9e6d3-e8c3-450f-88e7-3dca10097203,care.dad,available,80,35,4,,,
+ea27665e-cde5-4954-94a6-6fa007b6f67e,care.dance,available,80,35,4,,,
+00ba2047-1e73-473c-8bf5-42ae19b0b177,care.date,available,80,35,4,,,
+afbf7328-03f0-4952-9d94-93c08d5bb479,care.dating,available,80,35,4,,,
+c13f5ce8-f969-4d67-9eb8-e1eef53582ab,care.day,available,80,35,4,,,
+477a1d6e-70b8-486d-a2d2-6c553ba05cb5,care.dealer,available,80,35,4,,,
+770c35d9-6a17-4650-ae32-a1afbaee2d7b,care.degree,available,80,35,4,,,
+0f28d547-3ce5-4fd4-aa3e-ced1bc0ca549,care.delivery,resell,80,35,4,Dynadot Inc,24/10/2020 13:59,24/10/2025 13:59
+31d93de1-65be-49bc-8e98-5b31cccec412,care.democrat,available,80,35,4,,,
+882f951b-4b32-410e-9ee5-3444c835270b,care.dentist,available,80,35,4,,,
+8e0462c2-af82-446d-8ae7-b2ada518bcec,care.dev,sold,80,35,4,"GoDaddy.com, LLC",21/07/2025 21:34,21/07/2026 21:34
+6b9e99a6-01b1-4d43-a532-99efa90b96af,care.diamonds,available,80,35,4,,,
+31e9d6a1-5a4c-49ce-942f-32ea40b0d1eb,care.diet,available,80,35,4,,,
+a84c41a2-bba1-4c08-ac41-29f64ee7f9f6,care.directory,resell,80,35,4,"Spaceship, Inc.",16/06/2022 13:15,16/06/2026 13:15
+c8d395c0-9bf9-421a-af89-28fb50625e77,care.discount,available,80,35,4,,,
+4af63c96-61ea-4120-9ff0-e1e70a06444a,care.diy,available,80,35,4,,,
+60de0a99-fb2e-4956-a813-54d4a6fbbae0,care.download,available,80,35,4,,,
+a454c7b0-ff60-4db2-b0f9-f1a2f3b7b8f5,care.education,expiring,80,35,4,"Name.com, Inc.",20/09/2015 08:08,20/09/2025 08:08
+e28adb65-d348-4f20-8bcb-312dc343562d,care.engineer,available,80,35,4,,,
+b34ccf74-9637-432d-aaf7-bb366a669675,care.enterprises,resell,80,35,4,Porkbun LLC,15/11/2022 15:15,15/11/2025 15:15
+757433bb-4e79-448c-865a-ee88cc8e8eb7,care.equipment,resell,80,35,4,"Sav.com, LLC - 3",15/04/2025 15:15,15/04/2026 15:15
+b63ea3e1-fd89-41b1-8af6-66733fe4c7f3,care.esq,available,80,35,4,,,
+6961a9ca-88a6-4dba-8b72-6a3aefa196cf,care.events,expiring,80,35,4,"GoDaddy.com, LLC",20/09/2023 12:34,20/09/2025 12:34
+8bed03b5-6459-4411-8a68-89a3b32e0948,care.exposed,available,80,35,4,,,
+a44cd729-ab15-4cea-a81c-59bdc186cb78,care.fail,available,80,35,4,,,
+f4914684-7fa2-475c-9b11-70d690508085,care.faith,available,80,35,4,,,
+29e9bffe-5f6f-4b0d-89fa-fecae3df397e,care.family,expired,80,35,4,"GoDaddy.com, LLC",08/07/2024 10:07,08/07/2025 10:07
+0f2d8d39-1434-47e3-a644-54d6da293786,care.fan,available,80,35,4,,,
+bedf2dc5-1b9e-475e-a25f-69667ea536cd,care.fans,available,80,35,4,,,
+4738b842-5ea0-4677-8ac9-62c1867af741,care.farm,resell,80,35,4,"Spaceship, Inc.",04/01/2023 17:01,04/01/2026 17:01
+c4dca623-7fcd-4e8d-b770-6af6bbfe5d54,care.fashion,expiring,80,35,4,"Spaceship, Inc.",26/09/2024 04:41,26/09/2025 04:41
+fdfe4020-d295-48f0-9dd6-fff7458d3e9f,care.film,available,80,35,4,,,
+3dde7a36-b3f6-47d6-9218-22a14c2de70c,care.financial,available,80,35,4,,,
+bc0b2614-ae6a-46f1-b88e-41778dff882c,care.fishing,available,80,35,4,,,
+1b058655-75f3-4645-8053-cea20e3bac3c,care.fitness,available,80,35,4,,,
+7e4a8e3f-9fbd-4813-922c-3bb6227fb71d,care.flights,available,80,35,4,,,
+eba670eb-5279-409e-b68c-d5a31dbbbb7a,care.florist,available,80,35,4,,,
+425bfccb-61ea-4c06-8298-a19d2242169d,care.flowers,available,80,35,4,,,
+3f2f931c-4eac-4b4f-9d6f-607219c67900,care.foo,available,80,35,4,,,
+de547eb0-6d7a-4a98-93dc-1866ebe13139,care.food,available,80,35,4,,,
+346a67c4-917e-4906-84aa-c4046f41d1f8,care.football,available,80,35,4,,,
+ada266c1-14ba-4bae-bdb1-1564c9bcb389,care.forsale,available,80,35,4,,,
+3aed3eed-1503-4071-8aa9-5fe4eac2143d,care.forum,available,80,35,4,,,
+899f7e40-3d18-458a-b723-105730e63ee0,care.fun,available,80,35,4,,,
+a1e03146-c077-4a54-b539-9c1d86ecee66,care.fund,resell,80,35,4,"Xiamen ChinaSource Internet Service Co., Ltd",28/02/2025 15:15,28/02/2026 15:15
+830e12f6-7c98-4ff9-9a30-f2b81eb2b570,care.furniture,available,80,35,4,,,
+1089f3de-4d21-4c1d-98f1-df9ab2632809,care.futbol,available,80,35,4,,,
+0531f75d-90b5-466a-b214-a12874d56fc7,care.fyi,resell,80,35,4,"Sav.com, LLC",24/12/2024 01:52,24/12/2025 01:52
+660362f4-7b91-418d-91cc-6a671fae7c87,care.gallery,available,80,35,4,,,
+36c0ddd0-783e-4537-9b67-2d3f5a31f4c0,care.game,available,80,35,4,,,
+6e691ae2-4d12-4adf-a1e7-9db293d4fed2,care.garden,available,80,35,4,,,
+0a2a593a-876d-4a62-ad72-a1a3caebc36f,care.gay,available,80,35,4,,,
+fc5dd6ff-5dd9-4a5b-8c55-21b3e7afb651,care.gifts,resell,80,35,4,"GoDaddy.com, LLC",09/01/2016 14:51,09/01/2026 14:51
+e7ac2e1b-e022-4829-ac62-6df15c27ea6f,care.giving,available,80,35,4,,,
+e18ccc27-625f-4a5f-bf72-e47a70326a34,care.glass,available,80,35,4,,,
+3db7e917-7662-406f-abfb-cfe9ac40a914,care.gmbh,available,80,35,4,,,
+c6dd7743-73a5-43b7-8d51-e310db887ce3,care.gold,resell,80,35,4,"Chengdu West Dimension Digital Technology Co., Ltd.",06/03/2017 06:11,06/03/2026 06:11
+06da80e0-0561-4f19-bb5f-c995a1430e6c,care.golf,expiring,80,35,4,Dynadot Inc,09/09/2024 17:00,09/09/2025 17:00
+ee4b52cf-f373-4255-a716-04280315921b,care.graphics,available,80,35,4,,,
+038c4830-1279-48bf-99fe-e929d4a59ca6,care.gratis,available,80,35,4,,,
+9c9fe64b-df30-427e-a22d-c958870d5c0a,care.gripe,available,80,35,4,,,
+62b65168-f195-4f95-acc5-73f7adb4ae8f,care.guitars,available,80,35,4,,,
+c4923263-df9d-4a61-87e7-45eccd294db9,care.guru,resell,80,35,4,Porkbun LLC,31/12/2019 09:55,31/12/2025 09:55
+892aee9c-9ce7-460a-8524-793744cfcc62,care.hair,available,80,35,4,,,
+4d04a409-5b6e-471c-9cf5-c2a0d96daaa8,care.health,resell,80,35,4,"GoDaddy.com, LLC",07/11/2023 20:27,07/11/2025 20:27
+405f660d-d74c-4cb3-a11d-1a3fbeaada7f,care.hiphop,available,80,35,4,,,
+7e8d812e-c077-464e-b74f-3e0c95732314,care.hiv,available,80,35,4,,,
+120daa8a-b1c4-4d66-b6a3-da2cd1e5ea83,care.hockey,available,80,35,4,,,
+d5b24179-04fb-4e2d-84f9-cfe8944c1285,care.holdings,available,80,35,4,,,
+4cfc9158-9573-40c9-91e4-a00bdaa5764c,care.holiday,available,80,35,4,,,
+55ae1743-dd12-4cd9-aa17-cafaec59ff3e,care.homes,available,80,35,4,,,
+d27da708-2139-452c-9e08-0ed03fd35e9e,care.horse,available,80,35,4,,,
+6e15cea1-08c1-40aa-a780-515b1542d04b,care.host,available,80,35,4,,,
+d2f34cfa-bad8-4a17-a268-89af8b89ca47,care.hosting,available,80,35,4,,,
+89d2459f-2cee-4f43-b0fa-ff84b5193010,care.hot,available,80,35,4,,,
+1639e4d3-2a41-48dc-8f08-7e44414e1f0e,care.house,resell,80,35,4,"Global Domains International, Inc. DBA DomainCostClub.com",28/05/2025 15:15,28/05/2026 15:15
+618cd582-c0f9-4a5f-9daf-a773c9504060,care.how,available,80,35,4,,,
+3f546f93-7e7d-4abb-942e-2543e4b362f4,care.icu,available,80,35,4,,,
+403c15e7-211c-406e-bb76-f232efd85a70,care.im,available,80,35,4,,,
+459370d4-7483-4922-8835-f9522f24a1ee,care.industries,available,80,35,4,,,
+7964e092-f405-4c3f-8110-dad774482945,care.ing,available,80,35,4,,,
+fb8a460c-ea85-4ced-af44-110dfc7bdd04,care.investments,available,80,35,4,,,
+d4b6189e-79c5-4e99-9a6b-6ebaa6a2c884,care.irish,available,80,35,4,,,
+5aa4643e-528b-434a-bba1-9d3dc56c937a,care.it,expiring,80,35,4,,15/09/2021 16:00,15/09/2025 00:00
+0b716244-d179-4d94-bca3-687dad4e9b66,care.juegos,available,80,35,4,,,
+08bf27aa-134e-4f29-ba68-92b7f5a7512e,care.kaufen,available,80,35,4,,,
+f946c3bb-5762-4459-89a4-6dbd4a0ef1a9,care.kids,resell,80,35,4,"NameCheap, Inc.",20/10/2022 17:22,20/10/2025 17:22
+08fb0c01-7a88-44e1-9637-13d13fa654c9,care.kim,resell,80,35,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),31/08/2019 14:48,31/08/2026 14:48
+f9727e54-3094-46e8-b74b-97549f77757a,care.kitchen,available,80,35,4,,,
+593e6e90-b90f-4f70-b3fe-1f5a2ff74694,care.la,resell,80,35,4,Internet Domain Service BS Corp.,02/02/2004 01:00,02/02/2026 23:59
+1e4ca36b-8cc7-4b02-91ad-7bccbb99e725,care.lat,available,80,35,4,,,
+752f621f-188c-44e8-ac21-0287ecdaefad,care.law,expiring,80,35,4,101domain GRS Limited,01/10/2021 14:52,01/10/2025 14:52
+7696504a-feae-41c2-a049-154e63ca767e,care.lawyer,available,80,35,4,,,
+d75811c1-0d93-4245-9e27-ed62b3c53c61,care.lease,available,80,35,4,,,
+2e1b5994-4d63-46e9-aba3-3be4fa44a25d,care.lgbt,available,80,35,4,,,
+3420b5c8-e59d-4bb4-be9e-05cdd1438e22,care.lifestyle,available,80,35,4,,,
+57a38cff-df83-472f-9154-261d2b9af0d7,care.lighting,expiring,80,35,4,united-domains GmbH,07/09/2021 08:48,07/09/2025 08:48
+6a7bfd55-3d5e-4e03-9778-bb1232675da8,care.limited,available,80,35,4,,,
+4d68f8d4-cb19-4c7d-89ed-a40425d6c420,care.limo,available,80,35,4,,,
+b88670ad-5ce4-478f-ae07-bdb532b9d33d,care.live,resell,80,35,4,Porkbun LLC,13/01/2024 21:03,13/01/2026 21:03
+1dc83208-4002-4f9b-8ba4-f3404ab482cf,care.living,available,80,35,4,,,
+118eceed-760a-4413-b42e-79c3829b5716,care.llc,resell,80,35,4,Porkbun LLC,13/12/2023 15:15,13/12/2025 15:15
+2071eb4f-06e5-4375-adb4-93196e381b7a,care.loan,available,80,35,4,,,
+14b941e8-ee10-48a0-bc2d-3e29f5e0c0cc,care.loans,available,80,35,4,,,
+f0491ca2-489d-4671-9659-bfac41a0c823,care.locker,available,80,35,4,,,
+c325f57b-4551-4550-8c9c-862ee5b4f750,care.london,available,80,35,4,,,
+a80149ad-071d-4712-8807-19a5081b90b8,care.love,available,80,35,4,,,
+37ac243d-4e31-4f12-af02-c6d4c245fc53,care.ltda,available,80,35,4,,,
+ecb64ffd-3a7e-4bf3-8c2a-383b857e0dcd,care.luxe,available,80,35,4,,,
+0cb51b5f-9f75-46cd-a327-465217e8c03c,care.luxury,available,80,35,4,,,
+28dd65af-ce30-4d0e-9078-a68f6f101b18,care.maison,available,80,35,4,,,
+a85cc647-f99c-4352-b74c-bdd39442032d,care.makeup,available,80,35,4,,,
+6f0c2706-ade5-4db0-9886-0f4e753ed7d0,care.management,resell,80,35,4,1API GmbH,24/06/2015 16:00,24/06/2026 16:00
+5e2ea119-05cd-4a8f-a283-def10fb1f357,care.market,available,80,35,4,,,
+19a9eb59-fcf9-4d1e-bdaa-d8a996573d06,care.mba,available,80,35,4,,,
+31344f94-bc17-4be7-8063-bb34dd2d0fe8,care.media,expiring,80,35,4,"Chengdu West Dimension Digital Technology Co., Ltd.",02/09/2023 15:15,02/09/2025 15:15
+a7d986e7-03df-4b23-8e91-f27c6dfaef87,care.melbourne,available,80,35,4,,,
+90e61e77-4696-4fb0-9e66-20fc1abfc272,care.meme,available,80,35,4,,,
+1e24db95-0cfc-464b-8fa6-1c5b13d60338,care.memorial,available,80,35,4,,,
+3214ca4a-a28f-433c-995e-ae5bdb3b4411,care.men,expired,80,35,4,"NameCheap, Inc.",27/06/2024 22:01,27/06/2025 22:01
+0e7cbfd0-ab73-4c48-b239-bf201f3cbb2d,care.menu,available,80,35,4,,,
+4fa9fb88-091d-4754-aae9-dcc016c6c1ac,care.miami,available,80,35,4,,,
+9647d191-5d83-4c12-98be-312eb6205559,care.mobi,available,80,35,4,,,
+52dc6d98-c4b8-41ad-9d00-d14d74cb0924,care.moda,available,80,35,4,,,
+c4346162-89bb-4581-9f66-958a96912537,care.monster,available,80,35,4,,,
+9be111fd-8740-4d43-ad4f-acf9d36551f2,care.mortgage,available,80,35,4,,,
+7b754c9e-9462-49d7-955c-9b6fdaeb88c4,care.motorcycles,available,80,35,4,,,
+13fb9396-4b5b-4c14-9157-f6b82b1f9f4e,care.mov,available,80,35,4,,,
+35f0edea-63e6-43e8-a7dd-219079a817ea,care.movie,available,80,35,4,,,
+293f47f2-4b5d-4cdd-a907-3558a90480e0,care.music,available,80,35,4,,,
+af192a72-2861-4783-9da7-d79e1565c8d4,care.mx,resell,80,35,4,NameSilo,03/10/2009 00:00,02/10/2025 00:00
+b089660c-f4d9-4937-86c6-455309143e38,care.news,expired,80,35,4,"NameCheap, Inc.",27/06/2024 20:52,27/06/2025 20:52
+3c3b7f91-c1c4-40aa-8c60-3ef33b878664,care.ninja,resell,80,35,4,Porkbun LLC,04/10/2024 08:18,04/10/2025 08:18
+50228b6e-c688-4b81-96f7-7d7ca1721644,care.nyc,resell,80,35,4,"Global Domains International, Inc. DBA DomainCostClub.com",11/12/2020 03:55,11/12/2027 03:55
+9d8d2ab5-4dad-4108-a64b-4bbf37501f18,care.observer,available,80,35,4,,,
+7b43668d-2b84-4aa3-812a-95821fe38f15,care.onl,available,80,35,4,,,
+f9133b9d-a8cc-44be-ba24-410462a33b23,care.online,available,80,35,4,,,
+d6baa8c1-8919-48c5-b070-d1338e648158,care.ooo,expiring,80,35,4,Dynadot LLC,07/09/2024 11:15,07/09/2025 23:59
+ccb73c92-d4ba-46cb-9edf-7a9bdb7cfec3,care.organic,available,80,35,4,,,
+4546d60f-898d-42ae-8d85-af68e1da0b92,care.osaka,available,80,35,4,,,
+fcd4af02-3421-4198-a25a-083a6d47a52b,care.partners,resell,80,35,4,Dynadot Inc,28/08/2019 10:10,28/08/2026 10:10
+61d8a71d-8300-4e4a-a5a9-1d53832e568c,care.party,resell,80,35,4,"Chengdu West Dimension Digital Technology Co., Ltd.",03/08/2016 19:13,02/08/2028 23:59
+fc3db2b8-b661-44d1-ae96-4bbbfb9b9d19,care.phd,available,80,35,4,,,
+4e2720ca-8fb7-4463-9e66-4ec0fe19506d,care.photo,available,80,35,4,,,
+86f2e58f-8311-407e-a9a4-53f669e2aac3,care.photos,resell,80,35,4,"NameCheap, Inc.",26/07/2024 18:51,26/07/2026 18:51
+e3304a2e-79f8-47ba-b9e7-528f21378daf,care.pics,available,80,35,4,,,
+c85b8764-5f89-4f2e-816e-359fde8e3c73,care.pictures,resell,80,35,4,"NameCheap, Inc.",26/07/2024 18:51,26/07/2026 18:51
+55ac5fe2-ec27-4943-9459-51af2581169e,care.pink,available,80,35,4,,,
+136d9a2c-0ded-4c0c-8830-86d61df7da3d,care.pizza,available,80,35,4,,,
+c2f23c6e-2470-43fc-a1e6-5a1c9c7023a7,care.plumbing,available,80,35,4,,,
+ea4e3747-a259-4dd2-b874-5304e987cc2a,care.poker,available,80,35,4,,,
+e9840d23-7a5f-4139-b365-ae7bf37675f8,care.porn,available,80,35,4,,,
+b6b0f97f-fe02-4f42-9e08-5e94bb706b7e,care.press,available,80,35,4,,,
+86c0f6bb-e538-4d13-a879-ced3d8c564c1,care.productions,available,80,35,4,,,
+15b02f82-3b94-4f1b-aa92-73e105482c54,care.prof,available,80,35,4,,,
+c7082c3a-37d8-4b5a-8ccc-5e21a232544d,care.promo,resell,80,35,4,"Sav.com, LLC - 10",11/08/2023 17:00,11/08/2026 17:00
+1023d31a-bc29-4f6d-8b6e-f54ee9ec91f5,care.properties,expiring,80,35,4,"GoDaddy.com, LLC",12/09/2018 00:17,12/09/2025 00:17
+378a0885-8914-49be-9934-4fd29a9dfc49,care.property,available,80,35,4,,,
+b4fe5732-8195-4df8-b831-82f35333db2d,care.protection,available,80,35,4,,,
+c657ee5c-1ec1-4ad7-a3f3-f19fc55cd887,care.pub,resell,80,35,4,"Chengdu West Dimension Digital Technology Co., Ltd.",12/03/2020 20:30,12/03/2026 20:30
+2257d75a-4b65-4491-a744-1ed0e34184f2,care.pw,expiring,80,35,4,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",08/09/2017 02:31,08/09/2025 23:59
+2658b10d-ee36-4167-9807-e64cffbf01a5,care.qpon,available,80,35,4,,,
+963255d0-e98e-4ed0-b5e5-9d7cc9efdd21,care.racing,available,80,35,4,,,
+4bd6ef08-a00e-465b-a3e6-5d942e8a1581,care.realty,available,80,35,4,,,
+c426f704-3823-47f1-a2d9-f945773c90a3,care.recipes,resell,80,35,4,"Sav.com, LLC",21/08/2024 18:09,21/08/2026 18:09
+5441635e-3a71-4732-a8f6-b70d26b6d90c,care.rehab,available,80,35,4,,,
+1ca15036-5b83-41ee-9c29-15dc2aa4e0e5,care.reise,available,80,35,4,,,
+acdfa2a0-0052-4db8-8c32-505bccfe3e72,care.reisen,available,80,35,4,,,
+59b03d1b-cfa5-4940-9398-06524acafa63,care.report,available,80,35,4,,,
+9632b65b-3c98-43e8-9458-f730f897fbe0,care.republican,available,80,35,4,,,
+c1a21758-d333-4a8c-a06d-f5b10efaa473,care.rest,available,80,35,4,,,
+d84f9aa2-e172-4361-be72-e30e6f7bf18d,care.restaurant,available,80,35,4,,,
+62fd0139-cf2e-431f-a0d8-d76056e9c40f,care.review,available,80,35,4,,,
+442b9d54-d6e9-474e-a875-d065daf42d6c,care.reviews,resell,80,35,4,"Sav.com, LLC - 14",09/11/2024 17:00,09/11/2025 17:00
+8792d1c6-75e7-49cc-b75e-0f56faaf4d74,care.rich,available,80,35,4,,,
+674f300b-82b7-4781-8b3a-c015e67e24d9,care.rip,resell,80,35,4,"Sav.com, LLC",13/08/2024 04:56,13/08/2026 04:56
+3e4ecbc2-2315-41bb-9888-64a47547fc95,care.rodeo,available,80,35,4,,,
+5deb234a-dcec-4021-ac28-c37fb62416e9,care.rsvp,available,80,35,4,,,
+34f1186a-f3ac-428e-800e-09bd6f27175e,care.sarl,available,80,35,4,,,
+d7d3f38d-e431-4596-afb3-abcf79cb7530,care.sbs,available,80,35,4,,,
+258408a1-df6f-4de1-b376-00834233ba86,care.school,resell,80,35,4,"Xiamen ChinaSource Internet Service Co., Ltd",11/03/2022 13:15,11/03/2026 13:15
+7450fbbb-be2e-47c3-8d56-8c0eccab12a4,care.science,resell,80,35,4,Porkbun,21/03/2022 15:51,21/03/2026 15:51
+f6f5a4a0-b34f-4832-bcb3-dfeaa8bf653d,care.security,available,80,35,4,,,
+48bd3590-af59-4c68-8c95-8ab7b7a60c31,care.services,available,80,35,4,,,
+0aa9fbe4-10b6-4328-996f-11bb2bee3372,care.sexy,available,80,35,4,,,
+f5fee52e-8e0d-4603-a3ce-a206f68e437f,care.shiksha,available,80,35,4,,,
+697c10f5-170b-4a21-97c0-d0a8a2eeecdb,care.shoes,available,80,35,4,,,
+e39657e2-fba3-4642-bfd3-b671540b0bcc,care.shopping,available,80,35,4,,,
+a589e8b6-f613-4697-a3be-5d89d7013709,care.show,resell,80,35,4,"Chengdu West Dimension Digital Technology Co., Ltd.",06/03/2017 06:46,06/03/2026 06:46
+a3a1e8c9-a70c-42cd-9752-dd0b3f1291b2,care.singles,available,80,35,4,,,
+42fa59ca-92fd-4fd7-9521-7edb94a4e69c,care.ski,available,80,35,4,,,
+eebffb9d-ed80-49d7-a60d-21e28dc87ba2,care.skin,available,80,35,4,,,
+f65feb55-139e-4c49-8a00-acbaa3e2e15a,care.soccer,available,80,35,4,,,
+c0e86d60-a5ca-44e2-a766-1454c5278816,care.social,resell,80,35,4,Unstoppable Domains Inc,03/01/2024 15:15,03/01/2026 15:15
+a1cd320a-57c5-4586-896d-b4eee2ecb620,care.solar,available,80,35,4,,,
+0d253372-8404-483e-be47-70147e8b9f9e,care.solutions,resell,80,35,4,"Spaceship, Inc.",23/03/2014 16:00,23/03/2026 16:00
+09e0536f-7bb6-4c69-bdb7-882770f1727d,care.soy,available,80,35,4,,,
+4039da5f-bced-4474-8513-90d505999c88,care.space,available,80,35,4,,,
+535f20be-f77e-4742-ba55-315699166116,care.spot,available,80,35,4,,,
+49695528-460c-4d30-a1c7-884a0170c462,care.srl,available,80,35,4,,,
+5c7c012e-4e5e-466b-8269-29b04c397d93,care.storage,available,80,35,4,,,
+b74728a5-5fb1-4d99-80c3-83b09c123d54,care.store,available,80,35,4,,,
+12b5c6dc-ea03-4adf-9760-f0c36ec78521,care.sucks,available,80,35,4,,,
+b8fdb93e-96f2-45e1-9e73-32d82049726f,care.supplies,available,80,35,4,,,
+6496b4ed-9469-410b-8970-cbc36c8f6b52,care.supply,available,80,35,4,,,
+4dbeba7c-a612-417e-8c00-f51bc3217f6d,care.surf,available,80,35,4,,,
+478920a0-f3d9-44a0-a712-dab7ec55bac3,care.surgery,available,80,35,4,,,
+97315225-3d7f-4415-b7f0-971bbdda0dbe,care.sydney,available,80,35,4,,,
+c87e04c2-d99a-4c3d-9986-b11e1a4aba1e,care.tattoo,available,80,35,4,,,
+f2e8de43-f660-4920-a039-2fe63b3e523e,care.taxi,resell,80,35,4,"Sav.com, LLC - 9",12/07/2025 15:16,12/07/2026 15:16
+ee07a728-2c43-471a-a0df-e6c12574659e,care.team,resell,80,35,4,"Xiamen ChinaSource Internet Service Co., Ltd",15/10/2016 23:54,15/10/2025 23:54
+623fba3d-ff08-44bd-94e1-b3989cd32a4a,care.technology,resell,80,35,4,"Sav.com, LLC",28/10/2016 20:05,28/10/2025 20:05
+862174c9-c1af-4136-ab52-11924b2c0070,care.tennis,available,80,35,4,,,
+998426af-3358-43d3-9289-d2b4aec25427,care.theatre,available,80,35,4,,,
+6a1175c7-bec0-4de2-a723-173696e0da49,care.tickets,available,80,35,4,,,
+04fddcac-9a40-4b81-b286-494e8cab9465,care.tienda,available,80,35,4,,,
+45f3a96f-fb9a-4aa1-ad8f-6a501d26d994,care.tips,available,80,35,4,,,
+9f304825-a9ad-41e0-a2a9-124b7f1af0a3,care.tires,available,80,35,4,,,
+486df0ac-b58f-420b-ab36-d23e7a660404,care.tools,resell,80,35,4,Porkbun LLC,24/02/2020 23:19,24/02/2026 23:19
+8ff5d9c2-62e6-40e8-94f5-1f67dd6ae2be,care.top,available,80,35,4,,,
+99dbbb7d-30a7-425e-a074-161b45997d6f,care.tours,available,80,35,4,,,
+48585853-e5f8-4aea-9752-7bd7fde05f6a,care.toys,resell,80,35,4,"NameCheap, Inc.",26/07/2024 18:51,26/07/2026 18:51
+e1664ee7-33ba-41b6-ac2a-76588964ea0f,care.training,expired,80,35,4,"GoDaddy.com, LLC",25/06/2023 10:59,25/06/2025 10:59
+7aac507d-f4ed-46e9-9d56-9c34aef05422,care.tv,resell,80,35,4,Dynadot Inc,26/12/2010 09:33,26/12/2025 09:33
+f61e7d96-5f7f-448b-9bc7-ad21c5e0867a,care.uno,available,80,35,4,,,
+ba940d8c-b7b4-4d92-bd8f-290bec353d78,care.vana,available,80,35,4,,,
+4622e8eb-1670-44cc-9c2a-2e1a5f7d70f3,care.vc,resell,80,35,4,"Name.com, Inc.",25/03/2020 07:01,25/03/2026 07:01
+b9d2b15c-226e-4b4a-a656-7fc99359d0bf,care.vegas,available,80,35,4,,,
+3447d4d6-be78-41b2-bda1-a2a396f549b6,care.ventures,resell,80,35,4,Dynadot Inc,02/07/2022 13:15,02/07/2026 13:15
+daf71455-d90c-4fbd-bd54-ca465b97fb0e,care.viajes,available,80,35,4,,,
+2f55785e-daf9-4fdb-996e-30a6936a13f6,care.video,resell,80,35,4,"Chengdu West Dimension Digital Technology Co., Ltd.",24/07/2021 08:23,24/07/2027 08:23
+172f5236-a1a1-486b-b0c3-80f16ed87f8a,care.villas,available,80,35,4,,,
+c0bc8f3e-eea1-40a0-8398-86b7f6247277,care.vodka,available,80,35,4,,,
+443f9bdc-a36c-4728-b54e-ae5710cc5bba,care.voting,available,80,35,4,,,
+03466eef-a761-469a-a571-a8a134cc256e,care.voto,available,80,35,4,,,
+8cd287d0-aad1-49a3-97f8-ebc34c897ddf,care.watch,expiring,80,35,4,"GoDaddy.com, LLC",26/09/2024 17:53,26/09/2025 17:53
+a95a4bc2-9e36-4f52-996b-1d94a58927ad,care.webcam,available,80,35,4,,,
+30285a9b-c716-4873-8bb2-fdf19e6ad42f,care.website,available,80,35,4,,,
+2084115c-2d87-4cca-a8c9-aa8a9a428635,care.wedding,available,80,35,4,,,
+37c048d3-5369-4995-87b1-9f678eccea7c,care.wiki,available,80,35,4,,,
+15fc5440-e784-4591-91ee-0392e86ec01b,care.win,available,80,35,4,,,
+c46121f1-9213-4f8a-81b5-9d3feb8b5b50,care.yachts,available,80,35,4,,,
+a69dfe88-c96c-4461-ab6a-0a7695cf6786,care.yoga,expiring,80,35,4,"Wild West Domains, Inc.",09/09/2019 16:52,09/09/2025 16:52
+4045b68d-c273-4d9d-a180-8b6a09551aa5,care.zip,available,80,35,4,,,
 1a0141ba-4686-49a0-90f1-8d4fa11302c0,treatment.app,expiring,78,80,9,Namecheap Inc.,28/07/2021 19:39,28/07/2025 19:39
 bf68b0e2-9731-4458-af08-099f68ebb652,treatment.at,resell,78,80,9,Greenmark IT GmbH ( https://nic.at/registrar/618 ),,
 668bb3be-31eb-4086-8cbd-82274d0b9839,treatment.cloud,available,78,80,9,,,
@@ -174,182 +471,6 @@ aa96e338-318b-4d0a-a95b-aba2e289239f,ultrasound.site,available,84,76,10,,,
 ca03831d-ce3c-43d9-a67e-558701e3fed7,ultrasound.store,available,84,76,10,,,
 905803c0-af49-493f-ad7d-57665ac6c363,ultrasound.tech,available,84,76,10,,,
 2e4b4185-4b46-459a-8ee1-64487492d806,ultrasound.zone,available,84,76,10,,,
-5ce46314-8ef4-4375-9093-44c20f9c6251,medical.lat,expiring,100,24,7,"Spaceship, Inc.",26/08/2024 02:49,26/08/2025 23:59
-1a2c1b54-e364-4a41-8b19-4bb9042fc976,medical.lawyer,available,100,24,7,,,
-67a8319c-23fe-4080-a4da-b466d6ef5327,medical.lease,available,100,24,7,,,
-418790fb-118b-4d77-8401-9a04431ea8c2,medical.legal,expiring,100,24,7,"GoDaddy.com, LLC",26/08/2018 21:47,26/08/2025 21:47
-ccaa6548-94fa-4cf1-bfda-ba719de46ebf,medical.lgbt,available,100,24,7,,,
-df8570cf-68cd-431d-b5d2-7c09c50482c7,medical.lifestyle,available,100,24,7,,,
-b252569d-fbef-47c8-9051-c6eaf73991a8,medical.lighting,available,100,24,7,,,
-6ce79220-9567-4a33-9a23-43eccbb928f1,medical.limited,resell,100,24,7,"Sav.com, LLC",20/07/2024 14:22,20/07/2026 14:22
-2e964450-d656-44d5-a390-c5f2f509984c,medical.limo,available,100,24,7,,,
-1d629ff4-f4f4-4062-8604-49f624fad1fe,medical.living,available,100,24,7,,,
-cf57af1e-5a41-499c-bfb1-717c186ccc69,medical.llc,available,100,24,7,,,
-a4764c6a-f892-40a2-9106-b421cb960210,medical.loan,available,100,24,7,,,
-85f35b3f-dcce-4be0-91a5-7ed23b77842f,medical.loans,resell,100,24,7,"GoDaddy.com, LLC",02/12/2015 21:04,02/12/2025 21:04
-30ee7a18-07e3-4d20-b6da-0cceaaeeaaf1,medical.locker,available,100,24,7,,,
-c5f38fb1-49c2-4305-b40a-8616ab7f8d5f,medical.london,available,100,24,7,,,
-34e22892-75cf-4f15-a6fc-cb1472f853d5,medical.love,resell,100,24,7,"eNom, Inc.",04/01/2025 17:29,04/01/2026 17:29
-8b7657dc-7d11-4419-af76-a5d752df946c,medical.ltda,available,100,24,7,,,
-af3fcc66-c64c-4346-8e7a-5166fb2cbcea,medical.luxe,available,100,24,7,,,
-47cc7a3a-45b1-46b1-bcaf-d7bdc34a6d56,medical.luxury,resell,100,24,7,"Spaceship, Inc.",30/06/2024 11:50,30/06/2026 23:59
-9abf818d-641b-42be-b345-090d0915d995,medical.maison,available,100,24,7,,,
-b4ef427d-998f-41f9-aa79-52cde95e7547,medical.makeup,available,100,24,7,,,
-f13ad4ac-71b1-42a1-b14f-c83237de642c,medical.management,resell,100,24,7,Dynadot Inc,07/01/2023 15:15,07/01/2026 15:15
-d787e6c5-c17e-4a32-a42b-490befdc4b71,medical.marketing,available,100,24,7,,,
-cd3f84df-a0c1-41a2-b0ef-58baee75d041,medical.mba,available,100,24,7,,,
-f055e42c-c9eb-43b9-a35f-b26f6227fee0,medical.me,sold,100,24,7,Key-Systems GmbH,26/08/2008 22:18,26/08/2026 22:18
-390cca91-2689-42ee-94c5-0803f2a74bc5,medical.media,resell,100,24,7,"Sav.com, LLC",07/03/2024 20:31,07/03/2026 20:31
-5879ea13-e904-4539-8490-06f3d5d79bda,medical.melbourne,available,100,24,7,,,
-ca8a08ea-0930-4144-a7cd-1ddc0143b07c,medical.meme,available,100,24,7,,,
-eb050d33-2152-4a69-a56f-406d61043470,medical.memorial,available,100,24,7,,,
-84c72319-a1c7-46fe-9806-73190bfad90d,medical.men,available,100,24,7,,,
-d8f620ee-5a1d-4cce-bc97-64c6492645ef,medical.menu,available,100,24,7,,,
-b2951b85-f8e3-4554-adf4-b031b52a896b,medical.miami,available,100,24,7,,,
-ca8f4c73-d35b-4dc4-b653-38277d746c26,medical.mobi,available,100,24,7,,,
-946883a1-45b1-4e6a-a7da-e50d8594a2fc,medical.moda,available,100,24,7,,,
-078469a4-4122-415c-bdd8-5c35ec246ae2,medical.moe,available,100,24,7,,,
-171b2c6a-4b35-4797-9375-f965b07dccac,medical.mom,available,100,24,7,,,
-755bd7c3-3496-4213-882b-7a705de01486,medical.monster,resell,100,24,7,"Spaceship, Inc.",18/10/2024 01:06,18/10/2025 23:59
-3817c6bb-be82-4ef2-afb9-cbe9998011ba,medical.mortgage,available,100,24,7,,,
-8def5319-45a1-4546-adf5-0c2f3ee423a9,medical.motorcycles,available,100,24,7,,,
-ebf22c85-d257-47a7-8581-4b5509d90dbb,medical.mov,available,100,24,7,,,
-fc472ad1-7755-4fdb-8b59-8dd1659a65dc,medical.movie,available,100,24,7,,,
-868bb640-8d2e-4a03-b0a4-22492a7dbdc9,medical.music,available,100,24,7,,,
-28e61980-df52-40a6-b282-43faa542ca58,medical.name,available,100,24,7,,,
-d2f16d3e-5d20-4bec-88e6-c3f35c6832d4,medical.navy,available,100,24,7,,,
-97349619-4ee3-4612-9302-b23cfb2acccb,medical.network,resell,100,24,7,Dynadot Inc,23/02/2018 07:58,23/02/2026 07:58
-90390501-a952-43b6-b62e-3aa6b9cf91a3,medical.nexus,available,100,24,7,,,
-55f8d7ac-f6fa-4e93-839b-d11f3e2f9432,medical.ngo,available,100,24,7,,,
-3ed04b44-23a7-4587-891f-1dc2d45c0ddb,medical.ninja,available,100,24,7,,,
-f3bbcdff-fa84-423d-936c-b6f615bc3f1d,medical.nyc,available,100,24,7,,,
-669d403c-6ad6-4457-9e25-abf0840197d3,medical.observer,available,100,24,7,,,
-9aba4835-6d2b-4b5c-ab5d-3988d7715664,medical.ong,available,100,24,7,,,
-c9f5473c-e50f-4dfc-b399-5e2f6980622d,medical.onl,available,100,24,7,,,
-1e37c2fc-93a9-4398-b650-6bcc7d86661c,medical.ooo,available,100,24,7,,,
-43d24c8b-7ef2-460e-841b-bb4bf703d029,medical.organic,available,100,24,7,,,
-e2a0f41d-a259-4cbc-ba90-2109314135ba,medical.osaka,available,100,24,7,,,
-dd8c6045-22c3-4d9f-86fd-2fb1c1df5c52,medical.partners,available,100,24,7,,,
-d6405dba-5696-405e-ae94-11bb969bc40e,medical.parts,expiring,100,24,7,"GoDaddy.com, LLC",18/09/2014 22:45,18/09/2025 22:45
-b2b6eca6-2c36-4439-b41a-279c2e7632e7,medical.party,available,100,24,7,,,
-8491b925-1f13-4a8d-ae36-24c59307f8e0,medical.phd,available,100,24,7,,,
-a4b21694-3723-4970-afbb-f13df3e589e7,medical.photo,available,100,24,7,,,
-3c90b556-fe85-4035-8ce8-93a09361b317,medical.pics,expiring,100,24,7,Namecheap,09/09/2024 07:28,09/09/2025 23:59
-6970a3ed-4eee-4071-91f8-eaecbd036b54,medical.pictures,available,100,24,7,,,
-c5e92270-22b7-4d14-bff4-bb58a72e4f93,medical.pizza,available,100,24,7,,,
-7167c5e2-6c44-4db7-8252-eba35db1c1b2,medical.plumbing,available,100,24,7,,,
-cd2fd9fb-e8f8-473b-bddc-8d6321e72915,medical.poker,available,100,24,7,,,
-5063376a-006c-449b-b574-8f01d9833a88,medical.porn,available,100,24,7,,,
-8ce50bdc-5543-4c57-be04-96ba4d5f5090,medical.pro,available,100,24,7,,,
-c1b1965d-efc9-468c-82a1-ce4da54fb77e,medical.productions,available,100,24,7,,,
-1926e236-dd09-46a6-95ba-c8fbaf39acf9,medical.prof,available,100,24,7,,,
-2bed47d0-0eed-4bfe-885d-fdd73acebe2a,medical.promo,resell,100,24,7,1API GmbH,23/05/2016 16:00,23/05/2026 16:00
-5d2cb7ff-0582-4282-a167-3cb515365def,medical.property,available,100,24,7,,,
-a50a335b-c54b-44cd-bee1-7fa312d6af32,medical.protection,available,100,24,7,,,
-a91b1747-1e32-4439-826e-b7bdcf611308,medical.pub,available,100,24,7,,,
-be23264b-2c20-4dcd-86cb-4eb2ab50bc84,medical.pw,available,100,24,7,,,
-94d51709-c97c-4fb4-88e2-0aebc784052c,medical.qpon,available,100,24,7,,,
-057c91d2-35b6-407c-8fd0-44e7aef691c1,medical.quest,available,100,24,7,,,
-e31849e1-5258-4035-b8a4-5f7b33bfa20b,medical.racing,available,100,24,7,,,
-be536242-e46b-4dfe-8210-5dcb158c36c3,medical.realty,available,100,24,7,,,
-48b1461c-3fe9-41e9-bd8b-ec49af56672a,medical.recipes,available,100,24,7,,,
-d82b139c-7879-4103-959e-2ba31e252353,medical.red,resell,100,24,7,Squarespace Domains II LLC,09/11/2019 10:11,09/11/2028 10:11
-1cd48d71-440e-478d-9e66-b5f5257ec7f2,medical.rehab,available,100,24,7,,,
-fca23d73-eeae-4f81-868c-17249a4c86b9,medical.reise,available,100,24,7,,,
-51af0587-65b9-48f7-9029-7720b9157173,medical.rent,available,100,24,7,,,
-3c3d7bdf-b159-48e4-b8b4-8e423d19a745,medical.report,available,100,24,7,,,
-52699175-40fa-4d20-acbe-d589da9c7c94,medical.republican,available,100,24,7,,,
-fe80ccbb-83ff-422a-a413-f809ab0284bc,medical.rest,available,100,24,7,,,
-ca0a5dca-aea7-48f9-bd52-bd4bd8b59b2d,medical.restaurant,available,100,24,7,,,
-0be51a84-d727-4f85-8147-cab299a951f8,medical.review,available,100,24,7,,,
-0181b495-9b46-4a63-9ea9-7a37cf4ea017,medical.reviews,available,100,24,7,,,
-067af24e-dec3-4c64-bca2-974c693c7ad2,medical.rich,available,100,24,7,,,
-a0a91760-aa89-4269-aeaa-0527bf4a7f5e,medical.rip,available,100,24,7,,,
-8697078d-866e-463a-8f30-7053a6d80291,medical.rocks,resell,100,24,7,Porkbun LLC,30/12/2020 18:11,30/12/2025 18:11
-e1c29344-401e-41e4-b075-acefe80979a8,medical.rodeo,available,100,24,7,,,
-47e3ac18-4e06-4efa-a988-d8aee46ee8c5,medical.rsvp,available,100,24,7,,,
-4995ada0-24e4-433c-99ce-bba5ef747017,medical.sale,available,100,24,7,,,
-958eec22-a8f7-42e8-93ed-c28d2119e029,medical.salon,available,100,24,7,,,
-9f051c65-de84-4706-a71c-4b2604599d6c,medical.sarl,available,100,24,7,,,
-2b4167ac-880d-4008-8a0c-2106c1aa1c7d,medical.sbs,available,100,24,7,,,
-af96484f-76d1-4a94-8aaa-c0386e6a1b3a,medical.school,available,100,24,7,,,
-682d212f-e5bf-4757-96ea-5bf63e647ef0,medical.science,available,100,24,7,,,
-f7eb3397-61c9-4844-9b84-769e19f38fda,medical.security,available,100,24,7,,,
-82082d2d-b43e-481d-9f1a-86ed66ca758c,medical.services,expired,100,24,7,"Name.com, Inc.",13/06/2024 01:36,13/06/2025 01:36
-706485c8-96a4-41e9-8472-c91718ba3028,medical.sexy,available,100,24,7,,,
-4ae9a1f5-cff3-4af9-8ba4-3e2354923ff0,medical.sh,available,100,24,7,,,
-ed4cb1e9-e57a-4835-9741-41ac39a00968,medical.shiksha,available,100,24,7,,,
-5b06bb64-e2f8-4bc5-9ad8-7afa942b1bcb,medical.shoes,resell,100,24,7,Dynadot Inc,20/05/2019 10:07,20/05/2026 10:07
-928096f9-e145-4deb-9f37-7c658f2c7a5d,medical.shopping,resell,100,24,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/06/2023 15:15,16/06/2026 15:15
-9c738cce-48e0-4a6d-a25e-43109c47b107,medical.site,available,100,24,7,,,
-9735bab7-b25d-4dca-99ff-6b32025a4e9a,medical.skin,available,100,24,7,,,
-e1bdb1d6-1c6f-4198-814c-b1ba0ef0cb5a,medical.soccer,available,100,24,7,,,
-04dd266d-7a07-475f-85b5-8350eef52539,medical.software,available,100,24,7,,,
-4772a7f8-b683-4607-bb8b-4cb47c2a5553,medical.solar,available,100,24,7,,,
-c701e7d7-6057-4c9e-8746-68be9cb80c0f,medical.solutions,expiring,100,24,7,Porkbun LLC,10/09/2016 12:40,10/09/2025 12:40
-f98d09ba-e8f2-4af5-bc37-91e83fc0921f,medical.soy,available,100,24,7,,,
-bb1c0442-9204-4d9c-9c50-e02653a0ebb0,medical.space,available,100,24,7,,,
-ef13121c-7c15-4347-ab13-7b73c0c82c10,medical.spot,available,100,24,7,,,
-7ac63ca5-d65a-42ea-9688-ad0cda81817c,medical.srl,available,100,24,7,,,
-f119e2b2-20d9-4dbc-9499-ffb9eac93ae0,medical.store,available,100,24,7,,,
-3eef2cd5-5119-4ad7-a0a2-b66306034e06,medical.stream,available,100,24,7,,,
-a66b9ee4-7f1f-400f-bbbd-7e4913fbe621,medical.studio,available,100,24,7,,,
-547a2905-73cc-42cc-bb17-eb46903da301,medical.study,available,100,24,7,,,
-298baad4-f07a-408e-82e8-9b0fbcd8ed6f,medical.style,resell,100,24,7,"Sav.com, LLC",02/08/2024 15:20,02/08/2026 15:20
-e9bcd3b0-02d5-400b-ac10-b07a7b00c173,medical.sucks,available,100,24,7,,,
-8a623f21-d1e3-4e39-913a-b7cd9ad59ae6,medical.supplies,expiring,100,24,7,"Name.com, Inc.",21/09/2023 19:28,21/09/2025 19:28
-d0e2eeae-e438-43f6-b60c-ba6507f54e54,medical.supply,resell,100,24,7,1API GmbH,09/08/2015 16:00,09/08/2026 16:00
-34b3875d-9a2d-4c9d-89ea-913e5399a01b,medical.support,available,100,24,7,,,
-8f05351a-83db-4994-9bab-184e34706117,medical.surf,available,100,24,7,,,
-535a685d-bb50-497e-8f6a-27a3428bd36a,medical.surgery,available,100,24,7,,,
-3bb89662-6c1f-4ac4-ae5a-b0af7584cd0c,medical.sydney,available,100,24,7,,,
-90216fcf-8f7c-4d5b-a8ef-f27ac44a5da6,medical.tech,resell,100,24,7,NAME DOT STORE INC,02/04/2019 14:11,02/04/2029 23:59
-88dff7ad-0876-4ab6-8de2-48d302070d5d,medical.tel,expired,100,24,7,"Spaceship, Inc.",23/08/2024 21:30,23/08/2025 21:30
-76d2160a-160b-43d2-b263-54a8b75ca5af,medical.tennis,available,100,24,7,,,
-7c99fb9a-a2ef-452a-af8b-f6b8cac4ae9b,medical.theater,available,100,24,7,,,
-321a9d31-142a-4df9-912e-fe6014d1125c,medical.theatre,available,100,24,7,,,
-9dc30612-d7b8-4631-958e-cf1e85b7006c,medical.tickets,available,100,24,7,,,
-2094464f-4ec7-4433-b095-9faebcf2ae33,medical.tienda,available,100,24,7,,,
-1fe73432-2f4f-4b51-b5bc-3dcb3d1916c2,medical.tips,resell,100,24,7,"Spaceship, Inc.",11/05/2023 15:15,11/05/2026 15:15
-4a3fb1d9-c679-4198-9185-d4330c459a12,medical.tires,available,100,24,7,,,
-0a36e537-bac9-4a16-bddb-08b0b2a6e9c3,medical.today,resell,100,24,7,"GoDaddy.com, LLC",07/08/2023 04:25,07/08/2027 04:25
-df62160a-c904-4b65-9816-e5f8d29dbfe3,medical.tools,available,100,24,7,,,
-482e2638-60c2-4be8-b7bf-f55f691767da,medical.top,available,100,24,7,,,
-3e090405-70b6-4226-ba96-bd7e79a0916c,medical.tours,expiring,100,24,7,"GoDaddy.com, LLC",24/09/2016 17:06,24/09/2025 17:06
-c2fc93d2-f3ae-4b94-b4dc-e30ed96e714d,medical.town,available,100,24,7,,,
-38fef62d-8927-4d8e-8e93-5ff46ddb6620,medical.trade,available,100,24,7,,,
-0b7f8f83-c653-40fa-b39f-9339e77ebb24,medical.tv,resell,100,24,7,"Spaceship, Inc.",19/03/2010 04:08,19/03/2026 04:08
-5240c8a0-ad88-4587-92f5-0cb55cf245d6,medical.university,resell,100,24,7,"Sav.com, LLC - 21",04/10/2024 15:15,04/10/2025 15:15
-31e10ee8-c2ed-49f4-aca0-b10fd988a23a,medical.uno,available,100,24,7,,,
-6fffa4e8-0b28-4b22-8df4-17f9faf5d7b2,medical.us,resell,100,24,7,"GoDaddy.com, LLC",24/04/2002 14:02,23/04/2026 23:59
-78cc3f26-f7bf-478c-9875-df140ac33e49,medical.vacations,available,100,24,7,,,
-d7dc6e41-5cd7-400c-b562-cc856d52cb6a,medical.vana,available,100,24,7,,,
-a1aa743e-29bf-476c-96eb-ac889e835e98,medical.vc,expiring,100,24,7,"NameCheap, Inc.",26/09/2016 05:45,26/09/2025 05:45
-48c5a43a-f63a-4b20-8c48-98c3a2170608,medical.ventures,resell,100,24,7,Dynadot Inc,09/07/2021 11:57,09/07/2026 11:57
-40969439-73c5-441e-8a40-f67a35ec369a,medical.viajes,available,100,24,7,,,
-9f828083-260a-4f25-b4f1-dd3f0b477397,medical.video,available,100,24,7,,,
-6a46c62d-057a-4a5a-9859-61be5960793e,medical.villas,available,100,24,7,,,
-71e80f39-11d6-4b73-b329-8a58a89bfab4,medical.vin,available,100,24,7,,,
-5a33141f-0726-463b-9427-d3e767650694,medical.vip,resell,100,24,7,Go France Domains Inc,23/01/2021 00:11,23/01/2027 00:11
-06c4b069-e983-48d5-8df2-0d0c63d4491b,medical.vision,resell,100,24,7,"Sav.com, LLC",03/02/2023 01:41,03/02/2026 01:41
-ac593f87-b4d6-4f0b-9852-ef9e2fcda264,medical.vodka,available,100,24,7,,,
-80a3c63f-6b9d-4340-85f8-17fa657a7e7e,medical.vote,available,100,24,7,,,
-83f93a60-2418-4be4-9ecb-b2421e21914e,medical.voting,available,100,24,7,,,
-afac10f0-9f23-49c5-b8ff-69521bdea5b2,medical.voto,available,100,24,7,,,
-0c47a1ce-3d64-457f-a130-30b80cfe5b8c,medical.voyage,available,100,24,7,,,
-4ad5a09e-60aa-4140-b763-3356908fee78,medical.webcam,available,100,24,7,,,
-4218b3e7-3d5e-4e86-972f-d67a54314172,medical.website,available,100,24,7,,,
-895f3379-9e22-4a8a-a457-87de592dc5ed,medical.wedding,available,100,24,7,,,
-50f56e40-f977-4103-a262-f00c48f656f5,medical.wiki,available,100,24,7,,,
-4052ba70-903d-4812-9ba7-bf7fe07ba3a0,medical.win,available,100,24,7,,,
-2081891b-f819-4622-afdd-dd9f892e54a5,medical.wine,available,100,24,7,,,
-cfec8d97-8401-4c5b-be46-ddebe2ded3f5,medical.work,resell,100,24,7,Dynadot Inc,16/04/2020 08:07,16/04/2029 08:07
-6681cb6e-d7a5-4c21-ba9b-35c8e7fabbf0,medical.works,available,100,24,7,,,
-43937a7a-5d72-4a0e-9641-518fb919ebf5,medical.wtf,available,100,24,7,,,
-c55c583e-1c8d-4fce-9cc5-bf12a057394d,medical.xyz,resell,100,24,7,"Sav.com, LLC",18/11/2021 05:37,18/11/2025 23:59
-ee173f4f-9ede-447d-be08-d4f2ebe2b48c,medical.yachts,available,100,24,7,,,
-c2293097-19da-4c94-b222-267897ec19ce,medical.zip,available,100,24,7,,,
-10463a1a-9ffe-461f-9de8-72bf9e477865,medical.zone,resell,100,24,7,Porkbun LLC,27/04/2014 17:22,27/04/2026 17:22
 2955d2e2-7d34-4c69-99e5-742dba780d5c,medical.accountant,available,100,24,7,,,
 15017a3a-b40e-4388-886e-44f2def9ac3e,medical.accountants,available,100,24,7,,,
 853ad49a-c950-4460-bff1-3a861d75f915,medical.actor,available,100,24,7,,,
@@ -537,6 +658,182 @@ c899c65b-7d1c-4ba5-ab50-a5ae57aca3cc,medical.io,resell,100,24,7,"GoDaddy.com, LL
 2148bc7e-ea0f-4352-89ff-d00d4d2fc0b2,medical.kids,available,100,24,7,,,
 093b7978-a681-4339-aa26-06ca1da552bc,medical.kitchen,available,100,24,7,,,
 7d833faa-44dd-43c7-9eff-38817c31a479,medical.land,resell,100,24,7,"Spaceship, Inc.",27/05/2022 00:32,27/05/2026 00:32
+5ce46314-8ef4-4375-9093-44c20f9c6251,medical.lat,expiring,100,24,7,"Spaceship, Inc.",26/08/2024 02:49,26/08/2025 23:59
+1a2c1b54-e364-4a41-8b19-4bb9042fc976,medical.lawyer,available,100,24,7,,,
+67a8319c-23fe-4080-a4da-b466d6ef5327,medical.lease,available,100,24,7,,,
+418790fb-118b-4d77-8401-9a04431ea8c2,medical.legal,expiring,100,24,7,"GoDaddy.com, LLC",26/08/2018 21:47,26/08/2025 21:47
+ccaa6548-94fa-4cf1-bfda-ba719de46ebf,medical.lgbt,available,100,24,7,,,
+df8570cf-68cd-431d-b5d2-7c09c50482c7,medical.lifestyle,available,100,24,7,,,
+b252569d-fbef-47c8-9051-c6eaf73991a8,medical.lighting,available,100,24,7,,,
+6ce79220-9567-4a33-9a23-43eccbb928f1,medical.limited,resell,100,24,7,"Sav.com, LLC",20/07/2024 14:22,20/07/2026 14:22
+2e964450-d656-44d5-a390-c5f2f509984c,medical.limo,available,100,24,7,,,
+1d629ff4-f4f4-4062-8604-49f624fad1fe,medical.living,available,100,24,7,,,
+cf57af1e-5a41-499c-bfb1-717c186ccc69,medical.llc,available,100,24,7,,,
+a4764c6a-f892-40a2-9106-b421cb960210,medical.loan,available,100,24,7,,,
+85f35b3f-dcce-4be0-91a5-7ed23b77842f,medical.loans,resell,100,24,7,"GoDaddy.com, LLC",02/12/2015 21:04,02/12/2025 21:04
+30ee7a18-07e3-4d20-b6da-0cceaaeeaaf1,medical.locker,available,100,24,7,,,
+c5f38fb1-49c2-4305-b40a-8616ab7f8d5f,medical.london,available,100,24,7,,,
+34e22892-75cf-4f15-a6fc-cb1472f853d5,medical.love,resell,100,24,7,"eNom, Inc.",04/01/2025 17:29,04/01/2026 17:29
+8b7657dc-7d11-4419-af76-a5d752df946c,medical.ltda,available,100,24,7,,,
+af3fcc66-c64c-4346-8e7a-5166fb2cbcea,medical.luxe,available,100,24,7,,,
+47cc7a3a-45b1-46b1-bcaf-d7bdc34a6d56,medical.luxury,resell,100,24,7,"Spaceship, Inc.",30/06/2024 11:50,30/06/2026 23:59
+9abf818d-641b-42be-b345-090d0915d995,medical.maison,available,100,24,7,,,
+b4ef427d-998f-41f9-aa79-52cde95e7547,medical.makeup,available,100,24,7,,,
+f13ad4ac-71b1-42a1-b14f-c83237de642c,medical.management,resell,100,24,7,Dynadot Inc,07/01/2023 15:15,07/01/2026 15:15
+d787e6c5-c17e-4a32-a42b-490befdc4b71,medical.marketing,available,100,24,7,,,
+cd3f84df-a0c1-41a2-b0ef-58baee75d041,medical.mba,available,100,24,7,,,
+f055e42c-c9eb-43b9-a35f-b26f6227fee0,medical.me,sold,100,24,7,Key-Systems GmbH,26/08/2008 22:18,26/08/2026 22:18
+390cca91-2689-42ee-94c5-0803f2a74bc5,medical.media,resell,100,24,7,"Sav.com, LLC",07/03/2024 20:31,07/03/2026 20:31
+5879ea13-e904-4539-8490-06f3d5d79bda,medical.melbourne,available,100,24,7,,,
+ca8a08ea-0930-4144-a7cd-1ddc0143b07c,medical.meme,available,100,24,7,,,
+eb050d33-2152-4a69-a56f-406d61043470,medical.memorial,available,100,24,7,,,
+84c72319-a1c7-46fe-9806-73190bfad90d,medical.men,available,100,24,7,,,
+d8f620ee-5a1d-4cce-bc97-64c6492645ef,medical.menu,available,100,24,7,,,
+b2951b85-f8e3-4554-adf4-b031b52a896b,medical.miami,available,100,24,7,,,
+ca8f4c73-d35b-4dc4-b653-38277d746c26,medical.mobi,available,100,24,7,,,
+946883a1-45b1-4e6a-a7da-e50d8594a2fc,medical.moda,available,100,24,7,,,
+078469a4-4122-415c-bdd8-5c35ec246ae2,medical.moe,available,100,24,7,,,
+171b2c6a-4b35-4797-9375-f965b07dccac,medical.mom,available,100,24,7,,,
+755bd7c3-3496-4213-882b-7a705de01486,medical.monster,resell,100,24,7,"Spaceship, Inc.",18/10/2024 01:06,18/10/2025 23:59
+3817c6bb-be82-4ef2-afb9-cbe9998011ba,medical.mortgage,available,100,24,7,,,
+8def5319-45a1-4546-adf5-0c2f3ee423a9,medical.motorcycles,available,100,24,7,,,
+ebf22c85-d257-47a7-8581-4b5509d90dbb,medical.mov,available,100,24,7,,,
+fc472ad1-7755-4fdb-8b59-8dd1659a65dc,medical.movie,available,100,24,7,,,
+868bb640-8d2e-4a03-b0a4-22492a7dbdc9,medical.music,available,100,24,7,,,
+28e61980-df52-40a6-b282-43faa542ca58,medical.name,available,100,24,7,,,
+d2f16d3e-5d20-4bec-88e6-c3f35c6832d4,medical.navy,available,100,24,7,,,
+97349619-4ee3-4612-9302-b23cfb2acccb,medical.network,resell,100,24,7,Dynadot Inc,23/02/2018 07:58,23/02/2026 07:58
+90390501-a952-43b6-b62e-3aa6b9cf91a3,medical.nexus,available,100,24,7,,,
+55f8d7ac-f6fa-4e93-839b-d11f3e2f9432,medical.ngo,available,100,24,7,,,
+3ed04b44-23a7-4587-891f-1dc2d45c0ddb,medical.ninja,available,100,24,7,,,
+f3bbcdff-fa84-423d-936c-b6f615bc3f1d,medical.nyc,available,100,24,7,,,
+669d403c-6ad6-4457-9e25-abf0840197d3,medical.observer,available,100,24,7,,,
+9aba4835-6d2b-4b5c-ab5d-3988d7715664,medical.ong,available,100,24,7,,,
+c9f5473c-e50f-4dfc-b399-5e2f6980622d,medical.onl,available,100,24,7,,,
+1e37c2fc-93a9-4398-b650-6bcc7d86661c,medical.ooo,available,100,24,7,,,
+43d24c8b-7ef2-460e-841b-bb4bf703d029,medical.organic,available,100,24,7,,,
+e2a0f41d-a259-4cbc-ba90-2109314135ba,medical.osaka,available,100,24,7,,,
+dd8c6045-22c3-4d9f-86fd-2fb1c1df5c52,medical.partners,available,100,24,7,,,
+d6405dba-5696-405e-ae94-11bb969bc40e,medical.parts,expiring,100,24,7,"GoDaddy.com, LLC",18/09/2014 22:45,18/09/2025 22:45
+b2b6eca6-2c36-4439-b41a-279c2e7632e7,medical.party,available,100,24,7,,,
+8491b925-1f13-4a8d-ae36-24c59307f8e0,medical.phd,available,100,24,7,,,
+a4b21694-3723-4970-afbb-f13df3e589e7,medical.photo,available,100,24,7,,,
+3c90b556-fe85-4035-8ce8-93a09361b317,medical.pics,expiring,100,24,7,Namecheap,09/09/2024 07:28,09/09/2025 23:59
+6970a3ed-4eee-4071-91f8-eaecbd036b54,medical.pictures,available,100,24,7,,,
+c5e92270-22b7-4d14-bff4-bb58a72e4f93,medical.pizza,available,100,24,7,,,
+7167c5e2-6c44-4db7-8252-eba35db1c1b2,medical.plumbing,available,100,24,7,,,
+cd2fd9fb-e8f8-473b-bddc-8d6321e72915,medical.poker,available,100,24,7,,,
+5063376a-006c-449b-b574-8f01d9833a88,medical.porn,available,100,24,7,,,
+8ce50bdc-5543-4c57-be04-96ba4d5f5090,medical.pro,available,100,24,7,,,
+c1b1965d-efc9-468c-82a1-ce4da54fb77e,medical.productions,available,100,24,7,,,
+1926e236-dd09-46a6-95ba-c8fbaf39acf9,medical.prof,available,100,24,7,,,
+2bed47d0-0eed-4bfe-885d-fdd73acebe2a,medical.promo,resell,100,24,7,1API GmbH,23/05/2016 16:00,23/05/2026 16:00
+5d2cb7ff-0582-4282-a167-3cb515365def,medical.property,available,100,24,7,,,
+a50a335b-c54b-44cd-bee1-7fa312d6af32,medical.protection,available,100,24,7,,,
+a91b1747-1e32-4439-826e-b7bdcf611308,medical.pub,available,100,24,7,,,
+be23264b-2c20-4dcd-86cb-4eb2ab50bc84,medical.pw,available,100,24,7,,,
+94d51709-c97c-4fb4-88e2-0aebc784052c,medical.qpon,available,100,24,7,,,
+057c91d2-35b6-407c-8fd0-44e7aef691c1,medical.quest,available,100,24,7,,,
+e31849e1-5258-4035-b8a4-5f7b33bfa20b,medical.racing,available,100,24,7,,,
+be536242-e46b-4dfe-8210-5dcb158c36c3,medical.realty,available,100,24,7,,,
+48b1461c-3fe9-41e9-bd8b-ec49af56672a,medical.recipes,available,100,24,7,,,
+d82b139c-7879-4103-959e-2ba31e252353,medical.red,resell,100,24,7,Squarespace Domains II LLC,09/11/2019 10:11,09/11/2028 10:11
+1cd48d71-440e-478d-9e66-b5f5257ec7f2,medical.rehab,available,100,24,7,,,
+fca23d73-eeae-4f81-868c-17249a4c86b9,medical.reise,available,100,24,7,,,
+51af0587-65b9-48f7-9029-7720b9157173,medical.rent,available,100,24,7,,,
+3c3d7bdf-b159-48e4-b8b4-8e423d19a745,medical.report,available,100,24,7,,,
+52699175-40fa-4d20-acbe-d589da9c7c94,medical.republican,available,100,24,7,,,
+fe80ccbb-83ff-422a-a413-f809ab0284bc,medical.rest,available,100,24,7,,,
+ca0a5dca-aea7-48f9-bd52-bd4bd8b59b2d,medical.restaurant,available,100,24,7,,,
+0be51a84-d727-4f85-8147-cab299a951f8,medical.review,available,100,24,7,,,
+0181b495-9b46-4a63-9ea9-7a37cf4ea017,medical.reviews,available,100,24,7,,,
+067af24e-dec3-4c64-bca2-974c693c7ad2,medical.rich,available,100,24,7,,,
+a0a91760-aa89-4269-aeaa-0527bf4a7f5e,medical.rip,available,100,24,7,,,
+8697078d-866e-463a-8f30-7053a6d80291,medical.rocks,resell,100,24,7,Porkbun LLC,30/12/2020 18:11,30/12/2025 18:11
+e1c29344-401e-41e4-b075-acefe80979a8,medical.rodeo,available,100,24,7,,,
+47e3ac18-4e06-4efa-a988-d8aee46ee8c5,medical.rsvp,available,100,24,7,,,
+4995ada0-24e4-433c-99ce-bba5ef747017,medical.sale,available,100,24,7,,,
+958eec22-a8f7-42e8-93ed-c28d2119e029,medical.salon,available,100,24,7,,,
+9f051c65-de84-4706-a71c-4b2604599d6c,medical.sarl,available,100,24,7,,,
+2b4167ac-880d-4008-8a0c-2106c1aa1c7d,medical.sbs,available,100,24,7,,,
+af96484f-76d1-4a94-8aaa-c0386e6a1b3a,medical.school,available,100,24,7,,,
+682d212f-e5bf-4757-96ea-5bf63e647ef0,medical.science,available,100,24,7,,,
+f7eb3397-61c9-4844-9b84-769e19f38fda,medical.security,available,100,24,7,,,
+82082d2d-b43e-481d-9f1a-86ed66ca758c,medical.services,expired,100,24,7,"Name.com, Inc.",13/06/2024 01:36,13/06/2025 01:36
+706485c8-96a4-41e9-8472-c91718ba3028,medical.sexy,available,100,24,7,,,
+4ae9a1f5-cff3-4af9-8ba4-3e2354923ff0,medical.sh,available,100,24,7,,,
+ed4cb1e9-e57a-4835-9741-41ac39a00968,medical.shiksha,available,100,24,7,,,
+5b06bb64-e2f8-4bc5-9ad8-7afa942b1bcb,medical.shoes,resell,100,24,7,Dynadot Inc,20/05/2019 10:07,20/05/2026 10:07
+928096f9-e145-4deb-9f37-7c658f2c7a5d,medical.shopping,resell,100,24,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/06/2023 15:15,16/06/2026 15:15
+9c738cce-48e0-4a6d-a25e-43109c47b107,medical.site,available,100,24,7,,,
+9735bab7-b25d-4dca-99ff-6b32025a4e9a,medical.skin,available,100,24,7,,,
+e1bdb1d6-1c6f-4198-814c-b1ba0ef0cb5a,medical.soccer,available,100,24,7,,,
+04dd266d-7a07-475f-85b5-8350eef52539,medical.software,available,100,24,7,,,
+4772a7f8-b683-4607-bb8b-4cb47c2a5553,medical.solar,available,100,24,7,,,
+c701e7d7-6057-4c9e-8746-68be9cb80c0f,medical.solutions,expiring,100,24,7,Porkbun LLC,10/09/2016 12:40,10/09/2025 12:40
+f98d09ba-e8f2-4af5-bc37-91e83fc0921f,medical.soy,available,100,24,7,,,
+bb1c0442-9204-4d9c-9c50-e02653a0ebb0,medical.space,available,100,24,7,,,
+ef13121c-7c15-4347-ab13-7b73c0c82c10,medical.spot,available,100,24,7,,,
+7ac63ca5-d65a-42ea-9688-ad0cda81817c,medical.srl,available,100,24,7,,,
+f119e2b2-20d9-4dbc-9499-ffb9eac93ae0,medical.store,available,100,24,7,,,
+3eef2cd5-5119-4ad7-a0a2-b66306034e06,medical.stream,available,100,24,7,,,
+a66b9ee4-7f1f-400f-bbbd-7e4913fbe621,medical.studio,available,100,24,7,,,
+547a2905-73cc-42cc-bb17-eb46903da301,medical.study,available,100,24,7,,,
+298baad4-f07a-408e-82e8-9b0fbcd8ed6f,medical.style,resell,100,24,7,"Sav.com, LLC",02/08/2024 15:20,02/08/2026 15:20
+e9bcd3b0-02d5-400b-ac10-b07a7b00c173,medical.sucks,available,100,24,7,,,
+8a623f21-d1e3-4e39-913a-b7cd9ad59ae6,medical.supplies,expiring,100,24,7,"Name.com, Inc.",21/09/2023 19:28,21/09/2025 19:28
+d0e2eeae-e438-43f6-b60c-ba6507f54e54,medical.supply,resell,100,24,7,1API GmbH,09/08/2015 16:00,09/08/2026 16:00
+34b3875d-9a2d-4c9d-89ea-913e5399a01b,medical.support,available,100,24,7,,,
+8f05351a-83db-4994-9bab-184e34706117,medical.surf,available,100,24,7,,,
+535a685d-bb50-497e-8f6a-27a3428bd36a,medical.surgery,available,100,24,7,,,
+3bb89662-6c1f-4ac4-ae5a-b0af7584cd0c,medical.sydney,available,100,24,7,,,
+90216fcf-8f7c-4d5b-a8ef-f27ac44a5da6,medical.tech,resell,100,24,7,NAME DOT STORE INC,02/04/2019 14:11,02/04/2029 23:59
+88dff7ad-0876-4ab6-8de2-48d302070d5d,medical.tel,expired,100,24,7,"Spaceship, Inc.",23/08/2024 21:30,23/08/2025 21:30
+76d2160a-160b-43d2-b263-54a8b75ca5af,medical.tennis,available,100,24,7,,,
+7c99fb9a-a2ef-452a-af8b-f6b8cac4ae9b,medical.theater,available,100,24,7,,,
+321a9d31-142a-4df9-912e-fe6014d1125c,medical.theatre,available,100,24,7,,,
+9dc30612-d7b8-4631-958e-cf1e85b7006c,medical.tickets,available,100,24,7,,,
+2094464f-4ec7-4433-b095-9faebcf2ae33,medical.tienda,available,100,24,7,,,
+1fe73432-2f4f-4b51-b5bc-3dcb3d1916c2,medical.tips,resell,100,24,7,"Spaceship, Inc.",11/05/2023 15:15,11/05/2026 15:15
+4a3fb1d9-c679-4198-9185-d4330c459a12,medical.tires,available,100,24,7,,,
+0a36e537-bac9-4a16-bddb-08b0b2a6e9c3,medical.today,resell,100,24,7,"GoDaddy.com, LLC",07/08/2023 04:25,07/08/2027 04:25
+df62160a-c904-4b65-9816-e5f8d29dbfe3,medical.tools,available,100,24,7,,,
+482e2638-60c2-4be8-b7bf-f55f691767da,medical.top,available,100,24,7,,,
+3e090405-70b6-4226-ba96-bd7e79a0916c,medical.tours,expiring,100,24,7,"GoDaddy.com, LLC",24/09/2016 17:06,24/09/2025 17:06
+c2fc93d2-f3ae-4b94-b4dc-e30ed96e714d,medical.town,available,100,24,7,,,
+38fef62d-8927-4d8e-8e93-5ff46ddb6620,medical.trade,available,100,24,7,,,
+0b7f8f83-c653-40fa-b39f-9339e77ebb24,medical.tv,resell,100,24,7,"Spaceship, Inc.",19/03/2010 04:08,19/03/2026 04:08
+5240c8a0-ad88-4587-92f5-0cb55cf245d6,medical.university,resell,100,24,7,"Sav.com, LLC - 21",04/10/2024 15:15,04/10/2025 15:15
+31e10ee8-c2ed-49f4-aca0-b10fd988a23a,medical.uno,available,100,24,7,,,
+6fffa4e8-0b28-4b22-8df4-17f9faf5d7b2,medical.us,resell,100,24,7,"GoDaddy.com, LLC",24/04/2002 14:02,23/04/2026 23:59
+78cc3f26-f7bf-478c-9875-df140ac33e49,medical.vacations,available,100,24,7,,,
+d7dc6e41-5cd7-400c-b562-cc856d52cb6a,medical.vana,available,100,24,7,,,
+a1aa743e-29bf-476c-96eb-ac889e835e98,medical.vc,expiring,100,24,7,"NameCheap, Inc.",26/09/2016 05:45,26/09/2025 05:45
+48c5a43a-f63a-4b20-8c48-98c3a2170608,medical.ventures,resell,100,24,7,Dynadot Inc,09/07/2021 11:57,09/07/2026 11:57
+40969439-73c5-441e-8a40-f67a35ec369a,medical.viajes,available,100,24,7,,,
+9f828083-260a-4f25-b4f1-dd3f0b477397,medical.video,available,100,24,7,,,
+6a46c62d-057a-4a5a-9859-61be5960793e,medical.villas,available,100,24,7,,,
+71e80f39-11d6-4b73-b329-8a58a89bfab4,medical.vin,available,100,24,7,,,
+5a33141f-0726-463b-9427-d3e767650694,medical.vip,resell,100,24,7,Go France Domains Inc,23/01/2021 00:11,23/01/2027 00:11
+06c4b069-e983-48d5-8df2-0d0c63d4491b,medical.vision,resell,100,24,7,"Sav.com, LLC",03/02/2023 01:41,03/02/2026 01:41
+ac593f87-b4d6-4f0b-9852-ef9e2fcda264,medical.vodka,available,100,24,7,,,
+80a3c63f-6b9d-4340-85f8-17fa657a7e7e,medical.vote,available,100,24,7,,,
+83f93a60-2418-4be4-9ecb-b2421e21914e,medical.voting,available,100,24,7,,,
+afac10f0-9f23-49c5-b8ff-69521bdea5b2,medical.voto,available,100,24,7,,,
+0c47a1ce-3d64-457f-a130-30b80cfe5b8c,medical.voyage,available,100,24,7,,,
+4ad5a09e-60aa-4140-b763-3356908fee78,medical.webcam,available,100,24,7,,,
+4218b3e7-3d5e-4e86-972f-d67a54314172,medical.website,available,100,24,7,,,
+895f3379-9e22-4a8a-a457-87de592dc5ed,medical.wedding,available,100,24,7,,,
+50f56e40-f977-4103-a262-f00c48f656f5,medical.wiki,available,100,24,7,,,
+4052ba70-903d-4812-9ba7-bf7fe07ba3a0,medical.win,available,100,24,7,,,
+2081891b-f819-4622-afdd-dd9f892e54a5,medical.wine,available,100,24,7,,,
+cfec8d97-8401-4c5b-be46-ddebe2ded3f5,medical.work,resell,100,24,7,Dynadot Inc,16/04/2020 08:07,16/04/2029 08:07
+6681cb6e-d7a5-4c21-ba9b-35c8e7fabbf0,medical.works,available,100,24,7,,,
+43937a7a-5d72-4a0e-9641-518fb919ebf5,medical.wtf,available,100,24,7,,,
+c55c583e-1c8d-4fce-9cc5-bf12a057394d,medical.xyz,resell,100,24,7,"Sav.com, LLC",18/11/2021 05:37,18/11/2025 23:59
+ee173f4f-9ede-447d-be08-d4f2ebe2b48c,medical.yachts,available,100,24,7,,,
+c2293097-19da-4c94-b222-267897ec19ce,medical.zip,available,100,24,7,,,
+10463a1a-9ffe-461f-9de8-72bf9e477865,medical.zone,resell,100,24,7,Porkbun LLC,27/04/2014 17:22,27/04/2026 17:22
 27bc48bb-2a14-40cb-8b3b-bba3f9125598,anesthesia.app,expired,70,80,10,"Go France Domains, LLC",05/05/2018 16:00,05/05/2025 16:00
 c9e31c50-31ca-4f18-a1bc-12a7c4bfacb0,anesthesia.at,sold,70,80,10,"GoDaddy.com, LLC ( https://nic.at/registrar/693 )",,
 3cd76ec8-fb24-454b-90ed-ca3eeb2b64a6,anesthesia.co,resell,70,80,10,"GoDaddy.com, LLC",30/09/2014 22:11,29/09/2025 23:59
@@ -702,300 +999,3 @@ ae4ccca0-afc4-41cc-b553-b4a43ff17461,neonatology.so,available,,32,11,,,
 1d8d50d0-8370-4f58-b290-50fd33ba1bbc,neonatology.zone,available,,32,11,,,
 b1ddfb55-d3d6-4a17-8e9c-baf19e0d9cab,cardiology.at,sold,62,80,10,A1 Telekom Austria AG ( https://nic.at/registrar/16 ),,
 7496bbda-13fe-4d43-99e6-87c2e75c878c,cardiology.co,resell,62,80,10,Hello Internet Corp.,24/02/2010 23:16,23/02/2026 23:59
-62e86018-1047-4e79-9aff-921c1c2b881f,cardiology.com,resell,62,80,10,Tucows Domains Inc.,10/04/1995 04:00,11/04/2026 04:00
-060f60ed-141f-4be0-a443-f952840ebc21,cardiology.dev,available,62,80,10,,,
-6787ef7f-c81e-4832-8fd6-94bcf8ba8711,cardiology.it,resell,62,80,10,,17/02/2020 09:00,07/02/2026 00:00
-d23af3f5-d32b-41b4-9a3f-605aa2b6fee9,cardiology.me,available,62,80,10,,,
-10d3b3fb-119b-4c3e-b7ec-d2642f5c8f7d,cardiology.ninja,available,62,80,10,,,
-709b3381-e1e9-4804-8a09-3929c85958b6,cardiology.pro,expiring,62,80,10,Epik LLC,17/07/2023 17:00,17/07/2025 17:00
-383fd5a6-f9a6-4522-b7a5-5ccb0b55f8c3,cardiology.site,available,62,80,10,,,
-4610fed8-5aa6-4d31-af63-511ac266335a,cardiology.so,available,62,80,10,,,
-7cbc12c2-94f9-4055-9a0f-ab52bebb4402,cardiology.space,available,62,80,10,,,
-95ef8312-97ea-4eb0-81b2-fe12c34a40a0,cardiology.store,available,62,80,10,,,
-d978a76a-c51c-48e3-b312-20f23b83e75f,cardiology.tech,available,62,80,10,,,
-084cae81-0c76-475b-9382-a2eac16438a3,cardiology.xyz,resell,62,80,10,"Go Daddy, LLC",07/06/2014 15:54,07/06/2026 23:59
-82e6fffa-7f5c-4009-afc2-d8f035626c19,cardiology.zone,available,62,80,10,,,
-3e828fb6-6499-497a-bd89-8a35218e2c19,oncology.app,available,56,80,8,,,
-41a28128-e45c-4f6f-baa5-ddb115cb8f58,oncology.at,available,56,80,8,,,
-2e723a8d-0431-4a3d-8467-c965ceb1f9dc,oncology.co,resell,56,80,8,Domainbox Limited,22/09/2016 17:50,21/09/2026 23:59
-1801cc25-1614-4cfd-ba53-2ad73a12d5b7,oncology.dev,available,56,80,8,,,
-bb1a7f03-4688-434f-aad6-d6742d5c2aba,oncology.expert,available,56,80,8,,,
-33246deb-f062-46b1-97b9-465c4009f507,oncology.gg,available,56,80,8,,,
-14039f35-faba-4e29-93b8-e482d05e1524,oncology.ninja,available,56,80,8,,,
-f0d9a13b-0a45-4b7f-b6ef-1db2fe3827b4,oncology.online,available,56,80,8,,,
-ef356a02-e001-4f8d-86f2-d7476b7bf6fd,oncology.site,available,56,80,8,,,
-fd2386b6-f50f-4a95-9299-043bcb11daeb,oncology.so,expired,56,80,8,,,
-b89365a1-3a49-4462-b969-70b71698fbf7,oncology.space,available,56,80,8,,,
-b7b80ad6-288f-4898-b4d4-892b102e444b,oncology.store,available,56,80,8,,,
-0a837c9f-d5a0-41f1-a111-7ce85293cf4c,oncology.tech,available,56,80,8,,,
-4061deff-236b-4c29-854c-0d3a7c25ae35,oncology.us,resell,56,80,8,"GoDaddy.com, LLC",24/04/2002 14:54,23/04/2026 23:59
-e9b19e1b-7996-46af-93d7-3bffc2c79bf1,oncology.xyz,resell,56,80,8,"Go Daddy, LLC",08/06/2014 23:24,08/06/2026 23:59
-3e07226d-4bda-467a-9407-998ba7a7566c,oncology.zone,available,56,80,8,,,
-475d941f-aa75-435a-909f-2adf6ab60b1b,hematology.app,available,55,80,10,,,
-00d06ae3-26c2-4a48-b7c4-389052f59720,hematology.at,available,55,80,10,,,
-5a2bd5fb-b10c-4eed-af28-89f6984cdd35,hematology.co,resell,55,80,10,Dynadot Inc,27/11/2012 02:35,26/11/2025 23:59
-3f6f31f4-7549-48b5-97ff-b82377800a30,hematology.dev,available,55,80,10,,,
-bb613457-4050-42fe-b59d-8ad1db3e4f1a,hematology.expert,available,55,80,10,,,
-4f8e5daf-72f5-4005-a149-f003f07e6688,hematology.gg,available,55,80,10,,,
-50b68ea3-9d62-457f-a6f1-a3ac9b5f7467,hematology.it,resell,55,80,10,,04/08/2010 12:17,27/08/2025 00:00
-e2cfd0e1-df47-4c7b-a47c-26e7a12cf626,hematology.ninja,available,55,80,10,,,
-0c9b8b09-4cac-421e-b8af-cab0e1b018bc,hematology.site,available,55,80,10,,,
-bb1ad2b8-8007-41fd-ab89-126ada837a16,hematology.so,available,55,80,10,,,
-f82a640e-db4b-43fb-bcbb-f5b44179fa36,hematology.space,available,55,80,10,,,
-982fde48-1d85-4eb5-a56c-f07b607d9a0a,hematology.store,available,55,80,10,,,
-cf964916-22a0-480e-b4f5-88f395817e10,hematology.tech,available,55,80,10,,,
-5d98b956-ceff-43cf-82f1-87a4c5ccbfbd,hematology.zone,available,55,80,10,,,
-4f9d2b87-e4ef-4d3a-9461-ae39ab6fbc72,urology.co,available,62,76,7,,,
-08ddd488-690c-4ec7-89bc-19729271efab,urology.expert,available,62,76,7,,,
-0093ac18-ccb7-4de3-85d4-979ab9cbc3bf,urology.gg,available,62,76,7,,,
-4d14b2f9-d414-4867-973f-a4cc059bb1bd,urology.it,resell,62,76,7,,26/04/2014 09:00,12/05/2026 00:00
-c9053dd1-5ec7-45cf-818d-9c5d83c2dd2f,urology.me,expiring,62,76,7,"Blue Razor Domains, LLC",29/07/2008 16:10,29/07/2025 16:10
-2796afbc-aa39-4d80-a883-fbb959500162,urology.ninja,available,62,76,7,,,
-41c487ce-ad3d-4f50-befe-7ba7bff855b1,urology.online,resell,62,76,7,IONOS SE,16/09/2015 18:55,16/09/2025 23:59
-3be371d6-a84a-46b5-a218-c6bfa935716e,urology.pro,resell,62,76,7,Epik LLC,14/10/2018 11:18,14/10/2025 11:18
-46b817f1-3942-4e07-883b-60a731c7abeb,urology.so,expired,62,76,7,SOSTEC TECHNOLOGIES_LR,25/04/2024 09:32,25/04/2025 09:32
-c92ee96a-ff68-4021-9aaa-eb2651124396,urology.space,available,62,76,7,,,
-70730f37-03f4-403b-b13a-1e3d38897e81,urology.tech,available,62,76,7,,,
-1c646889-3f70-4ba0-8dd0-cec32699f848,urology.us,resell,62,76,7,"Wild West Domains, Inc.",03/07/2006 18:04,02/07/2026 23:59
-623f11d8-2f12-4168-b07e-9a3b182a2281,urology.zone,available,62,76,7,,,
-04781a9d-d565-482b-8034-1393f1215679,neurology.app,available,58,80,9,,,
-4c15aaa6-74a8-474c-b2f1-c025769b623c,neurology.at,available,58,80,9,,,
-34eb8d94-d542-4a74-b4cd-8c5904025a51,neurology.expert,available,58,80,9,,,
-ffe74c0b-6608-4311-8f9c-d22202533c74,neurology.gg,available,58,80,9,,,
-e4f233cb-ca11-4388-880d-d5f84d634c6b,neurology.it,resell,58,80,9,,20/03/2011 19:32,04/04/2026 00:00
-8a3497c7-3a77-41ce-ae90-c3ae9bc986eb,neurology.ninja,available,58,80,9,,,
-602951b8-20ad-46fe-aa9c-40745f064831,neurology.online,available,58,80,9,,,
-ed2591e4-cdbb-45aa-8ff5-380c0c64e791,neurology.site,available,58,80,9,,,
-0643d2c3-92f7-4292-85a5-478946e9badc,neurology.so,available,58,80,9,,,
-4fec080e-24dd-44b9-ad0e-9834a5cafa09,neurology.space,available,58,80,9,,,
-920cece6-ede0-43cd-b7c1-df89d4dbcb06,neurology.store,available,58,80,9,,,
-41fb172e-88be-4de3-bdf0-3b02abaf45ca,neurology.us,resell,58,80,9,"GoDaddy.com, LLC",24/04/2002 14:22,23/04/2026 23:59
-0648a19c-3581-463d-95be-cd1b894699a5,neurology.xyz,resell,58,80,9,Dynadot LLC,25/01/2019 13:45,25/01/2027 23:59
-5bb68237-06ec-47b4-9192-5cdf72c7dd96,neurology.zone,available,58,80,9,,,
-0cf4f843-ec67-46a0-9080-915035fa6aeb,management.app,resell,76,84,10,"GoDaddy.com, LLC",08/05/2018 17:10,08/05/2026 17:10
-610f593e-14fd-4cb0-ab50-cf2cb78f8fc4,management.cloud,available,76,84,10,,,
-5f90bd5a-e7eb-463e-acef-ed9dc551d1bb,management.co,resell,76,84,10,Hello Internet Corp.,24/02/2010 22:49,23/02/2026 23:59
-4da35666-49f1-4040-a3da-b200e9155053,management.com,resell,76,84,10,"NameCheap, Inc.",06/06/1997 04:00,05/06/2026 04:00
-576abe10-44e7-4cfc-a46e-f4411e3d3a39,management.dev,available,76,84,10,,,
-06fb067c-563e-47d7-9903-ca43304da860,management.expert,available,76,84,10,,,
-62550ad5-4086-4fa1-b997-c6463b8f3091,management.gg,resell,76,84,10,Dynadot Inc. (https://www.dynadot.com),,
-e00d3085-4a5b-4715-aa43-057d10669695,management.io,resell,76,84,10,"Name.com, Inc.",17/05/2024 21:03,17/05/2026 21:03
-6c620f56-b63b-4674-b288-ab49cef371a2,management.me,resell,76,84,10,Dynadot Inc,13/09/2015 02:35,13/09/2025 02:35
-f240a3ef-5324-4e77-af54-3f339bff729b,management.online,available,76,84,10,,,
-9481735c-16c7-403f-b5b2-f4c5bd451b54,management.org,expiring,76,84,10,"GoDaddy.com, LLC",24/07/1998 04:00,23/07/2025 04:00
-5d44fc0b-3483-4e4c-a410-a23676c59dcc,management.pro,resell,76,84,10,"EnCirca, Inc.",22/06/2007 00:00,22/06/2026 00:00
-7b1a92c0-c930-4323-91d2-0d659d73ae76,management.site,available,76,84,10,,,
-729f67c4-8cb6-4cee-a7a8-7e0cf31607c9,management.space,available,76,84,10,,,
-ed40715b-4b23-4093-a52d-9a50d2f72234,management.store,available,76,84,10,,,
-70fc5802-d3c4-46d2-b1f2-079e670d8711,management.tech,available,76,84,10,,,
-3a9ab91c-b683-4445-bbba-1b4cf91bfb6d,imaging.at,sold,74,76,7,issp e.U. ( https://nic.at/registrar/201 ),,
-89aef4f1-5161-45b0-804c-9fbd983df22a,imaging.gg,available,74,76,7,,,
-188092f7-8072-4d4c-afa3-0a36c712e054,imaging.io,resell,74,76,7,"GoDaddy.com, LLC",17/05/2018 11:36,17/05/2026 11:36
-1db1c717-ef85-4f73-8b9a-7ede19bd7948,imaging.it,expired,74,76,7,,11/07/1996 00:00,28/06/2025 00:00
-273e9117-e353-4036-b750-5e6c60919af6,imaging.me,resell,74,76,7,"Spaceship, Inc.",17/07/2008 19:19,17/07/2026 19:19
-f091151a-26f7-4df0-9b7a-1b765196fdca,imaging.site,available,74,76,7,,,
-77bd4361-543e-45c6-b7ab-c9a8cc007fea,imaging.store,available,74,76,7,,,
-b3b37721-7305-41f3-9807-749811439668,imaging.tech,available,74,76,7,,,
-d50cdad3-566c-45a0-9ac6-afdf6f6c2676,imaging.us,resell,74,76,7,"GoDaddy.com, LLC",09/07/2005 17:16,08/07/2026 23:59
-dc0bb4a0-276a-4c1f-ba1e-942c4f54f9aa,imaging.xyz,resell,74,76,7,Dynadot LLC,01/09/2015 02:08,01/09/2025 23:59
-4f6fc771-f4b2-4ac6-aebd-f96b22b268d7,imaging.zone,available,74,76,7,,,
-3bb61d19-97ae-49ee-b04e-911ebfef4bcd,ophthalmology.at,available,,48,13,,,
-677f2a4d-692b-48e1-a5d1-b8e9ce35e177,ophthalmology.cloud,available,,48,13,,,
-96ed30bf-fcf7-4a0c-b3b4-5b8301a3fdde,ophthalmology.co,expiring,,48,13,"GoDaddy.com, LLC",04/08/2019 17:05,04/08/2025 17:05
-e4f96020-af98-464c-92db-7264acf88b92,ophthalmology.dev,available,,48,13,,,
-1808966b-6cdb-4d37-b4a3-5b2d05969435,ophthalmology.gg,available,,48,13,,,
-393adb4b-42c7-4c6c-b29e-1436182dd8b2,ophthalmology.it,resell,,48,13,,19/01/2018 09:00,19/01/2026 00:00
-652e4a0c-685f-4aa3-9675-6cdecc14f9f9,ophthalmology.ninja,available,,48,13,,,
-87a2da5c-5b82-41db-b134-4bca7d88b901,ophthalmology.site,available,,48,13,,,
-a9df3789-9cca-4cb9-b8fa-4d382c61720e,ophthalmology.so,available,,48,13,,,
-4147c0cc-8de0-40b0-8cee-39cd4a060870,ophthalmology.space,available,,48,13,,,
-2f29a857-4477-4243-8f0b-55358fc10695,ophthalmology.store,available,,48,13,,,
-78ec9c73-b433-4f02-883d-19d500ac9c9f,ophthalmology.tech,available,,48,13,,,
-ab1b614e-cf45-46a5-9862-2d5916f8c346,ophthalmology.zone,available,,48,13,,,
-28169552-db13-49b0-ab6b-3dd160535834,optometry.app,expiring,56,80,9,1API GmbH,25/07/2021 16:07,25/07/2025 16:07
-f3098c3b-1157-434f-b504-8674d575ad73,optometry.at,sold,56,80,9,VIM Internetdienstleistungen GmbH ( https://nic.at/registrar/21 ),,
-4a372c71-7d8d-4a5a-860a-f27879a3de5a,optometry.co,expiring,56,80,9,Porkbun,20/07/2010 18:04,19/07/2025 23:59
-5880a942-cf42-42c0-afc6-01db8aa1feb4,optometry.dev,available,56,80,9,,,
-fe34418b-6c50-4f04-b678-611627d6df8d,optometry.expert,available,56,80,9,,,
-323e2d88-22df-44a4-a1c2-684208ee4f31,optometry.gg,available,56,80,9,,,
-dfa64175-3d3c-461e-9dce-bc0973beb3ea,optometry.me,expired,56,80,9,Dynadot Inc,20/05/2024 17:00,20/05/2025 17:00
-d71fcc2f-d221-4cb6-a80c-595e453fb57c,optometry.online,available,56,80,9,,,
-67f6cc70-627a-4f1c-8e06-8d9770d53fbd,optometry.pro,resell,56,80,9,"GoDaddy.com, LLC",27/08/2018 02:37,27/08/2025 02:37
-302d4763-7833-4fcd-9ac2-8f11a8aeb403,optometry.so,available,56,80,9,,,
-74f86c03-5e32-457b-a62a-6bdb5340e2ab,optometry.space,available,56,80,9,,,
-15701589-851c-48d4-9821-e488c00219da,optometry.tech,available,56,80,9,,,
-827cc8a0-28ef-44de-8234-20303358f7a1,optometry.zone,available,56,80,9,,,
-642eccde-cbee-474d-8092-367ae39cc158,patient.co,resell,68,88,7,Dynadot Inc,03/04/2019 15:54,03/04/2027 15:54
-6b32e9de-e062-4463-b3f0-9fb6bc0ded8b,patient.gg,available,68,88,7,,,
-e73c471b-0f64-4dc6-8ab8-a33fa3b5cb8b,patient.ninja,available,68,88,7,,,
-cd6c111e-6cd6-48ba-aa0a-b92bd7658aaa,patient.online,available,68,88,7,,,
-474aacd2-6aa2-4de6-861d-4cefad64f449,patient.site,available,68,88,7,,,
-deac9922-a2e9-44cf-89c9-0f2f05b29c7b,patient.so,available,68,88,7,,,
-11fa5348-c7af-49d3-b5fc-3f8649299a05,patient.space,resell,68,88,7,"Go Daddy, LLC",16/08/2017 08:03,16/08/2025 23:59
-76563c4b-1a69-4532-b504-40aa42fb5e6b,patient.xyz,resell,68,88,7,TLD Registrar Solutions Ltd,26/08/2014 14:22,26/08/2025 23:59
-6280985b-320d-4692-89e6-9975433ea47a,clinical.at,available,76,80,8,,,
-62ab26cd-c268-4dbb-905b-b0d17459b5ed,clinical.co,expiring,76,80,8,"GoDaddy.com, LLC",20/07/2010 18:11,19/07/2025 23:59
-03a5c24c-63e9-4883-b67e-ab542482f1aa,clinical.it,resell,76,80,8,,25/01/2001 00:00,09/03/2026 00:00
-fe95b7d3-85a7-4b90-b4ea-0c68a2c262b9,clinical.online,available,76,80,8,,,
-9f8b6f13-9f72-4f5d-976d-c324945f67ea,clinical.org,resell,76,80,8,"GoDaddy.com, LLC",01/09/1998 04:00,31/08/2030 04:00
-f9ceb2cb-0ac8-4021-9545-5fe33eb89e45,clinical.pro,sold,76,80,8,Dynadot Inc,04/05/2018 10:13,04/05/2026 10:13
-2939c87a-6a19-4292-9ade-49c5ab8b521c,clinical.so,available,76,80,8,,,
-41db08b5-1d61-4650-bd86-41fdf8daf19f,clinical.space,available,76,80,8,,,
-b6b6f1da-03f6-4956-bcb9-7f744fda9db8,clinical.store,available,76,80,8,,,
-231b1423-9931-46f4-94ca-8e48903578c3,clinical.tech,available,76,80,8,,,
-44e57ca7-2c5e-48ff-b203-c83b7550e996,clinical.us,resell,76,80,8,"GoDaddy.com, LLC",27/01/2018 00:04,27/01/2026 00:04
-48c366a2-a019-4074-ae38-9e1cda100c4b,clinical.xyz,sold,76,80,8,Dynadot LLC,16/05/2017 01:51,16/05/2029 23:59
-3034fd05-d7d0-4a89-8c3a-86c1b59af817,health.at,sold,92,96,6,DAY Investments GmbH ( https://nic.at/registrar/485 ),,
-8ec86e52-f9ba-4456-90ac-ff7b2dc37236,health.cloud,premium,92,96,6,,,
-07bbdfbd-7c1d-440e-8937-9aa1bd8852cb,health.dev,premium,92,96,6,,,
-749bf534-5af9-4ab8-9cc7-128a77f61ca4,health.site,premium,92,96,6,,,
-244231d1-6380-46be-bc97-f9e8366ad293,health.space,premium,92,96,6,,,
-e9c1a8f1-e84f-4f60-b62b-4c8b9c569dd8,health.store,resell,92,96,6,Dotserve Inc,23/12/2016 11:20,23/12/2029 23:59
-bf9a6d1e-a93d-4af9-a1e1-700831180be2,health.xyz,expiring,92,96,6,"Sav.com, LLC - 1",08/07/2022 09:26,08/07/2025 23:59
-608b0695-7ea3-4f0b-8c8e-9115d9cfec78,drugs.app,resell,44,88,5,"GoDaddy.com, LLC",03/05/2018 16:36,03/05/2026 16:36
-81292b2a-753f-42e9-90dc-2e535a6dd066,drugs.at,available,44,88,5,,,
-0416ff92-3eab-4760-a326-248df43cc612,drugs.co,resell,44,88,5,InternetX GmbH,25/02/2010 00:08,24/02/2026 23:59
-510b2ca5-f04c-4de1-91d2-c268f2c2652a,drugs.online,available,44,88,5,,,
-350158b4-0119-4a9c-a832-91e1ba179c91,drugs.site,available,44,88,5,,,
-467d75e7-6bc1-43ef-b168-2bc01a8fb989,drugs.space,available,44,88,5,,,
-b6315921-40ef-46da-aae7-639512fe51af,drugs.store,available,44,88,5,,,
-56204bac-f537-4716-94d2-7dd895f2b82a,drugs.tech,available,44,88,5,,,
-0294ac90-4198-4611-98d4-ad261225745a,drugs.us,resell,44,88,5,"Wild West Domains, Inc.",24/04/2002 14:00,23/04/2026 23:59
-dd212fb0-42d3-4ce9-b41d-ef4a00e7ef1d,family.accountant,available,106,39,6,,,
-17076bc8-68c9-49e0-b91b-98e0d09cb625,family.accountants,available,106,39,6,,,
-58376245-94ab-44c1-8fd6-cd9638fcf4f9,family.actor,available,106,39,6,,,
-4e1d32aa-09dd-441e-a4b7-b816df44241c,family.adult,available,106,39,6,,,
-08198680-6a9b-484d-87e1-65cd287e4c50,family.airforce,available,106,39,6,,,
-fe75ed56-808e-4fc5-a457-686a8d114f5f,family.apartments,available,106,39,6,,,
-9fce7fda-7782-475c-9233-9dac9d3ba3d1,family.archi,available,106,39,6,,,
-e53d7ccb-ee5b-4fca-b3da-c4eef14b4562,family.art,available,106,39,6,,,
-2b83c4b1-9e2a-4bfc-8d78-1ff0eea4baf7,family.associates,available,106,39,6,,,
-87d0e75a-0488-419e-b1a4-fb87868c0ce9,family.at,sold,106,39,6,easyname GmbH ( https://nic.at/registrar/326 ),,
-da49c8e8-f3bd-4781-851f-4b1e255db3ab,family.attorney,available,106,39,6,,,
-b8ffba26-fce9-4d1c-bbe3-48f73b007d5f,family.audio,available,106,39,6,,,
-6ae269b6-3abf-4a0e-af9d-2866615d2437,family.auto,available,106,39,6,,,
-a8c1ca60-62b4-4650-a26f-e678b2add2a2,family.autos,available,106,39,6,,,
-83992e35-39c6-4040-a376-fddaf197e6c4,family.bar,available,106,39,6,,,
-0233cb5c-aa54-4920-869d-5feb556f27f4,family.bargains,available,106,39,6,,,
-a9aa57bb-b51b-40e7-9229-dd414bc75bea,family.bayern,available,106,39,6,,,
-6e6171bd-deaa-4927-9483-00d9704d19c6,family.beauty,available,106,39,6,,,
-b5fac30d-4144-4131-82e5-3409064701f3,family.beer,resell,106,39,6,"DNSPod, Inc.",22/06/2021 15:31,22/06/2026 15:31
-1802c473-c959-444e-90cf-cc9db145cfef,family.berlin,resell,106,39,6,,21/01/2016 15:35,21/01/2026 15:35
-6e70e921-b23d-4370-bdeb-7a52bd944812,family.bid,resell,106,39,6,Porkbun,26/08/2020 23:09,26/08/2026 23:09
-e7f4afd4-34dd-4c3d-ba68-f3e2b52c044d,family.bike,resell,106,39,6,Dynadot Inc,23/04/2018 07:53,23/04/2026 07:53
-a8adc127-9399-40af-9fe8-6d46fbccf677,family.bingo,available,106,39,6,,,
-80e7c855-048e-4c01-a3a4-73a5d24296bc,family.blackfriday,available,106,39,6,,,
-7c6fcb7a-76e8-4c72-9f21-9d7656dfe6e8,family.blue,resell,106,39,6,"DNSPod, Inc.",24/01/2024 17:00,24/01/2026 17:00
-b9a4047a-81e1-4afe-8bca-114e648014e7,family.boats,available,106,39,6,,,
-d6edf4bb-ef53-4d00-abe5-62533c9c8871,family.boo,available,106,39,6,,,
-6bf7b8bc-010a-48d7-8550-6a1df2ba299d,family.boston,resell,106,39,6,"Global Domains International, Inc. DBA DomainCostClub.com",04/06/2021 12:41,04/06/2026 12:41
-87c8a23f-68e4-4201-8cee-b3b74322e0cc,family.boutique,resell,106,39,6,"Sav.com, LLC - 26",23/05/2025 15:15,23/05/2026 15:15
-c84cfd50-475d-413e-94ab-c6adfb8bddf1,family.build,available,106,39,6,,,
-7adf757c-dc93-4383-bf02-d68814c56904,family.builders,expiring,106,39,6,Porkbun LLC,09/09/2021 17:34,09/09/2025 17:34
-c7acd765-f581-4a2c-b511-98b2a1982a2d,family.buzz,available,106,39,6,,,
-70672007-0a3d-4505-bba7-148a661a75a9,family.cafe,available,106,39,6,,,
-ff5b13de-397a-47a7-b879-9bff1a1c0aaf,family.cam,available,106,39,6,,,
-93910882-76dc-48e6-8a30-3e984ed0ecdf,family.camera,available,106,39,6,,,
-23f6ea16-09b2-4484-9abe-2856f5f7ebc0,family.camp,expiring,106,39,6,"Sav.com, LLC - 42",02/09/2024 15:15,02/09/2025 15:15
-830cd31d-7130-43c5-8085-bbf5f0085722,family.car,available,106,39,6,,,
-b3f1836e-9668-4e13-be89-95f357cf9034,family.careers,available,106,39,6,,,
-3de4ddf8-ab58-4eb8-a063-4a659b9616e5,family.cars,available,106,39,6,,,
-e86e3e1c-e0a5-4f43-941e-bea2c6c19440,family.cash,resell,106,39,6,"NameCheap, Inc.",06/03/2023 12:13,06/03/2026 12:13
-49adf82b-edbf-4685-ae5f-d1af88d918cf,family.catering,available,106,39,6,,,
-8c94e3cf-1c10-4deb-83c2-689212b2c709,family.cc,resell,106,39,6,"GoDaddy.com, LLC",07/04/2006 08:02,07/04/2026 08:02
-84aa6f0c-2401-4d21-ad9f-8b81d058591c,family.center,resell,106,39,6,Dynadot Inc,01/07/2015 17:00,01/07/2026 17:00
-462bf85b-42c1-410f-b71b-33bc64f53a7d,family.christmas,available,106,39,6,,,
-158bbd3f-f529-4add-8b71-2d18745e255c,family.claims,available,106,39,6,,,
-3c406b33-9560-410e-afd7-71eab8b1d71c,family.clinic,resell,106,39,6,Dynadot Inc,11/11/2020 08:11,11/11/2025 08:11
-4a20dca7-5954-42e6-85e4-cfd601b8ee29,family.cloud,premium,106,39,6,,,
-0e5a0403-1372-4f2d-8c1a-39475626f45e,family.coffee,resell,106,39,6,"Sav.com, LLC - 38",19/06/2025 15:15,19/06/2026 15:15
-838ab290-b134-4900-8c96-1312ca1b9190,family.college,available,106,39,6,,,
-4bcf4b49-5ef5-4b51-a01f-ed1f473e1ea0,family.condos,available,106,39,6,,,
-aa80939b-66a3-428a-8477-4479c6ebe96d,family.consulting,available,106,39,6,,,
-1c4553cf-08c1-454d-bb13-d524d5e7c49d,family.contact,resell,106,39,6,"Go Montenegro Domains, LLC",09/12/2020 16:00,09/12/2025 16:00
-9f3dfd10-afc9-47c8-bcaa-479a3480874f,family.cool,resell,106,39,6,"Chengdu West Dimension Digital Technology Co., Ltd.",02/12/2018 16:15,02/12/2030 16:15
-4c8225b5-1dff-4076-920e-c0ddab5d0a8c,family.country,available,106,39,6,,,
-bc948f60-3694-401b-8d60-def4ccbddac0,family.courses,available,106,39,6,,,
-797d5318-1e00-464f-b096-65ea750b2841,family.cricket,available,106,39,6,,,
-49506e3b-e0e4-472b-b233-f9e913b85295,family.cyou,available,106,39,6,,,
-993e71b4-1ffe-4841-8cde-0efd60d81a4b,family.dad,available,106,39,6,,,
-867017c3-d139-453d-b381-0f0e6209ec60,family.dance,expired,106,39,6,"GoDaddy.com, LLC",08/07/2017 16:14,08/07/2025 16:14
-be50ff61-6b44-4014-9e22-cf9adbcee095,family.date,available,106,39,6,,,
-f2c75d7d-1082-4784-9021-bbe117cc4858,family.dealer,available,106,39,6,,,
-6ed7375d-bfd1-4506-8e4f-afc7f3f515d0,family.deals,resell,106,39,6,Dynadot Inc,24/12/2019 15:49,24/12/2025 15:49
-617c0dfc-5d70-4920-b16d-74483e68dfa0,family.degree,available,106,39,6,,,
-57a70c28-5573-45b3-9d7d-7c4bc59be5b3,family.delivery,available,106,39,6,,,
-77e9c24c-1408-4098-96ea-a8148924ce49,family.dental,resell,106,39,6,"Sav.com, LLC",23/01/2024 17:02,23/01/2026 17:02
-ecd2836f-1db3-4844-bbd6-7cda075c475a,family.design,available,106,39,6,,,
-1bb79fe0-2755-46cb-bb54-343ecbb9be8f,family.diamonds,available,106,39,6,,,
-e21be4ac-f05a-4bf0-b6b7-875b73d83441,family.diet,available,106,39,6,,,
-06325d6f-d943-48eb-a4f8-07a73848dcbe,family.direct,resell,106,39,6,"Global Domains International, Inc. DBA DomainCostClub.com",10/05/2025 15:15,10/05/2026 15:15
-c847ae71-0e09-46bf-9c6f-2a182f976ca6,family.discount,available,106,39,6,,,
-863ad97a-deee-4556-867f-b99c6d7d0559,family.diy,available,106,39,6,,,
-f396bc40-5d1a-4df0-86ec-8edbd9398139,family.doctor,expiring,106,39,6,"Name.com, Inc.",21/09/2023 20:23,21/09/2025 20:23
-d7c0490e-b61e-4d03-9b46-e9241bfde8c7,family.domains,available,106,39,6,,,
-2a9578ff-5c4e-431a-a2b0-0ded223951be,family.education,resell,106,39,6,"Sav.com, LLC",12/12/2016 06:14,12/12/2025 06:14
-67ff7932-4e0e-4024-920f-37b436b9f431,family.engineer,available,106,39,6,,,
-a316c738-8387-4a9a-aca7-2f8a209b2da7,family.engineering,available,106,39,6,,,
-5a3e5ae4-2c8a-4077-bf7d-bfe3f192eb71,family.esq,available,106,39,6,,,
-dba67660-2e8e-4da1-a229-4689936d50d5,family.estate,expired,106,39,6,Synergy Wholesale Accreditations Pty Ltd,13/07/2022 08:18,13/07/2025 08:18
-53698a49-0fbc-4d60-a152-f120efb17e5e,family.events,resell,106,39,6,Dynadot Inc,07/06/2014 16:03,07/06/2026 16:03
-b4873b14-ccc1-48a2-8f38-140b47e2bc84,family.exposed,available,106,39,6,,,
-5d8cdfd0-61ff-4114-b756-282cdf9b7d89,family.express,resell,106,39,6,"Sav.com, LLC",06/01/2021 17:29,06/01/2026 17:29
-e7d187bf-6f25-4120-be06-c026b862c224,family.fail,available,106,39,6,,,
-25b95b5f-f7a5-4d81-9bbd-5d414d05d95f,family.faith,available,106,39,6,,,
-0ac7bfed-9366-4382-8acb-eb3b07c8b58d,family.family,resell,106,39,6,"NameCheap, Inc.",30/03/2023 09:01,30/03/2026 09:01
-4e70465c-25fc-4c9c-8471-601c6255e0a7,family.fan,available,106,39,6,,,
-3e6e6733-51bc-42e1-bc0a-7c3e6d1e2cf2,family.fans,available,106,39,6,,,
-86864281-0055-4883-b2d2-6dd291e3b35c,family.fashion,resell,106,39,6,"Spaceship, Inc.",19/01/2020 08:38,19/01/2026 08:38
-93a2c27a-83a0-41ff-b26d-144304126070,family.film,available,106,39,6,,,
-a110bba9-f793-44cd-bfd9-adb7293e266b,family.financial,resell,106,39,6,"NameCheap, Inc.",06/05/2021 14:35,06/05/2026 14:35
-c6cf032b-5d4d-49c8-8b50-e939ba88cea3,family.fishing,expiring,106,39,6,"GoDaddy.com, LLC",17/09/2023 19:23,17/09/2025 19:23
-635d644a-1619-4f03-89d1-ed3a3e9abaf7,family.fitness,resell,106,39,6,Dynadot Inc,26/08/2015 16:00,26/08/2026 16:00
-44230e2d-08aa-4f1e-b2c0-b9aa46d20cc7,family.flights,available,106,39,6,,,
-9f69c897-c3e1-4551-858f-7b14ee7e7820,family.foo,available,106,39,6,,,
-a1d2876d-efc8-49d2-92d4-7b6e283de949,family.food,available,106,39,6,,,
-492c1239-b489-4fe0-82d1-508e652c0449,family.forsale,available,106,39,6,,,
-2605abae-8350-4655-93ca-c995f18c0d4d,family.fun,available,106,39,6,,,
-ff3582c9-dae7-4064-afd4-0177027945e0,family.futbol,available,106,39,6,,,
-67605409-5195-48cb-a3c5-b2dfd663b1a2,family.fyi,available,106,39,6,,,
-c775885b-524a-47bf-b773-585ff8438f8f,family.game,available,106,39,6,,,
-b43824d4-4674-410d-b47f-fbdd2886f77a,family.games,available,106,39,6,,,
-74d6b05b-6319-46cb-a20a-64641e4541ac,family.garden,available,106,39,6,,,
-ebda1f9e-2f2a-492b-99b9-4ace445aa049,family.gay,available,106,39,6,,,
-28d1ff9b-55e5-4bd5-9599-2be193dbae31,family.gg,resell,106,39,6,Channel Island Hosting (https://www.channelislandhosting.net),,
-f9928de2-b4e4-4b4d-b52a-c638343c456c,family.gifts,available,106,39,6,,,
-8c040daa-3e42-4b73-a484-552200185e90,family.gives,available,106,39,6,,,
-15d99393-655a-4cef-8b0a-b9d87b8e3cb0,family.giving,available,106,39,6,,,
-72aa655c-b77a-46f4-b979-bf9ff544d8d1,family.glass,available,106,39,6,,,
-8a3acd75-bee7-41f0-bea0-7601b587135a,family.global,available,106,39,6,,,
-ee91d156-21c9-420f-8741-e786b28334e9,family.gold,resell,106,39,6,"Chengdu West Dimension Digital Technology Co., Ltd.",04/04/2018 23:19,04/04/2030 23:19
-405f9ccc-c73a-409d-9509-72ee1c10b55c,family.gratis,available,106,39,6,,,
-5216afe5-8a03-49ac-b97b-5e6d0a2e3f82,family.green,available,106,39,6,,,
-03234af1-aa22-4694-8182-80aed8d12991,family.gripe,available,106,39,6,,,
-51905f86-2aca-449b-b761-3d70c3d8ca19,family.guide,expiring,106,39,6,"Wild West Domains, LLC",17/09/2014 16:00,17/09/2025 16:00
-73ce450d-0068-49ac-aa9e-bb6fb04735b1,family.guitars,available,106,39,6,,,
-355a9413-54a1-4150-87f4-7a3be70e484f,family.guru,resell,106,39,6,"Spaceship, Inc.",23/04/2017 16:40,23/04/2026 16:40
-1a1a89dd-5364-4b81-8411-db67077b63eb,family.hair,available,106,39,6,,,
-501876a5-5f79-4b3e-ada8-db8890f15514,family.haus,available,106,39,6,,,
-98eefb95-de70-48d0-aa9b-14996849762e,family.health,resell,106,39,6,"GoDaddy.com, LLC",07/11/2023 21:32,07/11/2025 21:32
-feaa9394-aa39-4543-9106-c6ed555aa1d7,family.help,resell,106,39,6,Namecheap,20/07/2024 12:49,20/07/2026 23:59
-9446c270-3fb5-40ff-b14c-9cfc2f0c3d5b,family.hiphop,available,106,39,6,,,
-6591b88b-28b8-4938-8a69-2ebcdd92e194,family.hiv,available,106,39,6,,,
-d3267ade-49e9-43d5-8959-653df6653ee4,family.hockey,available,106,39,6,,,
-c4556f1b-1dc5-4644-81d7-49f2429c4462,family.holiday,resell,106,39,6,Dynadot Inc,26/11/2017 10:09,26/11/2025 10:09
-827c1090-255f-4328-8658-df2cb26bda99,family.horse,available,106,39,6,,,
-bbb78dfb-254b-4c91-99bd-5339de62ccc4,family.hospital,available,106,39,6,,,
-ba0f4b66-bb38-468f-a40d-10b43f8f2151,family.host,available,106,39,6,,,
-f965b6ed-b9eb-4b93-baac-8b3efb65ccf6,family.hosting,available,106,39,6,,,
-6640241f-537c-47cd-829c-4fc2b5169745,family.hot,available,106,39,6,,,
-0a678c01-3029-4ded-a3b9-b6e3f9453aa0,family.house,resell,106,39,6,Dynadot Inc,14/10/2019 23:37,14/10/2025 23:37
-b1375631-d3a1-4c1a-8d83-16d3bc3fd539,family.icu,available,106,39,6,,,
-a7f544bc-3056-4efd-b74f-bf19d204e8db,family.im,available,106,39,6,,,
-381fee3a-23d8-4a5f-860a-c938b28f4ce3,family.immo,available,106,39,6,,,
-43c8ff5f-8683-42db-9a8f-5199cbf3e87d,family.industries,available,106,39,6,,,
-08438ce1-6a4f-4a27-a8d2-49df2b974b80,family.info,resell,106,39,6,"GoDaddy.com, LLC",31/07/2001 21:24,31/07/2026 21:24
-f90cc4f0-e078-459b-9839-2e04e0a9102e,family.ing,available,106,39,6,,,
-d602d018-ce41-4ee7-a4a6-ab452c1f8232,family.ink,available,106,39,6,,,
-a3c7bc40-9be1-478e-9b3f-fc7321434ae3,family.international,resell,106,39,6,"GoDaddy.com, LLC",30/03/2017 21:46,30/03/2026 21:46
-060a29fd-8469-4878-a4ff-79409cd886fe,family.io,expiring,106,39,6,101domain GRS Limited,26/09/2010 22:56,26/09/2025 22:56
