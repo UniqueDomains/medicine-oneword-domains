@@ -26,17 +26,17 @@ If you want to search & filters the complete database of [Medicine one word doma
 | care.accountant  | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.accountants | available | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.actor       | available | 80       | 35%    | 4      |                                                           |                  |                  |
-| care.adult       | available | 80       | 35%    | 4      |                                                           |                  |                  |
+| care.adult       | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.archi       | available | 80       | 35%    | 4      |                                                           |                  |                  |
-| care.art         | available | 80       | 35%    | 4      |                                                           |                  |                  |
-| care.attorney    | available | 80       | 35%    | 4      |                                                           |                  |                  |
-| care.audio       | available | 80       | 35%    | 4      |                                                           |                  |                  |
+| care.art         | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
+| care.attorney    | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
+| care.audio       | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.auto        | available | 80       | 35%    | 4      |                                                           |                  |                  |
-| care.autos       | available | 80       | 35%    | 4      |                                                           |                  |                  |
+| care.autos       | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.baby        | resell    | 80       | 35%    | 4      | Namecheap                                                 | 01/08/2024 20:54 | 01/08/2026 23:59 |
-| care.bar         | available | 80       | 35%    | 4      |                                                           |                  |                  |
-| care.bargains    | available | 80       | 35%    | 4      |                                                           |                  |                  |
-| care.beauty      | available | 80       | 35%    | 4      |                                                           |                  |                  |
+| care.bar         | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
+| care.bargains    | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
+| care.beauty      | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.beer        | available | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.berlin      | available | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.best        | expired   | 80       | 35%    | 4      | Namecheap                                                 | 27/06/2024 22:01 | 27/06/2025 23:59 |
@@ -48,8 +48,8 @@ If you want to search & filters the complete database of [Medicine one word doma
 | care.blackfriday | available | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.blog        | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.blue        | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
-| care.boats       | available | 80       | 35%    | 4      |                                                           |                  |                  |
-| care.boo         | available | 80       | 35%    | 4      |                                                           |                  |                  |
+| care.boats       | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
+| care.boo         | premium   | 80       | 35%    | 4      |                                                           |                  |                  |
 | care.boutique    | resell    | 80       | 35%    | 4      | Spaceship, Inc.                                           | 08/08/2025 07:58 | 08/08/2026 07:58 |
 
 <p align="center">
