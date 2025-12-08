@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Medicine one word doma
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain           | Status    | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
-| ---------------- | --------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
-| care.ac          | sold      | 80       | 32%    | 4      | Spaceship, Inc.                                           | 27/09/2012 16:51 | 27/09/2026 16:51 |
-| care.academy     | expired   | 80       | 32%    | 4      | Global Domains International, Inc. DBA DomainCostClub.com | 30/09/2020 23:20 | 30/09/2025 23:20 |
-| care.accountant  | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.accountants | available | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.actor       | available | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.adult       | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.archi       | available | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.art         | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.attorney    | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.audio       | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.auto        | available | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.autos       | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.baby        | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.bar         | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.bargains    | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.bayern      | expired   | 80       | 32%    | 4      | IONOS SE                                                  | 24/10/2023 13:59 | 24/10/2025 13:59 |
-| care.beauty      | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.beer        | available | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.berlin      | available | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.best        | expired   | 80       | 32%    | 4      | Namecheap                                                 | 27/06/2024 22:01 | 27/06/2025 23:59 |
-| care.bet         | resell    | 80       | 32%    | 4      | Porkbun LLC                                               | 01/06/2023 14:48 | 01/06/2026 14:48 |
-| care.bid         | resell    | 80       | 32%    | 4      | Porkbun                                                   | 27/07/2019 03:11 | 27/07/2026 03:11 |
-| care.bingo       | available | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.bio         | resell    | 80       | 32%    | 4      | Vautron Rechenzentrum AG                                  | 09/09/2014 17:46 | 09/09/2026 17:46 |
-| care.black       | resell    | 80       | 32%    | 4      | Xiamen ChinaSource Internet Service Co., Ltd              | 07/11/2024 17:00 | 07/11/2025 17:00 |
-| care.blackfriday | available | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.blog        | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.blue        | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.boats       | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
-| care.boo         | premium   | 80       | 32%    | 4      |                                                           |                  |                  |
+| Domain         | Status    | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
+| -------------- | --------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
+| care.rich      | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.rip       | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.rocks     | resell    | 80       | 32%    | 4      | Porkbun LLC                                         | 13/07/2024 17:00 | 13/07/2026 17:00 |
+| care.rodeo     | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.rsvp      | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.sarl      | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.sbs       | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.school    | resell    | 80       | 32%    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        | 11/03/2022 13:15 | 11/03/2026 13:15 |
+| care.schule    | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.science   | resell    | 80       | 32%    | 4      | Porkbun                                             | 21/03/2022 15:51 | 21/03/2026 15:51 |
+| care.security  | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.services  | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.sexy      | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.shiksha   | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.shoes     | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.shopping  | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.show      | resell    | 80       | 32%    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. | 06/03/2017 06:46 | 06/03/2026 06:46 |
+| care.singles   | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.ski       | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.skin      | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.soccer    | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.social    | expiring  | 80       | 32%    | 4      | Unstoppable Domains Inc                             | 03/01/2024 15:15 | 03/01/2026 15:15 |
+| care.solar     | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.solutions | resell    | 80       | 32%    | 4      | Spaceship, Inc.                                     | 23/03/2014 16:00 | 23/03/2026 16:00 |
+| care.soy       | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.space     | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.spot      | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.srl       | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.storage   | available | 80       | 32%    | 4      |                                                     |                  |                  |
+| care.store     | premium   | 80       | 32%    | 4      |                                                     |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Medicine-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Medicine one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
