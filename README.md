@@ -21,36 +21,36 @@ If you want to search & filters the complete database of [Medicine one word doma
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar                                                          | Created          | Expires          |
 | ----------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------------------ | ---------------- | ---------------- |
-| care.car          | available | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.cards        | premium   | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.careers      | premium   | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.cars         | available | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.casino       | available | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.catering     | premium   | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.ceo          | available | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.cfd          | premium   | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.chat         | premium   | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.cheap        | sold      | 80       | 32%    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 01/11/2025 15:15 | 01/11/2026 15:15 |
-| care.church       | resell    | 80       | 32%    | 4      | Sav.com, LLC                                                       | 10/10/2024 17:09 | 10/10/2026 17:09 |
-| care.city         | resell    | 80       | 32%    | 4      | Dynadot Inc                                                        | 04/11/2022 19:28 | 04/11/2026 19:28 |
-| care.clinic       | resell    | 80       | 32%    | 4      | Spaceship, Inc.                                                    | 26/08/2015 16:00 | 26/08/2026 16:00 |
-| care.clothing     | available | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.cloud        | premium   | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.co           | resell    | 80       | 32%    | 4      | Hello Internet Corp.                                               | 24/02/2010 23:16 | 23/02/2026 23:59 |
-| care.company      | sold      | 80       | 32%    | 4      | Spaceship, Inc.                                                    | 07/09/2016 10:20 | 07/09/2026 10:20 |
-| care.computer     | resell    | 80       | 32%    | 4      | Sav.com, LLC                                                       | 08/06/2024 19:59 | 08/06/2026 19:59 |
-| care.condos       | premium   | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.construction | resell    | 80       | 32%    | 4      | Sav.com, LLC - 27                                                  | 25/11/2024 15:15 | 25/11/2026 15:15 |
-| care.consulting   | premium   | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.contact      | expiring  | 80       | 32%    | 4      | Sav.com, LLC                                                       | 06/12/2020 16:59 | 06/12/2025 16:59 |
-| care.contractors  | available | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.cooking      | premium   | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.cool         | resell    | 80       | 32%    | 4      | DNSPod, Inc.                                                       | 14/08/2020 13:08 | 14/08/2026 13:08 |
-| care.country      | available | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.coupons      | sold      | 80       | 32%    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 25/10/2025 15:15 | 25/10/2026 15:15 |
-| care.creditcard   | available | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.cricket      | available | 80       | 32%    | 4      |                                                                    |                  |                  |
-| care.cruises      | available | 80       | 32%    | 4      |                                                                    |                  |                  |
+| care.car          | available | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.cards        | premium   | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.careers      | premium   | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.cars         | available | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.casino       | available | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.catering     | premium   | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.ceo          | available | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.cfd          | premium   | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.chat         | premium   | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.cheap        | sold      | 80       | 31%    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 01/11/2025 15:15 | 01/11/2026 15:15 |
+| care.church       | resell    | 80       | 31%    | 4      | Sav.com, LLC                                                       | 10/10/2024 17:09 | 10/10/2026 17:09 |
+| care.city         | resell    | 80       | 31%    | 4      | Dynadot Inc                                                        | 04/11/2022 19:28 | 04/11/2026 19:28 |
+| care.clinic       | resell    | 80       | 31%    | 4      | Spaceship, Inc.                                                    | 26/08/2015 16:00 | 26/08/2026 16:00 |
+| care.clothing     | available | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.cloud        | premium   | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.co           | resell    | 80       | 31%    | 4      | Hello Internet Corp.                                               | 24/02/2010 23:16 | 23/02/2026 23:59 |
+| care.company      | resell    | 80       | 31%    | 4      | Spaceship, Inc.                                                    | 07/09/2016 10:20 | 07/09/2026 10:20 |
+| care.computer     | resell    | 80       | 31%    | 4      | Sav.com, LLC                                                       | 08/06/2024 19:59 | 08/06/2026 19:59 |
+| care.condos       | premium   | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.construction | resell    | 80       | 31%    | 4      | Sav.com, LLC - 27                                                  | 25/11/2024 15:15 | 25/11/2026 15:15 |
+| care.consulting   | premium   | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.contact      | resell    | 80       | 31%    | 4      | Sav.com, LLC                                                       | 06/12/2020 16:59 | 06/12/2026 16:59 |
+| care.contractors  | available | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.cooking      | premium   | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.cool         | resell    | 80       | 31%    | 4      | DNSPod, Inc.                                                       | 14/08/2020 13:08 | 14/08/2026 13:08 |
+| care.country      | available | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.coupons      | sold      | 80       | 31%    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 25/10/2025 15:15 | 25/10/2026 15:15 |
+| care.creditcard   | available | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.cricket      | available | 80       | 31%    | 4      |                                                                    |                  |                  |
+| care.cruises      | available | 80       | 31%    | 4      |                                                                    |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Medicine-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,6 +90,7 @@ If you want to search & filters the complete database of [Medicine one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,537       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 61,582       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,156,621    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
