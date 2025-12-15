@@ -1,4 +1,10 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+5305d9a9-81e2-4f8d-92d1-12c6dc99f716,care.buzz,premium,80,31,4,,,
+c8d02bdb-037b-4375-8814-7fd25565f0a0,care.bz,premium,80,31,4,,,
+a85dc32a-570b-4def-b50f-7604057063cd,care.cam,premium,80,31,4,,,
+0083d0c8-611e-4439-9ec8-9ad167b1328c,care.camera,available,80,31,4,,,
+ec540d8b-d458-4d0a-9440-8537ab4a9c76,care.camp,resell,80,31,4,"Sav.com, LLC - 6",16/05/2025 15:16,16/05/2026 15:16
+0a16e973-77dc-4240-b792-95429d87a1c0,care.capital,resell,80,31,4,Dynadot Inc,16/04/2025 09:46,16/04/2026 09:46
 27d663a7-18a6-40dc-bdbb-6b849b83aef3,care.car,available,80,31,4,,,
 79ee4dd7-dd84-4b3f-9ceb-e728bf905342,care.cards,premium,80,31,4,,,
 e236b85b-02f8-471a-91b6-1890541ce78a,care.careers,premium,80,31,4,,,
@@ -330,12 +336,20 @@ a9bd2afd-e4e3-4d8f-9674-ad16824a93f8,care.boo,premium,80,31,4,,,
 2c5d288c-7da2-485e-b2bb-298bc815cec7,care.bot,premium,80,31,4,,,
 0a5b9ff4-62ea-4fed-839e-05b475a7a782,care.boutique,resell,80,31,4,"Spaceship, Inc.",08/08/2025 07:58,08/08/2026 07:58
 70dbb89f-d9c1-4400-bc33-de45f21895ed,care.build,premium,80,31,4,,,
-5305d9a9-81e2-4f8d-92d1-12c6dc99f716,care.buzz,premium,80,31,4,,,
-c8d02bdb-037b-4375-8814-7fd25565f0a0,care.bz,premium,80,31,4,,,
-a85dc32a-570b-4def-b50f-7604057063cd,care.cam,premium,80,31,4,,,
-0083d0c8-611e-4439-9ec8-9ad167b1328c,care.camera,available,80,31,4,,,
-ec540d8b-d458-4d0a-9440-8537ab4a9c76,care.camp,resell,80,31,4,"Sav.com, LLC - 6",16/05/2025 15:16,16/05/2026 15:16
-0a16e973-77dc-4240-b792-95429d87a1c0,care.capital,resell,80,31,4,Dynadot Inc,16/04/2025 09:46,16/04/2026 09:46
+535c8dd5-add6-46ad-9708-f747f8c8ea51,treatment.club,resell,78,14,9,"Spaceship, Inc.",07/05/2014 17:06,06/05/2026 23:59
+2905caf4-b5b3-4456-8ba8-aabb3a504c7f,treatment.coach,available,78,14,9,,,
+b4576425-db68-4bfe-add1-8221cf14d94f,treatment.codes,available,78,14,9,,,
+af8fe2d9-df56-495d-bde2-da1f9c7a932e,treatment.coffee,available,78,14,9,,,
+e61317a2-dd50-4c31-a64a-5700044eabbe,treatment.college,available,78,14,9,,,
+1296aa85-0594-4446-9125-d40859bf3ee5,treatment.community,available,78,14,9,,,
+060b6b07-41bb-481a-a029-8ff898e37a95,treatment.company,premium,78,14,9,,,
+004998a9-472b-4c0b-ab09-762d1200a486,treatment.computer,available,78,14,9,,,
+40754e23-2af7-44c4-9e37-28dbaaca8565,treatment.condos,available,78,14,9,,,
+3c993e51-a8af-4f58-ad06-7c1f64e46757,treatment.construction,available,78,14,9,,,
+ccede5f9-0eaa-4eae-9428-d4b45a1bfc5e,treatment.consulting,available,78,14,9,,,
+cbe31af8-5e93-4938-87e2-2e27ace65024,treatment.contractors,available,78,14,9,,,
+ddb38a08-b93c-432e-95c8-86e816eaa5c2,treatment.cooking,available,78,14,9,,,
+c1dd7369-155b-456b-86bf-5b767fc2054e,treatment.cool,available,78,14,9,,,
 2702f86c-7713-4bcc-87fc-8f468cb0d7f4,treatment.country,available,78,14,9,,,
 53447195-41d8-4bea-9f4e-ea698f2a0978,treatment.coupons,available,78,14,9,,,
 5a5cdfee-f16c-43dd-ab3a-967be54e97c8,treatment.courses,available,78,14,9,,,
@@ -742,20 +756,6 @@ f93147c3-5743-46e7-8459-5743ffd9f8ef,treatment.camp,available,78,14,9,,,
 c45d3719-86ad-4c3c-8153-9e46d83e698c,treatment.cleaning,available,78,14,9,,,
 43284a46-7e51-41ff-a616-847e68bec124,treatment.clothing,available,78,14,9,,,
 668bb3be-31eb-4086-8cbd-82274d0b9839,treatment.cloud,premium,78,14,9,,,
-535c8dd5-add6-46ad-9708-f747f8c8ea51,treatment.club,resell,78,14,9,"Spaceship, Inc.",07/05/2014 17:06,06/05/2026 23:59
-2905caf4-b5b3-4456-8ba8-aabb3a504c7f,treatment.coach,available,78,14,9,,,
-b4576425-db68-4bfe-add1-8221cf14d94f,treatment.codes,available,78,14,9,,,
-af8fe2d9-df56-495d-bde2-da1f9c7a932e,treatment.coffee,available,78,14,9,,,
-e61317a2-dd50-4c31-a64a-5700044eabbe,treatment.college,available,78,14,9,,,
-1296aa85-0594-4446-9125-d40859bf3ee5,treatment.community,available,78,14,9,,,
-060b6b07-41bb-481a-a029-8ff898e37a95,treatment.company,premium,78,14,9,,,
-004998a9-472b-4c0b-ab09-762d1200a486,treatment.computer,available,78,14,9,,,
-40754e23-2af7-44c4-9e37-28dbaaca8565,treatment.condos,available,78,14,9,,,
-3c993e51-a8af-4f58-ad06-7c1f64e46757,treatment.construction,available,78,14,9,,,
-ccede5f9-0eaa-4eae-9428-d4b45a1bfc5e,treatment.consulting,available,78,14,9,,,
-cbe31af8-5e93-4938-87e2-2e27ace65024,treatment.contractors,available,78,14,9,,,
-ddb38a08-b93c-432e-95c8-86e816eaa5c2,treatment.cooking,available,78,14,9,,,
-c1dd7369-155b-456b-86bf-5b767fc2054e,treatment.cool,available,78,14,9,,,
 ea63544b-b908-4ce5-b795-0c4c46ac8c6d,therapy.dev,expired,94,92,7,Squarespace Domains II LLC.,15/05/2022 20:59,15/05/2025 20:59
 fc6e6c78-ca10-470f-b14c-cbcca477078d,therapy.io,resell,94,92,7,"GoDaddy.com, LLC",28/08/2013 00:18,28/08/2025 00:18
 a6315cfb-1886-4737-bb97-ccf92a2f6ce9,therapy.it,resell,94,92,7,,26/08/2010 12:16,26/08/2025 00:00
@@ -767,12 +767,18 @@ bb1af77a-f645-4792-a786-e23e8d78df42,therapy.org,resell,94,92,7,"GoDaddy.com, LL
 f25bfeac-cdde-4fb1-bc4e-049751508a88,therapy.store,premium,94,92,7,,,
 18fe9e63-0000-4337-94b3-2bdf7f3fa0a6,therapy.tech,premium,94,92,7,,,
 e93f69b6-fa48-41c9-953e-74eed5bfc96f,therapy.xyz,resell,94,92,7,"Go Daddy, LLC",15/12/2020 21:02,15/12/2025 23:59
+2979af8f-636e-4b26-a9d3-0384e0cb0683,healthcare.watch,available,76,28,10,,,
+dfd315a9-4b8e-49d6-9fce-baeb2258a4c1,healthcare.webcam,available,76,28,10,,,
+82d95863-2f94-4b2b-aeed-b89319d33321,healthcare.website,available,76,28,10,,,
+ef3afc65-7999-4a2a-b81a-21bc85ecb10f,healthcare.wedding,available,76,28,10,,,
+a2cc48a9-ac46-408d-9570-0257c23a3fec,healthcare.wiki,resell,76,28,10,"GoDaddy.com, LLC",03/03/2025 00:42,03/03/2026 00:42
+f38bf42e-3a05-4528-9084-4b1efa407ed5,healthcare.win,available,76,28,10,,,
 e8ab2126-a254-48c0-bd77-433ba5ae4e21,healthcare.wine,available,76,28,10,,,
 cf11ab30-b89e-48d1-b098-b12eb35c9141,healthcare.world,resell,76,28,10,"Spaceship, Inc.",14/01/2015 16:00,14/01/2026 16:00
 5fb8fa21-bc86-43d9-9b30-5a8c82223ee4,healthcare.xyz,sold,76,28,10,"Go Daddy, LLC",29/09/2021 14:58,29/09/2026 23:59
-3bbbf116-fcc2-44e9-91cc-78cd52b947ff,healthcare.yachts,available,76,28,10,,,
+3bbbf116-fcc2-44e9-91cc-78cd52b947ff,healthcare.yachts,premium,76,28,10,,,
 df5768cf-6797-4bed-94d6-53bba247ee47,healthcare.yoga,resell,76,28,10,"GoDaddy.com, LLC",26/08/2020 18:45,26/08/2026 18:45
-66c106d0-3796-4c3f-bc78-f884a4a09c52,healthcare.zip,available,76,28,10,,,
+66c106d0-3796-4c3f-bc78-f884a4a09c52,healthcare.zip,premium,76,28,10,,,
 fd6e861a-0147-41b4-a047-263ef580cdfa,healthcare.zone,premium,76,28,10,,,
 10caf8b1-3ac2-4df0-a4b9-3d0ea4b6e04e,healthcare.ac,resell,76,28,10,"Spaceship, Inc.",26/09/2021 12:57,26/09/2026 12:57
 c8f9bd10-578c-46a6-b7a9-31c5f77a1288,healthcare.academy,resell,76,28,10,Dynadot Inc,19/03/2014 16:00,19/03/2026 16:00
@@ -993,9 +999,3 @@ ba228054-fb1c-4a52-b056-9ce9c483622e,healthcare.navy,available,76,28,10,,,
 4c166545-9e9f-49b0-82bb-35d9395d2008,healthcare.ong,premium,76,28,10,,,
 bfd56c93-1665-4441-a8fe-3864996441f1,healthcare.online,premium,76,28,10,,,
 00c94867-ce3d-4a49-acde-acf63f23617d,healthcare.ooo,available,76,28,10,,,
-109fe724-a22c-4533-a6a6-196eb0fe9315,healthcare.organic,available,76,28,10,,,
-78f88395-501a-4ef8-90a7-a2eac16163af,healthcare.osaka,premium,76,28,10,,,
-c686ef41-0a31-4e95-9710-744344249dba,healthcare.page,premium,76,28,10,,,
-707b0de3-e118-453a-8585-980fbaf221c8,healthcare.partners,resell,76,28,10,Porkbun LLC,24/06/2015 16:00,24/06/2026 16:00
-e95c5243-ebd7-43c5-ac89-1b67bc1ef243,healthcare.parts,premium,76,28,10,,,
-816c8122-efa1-425b-b91e-1d137dbe5d61,healthcare.party,available,76,28,10,,,
