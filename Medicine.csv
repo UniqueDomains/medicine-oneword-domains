@@ -336,6 +336,27 @@ a9bd2afd-e4e3-4d8f-9674-ad16824a93f8,care.boo,premium,80,31,4,,,
 2c5d288c-7da2-485e-b2bb-298bc815cec7,care.bot,premium,80,31,4,,,
 0a5b9ff4-62ea-4fed-839e-05b475a7a782,care.boutique,resell,80,31,4,"Spaceship, Inc.",08/08/2025 07:58,08/08/2026 07:58
 70dbb89f-d9c1-4400-bc33-de45f21895ed,care.build,premium,80,31,4,,,
+276a42b5-9970-4df3-b1fa-9fc08c36f1a5,treatment.asia,expired,78,14,9,CommuniGal Communication Ltd.,15/10/2024 15:50,15/10/2025 15:50
+bf68b0e2-9731-4458-af08-099f68ebb652,treatment.at,resell,78,14,9,Greenmark IT GmbH ( https://nic.at/registrar/618 ),,
+8035e0bd-4cb4-4854-b4a9-f52b573643ae,treatment.attorney,available,78,14,9,,,
+09b52e8a-c891-402c-b6ef-f4940292760a,treatment.auction,available,78,14,9,,,
+c4d5aaa6-9732-46ea-b83e-bd74700c17a9,treatment.audio,available,78,14,9,,,
+8555b385-5b48-4338-ba49-031180b41d89,treatment.auto,available,78,14,9,,,
+d90732ad-969f-46d1-9d20-81225263a6ae,treatment.autos,premium,78,14,9,,,
+5e958369-807a-4c0b-8fde-606c250b7268,treatment.baby,available,78,14,9,,,
+ff79768d-e91f-4182-8dc8-c0e4d69f705a,treatment.bargains,available,78,14,9,,,
+029faa63-fae9-4d83-8819-04fdf11e67e7,treatment.bayern,available,78,14,9,,,
+acd0598a-455a-45ca-be15-c374a0815711,treatment.beauty,premium,78,14,9,,,
+6bb5d237-3c09-4070-adef-d698a5236ff3,treatment.beer,available,78,14,9,,,
+ff47c545-f1f2-42b6-8cee-b64f98b83d65,treatment.berlin,available,78,14,9,,,
+722e8390-ca63-4dc0-bb96-c21da7c6fdef,treatment.bet,available,78,14,9,,,
+6f9ece49-d3c8-46aa-b986-0f7bda51fc20,treatment.bid,premium,78,14,9,,,
+946d75f4-c32d-418d-b669-db7dcd255206,treatment.bike,available,78,14,9,,,
+f6a16585-d915-44ef-b802-78615999c5aa,treatment.bingo,available,78,14,9,,,
+24e449cf-6004-4109-96a6-aece8bdd3568,treatment.bio,premium,78,14,9,,,
+114ab1fa-38ac-433e-86ee-e24543159a8a,treatment.black,available,78,14,9,,,
+0a31fe1e-69ec-4ff3-b240-5bdd8e8d7003,treatment.blackfriday,available,78,14,9,,,
+d2454e83-c26d-4078-bf36-7edf21c7570f,treatment.blog,premium,78,14,9,,,
 475c52fc-372a-48b8-9a28-0d6d8485cd5c,treatment.blue,available,78,14,9,,,
 e8b63e62-575e-47d7-87ff-e563d9104715,treatment.boats,premium,78,14,9,,,
 5dbc6521-7aea-49a6-b849-98c7b78db26c,treatment.boo,premium,78,14,9,,,
@@ -736,27 +757,6 @@ a638f537-572d-495d-83bd-4f79a0309634,treatment.apartments,available,78,14,9,,,
 5dfd0031-e52c-4792-903e-4255627ca59f,treatment.archi,available,78,14,9,,,
 6a0e133a-5fb8-491f-bc37-aeff853772b1,treatment.army,available,78,14,9,,,
 18c9dab0-face-47fb-b8ef-ad049e2f4eb5,treatment.art,premium,78,14,9,,,
-276a42b5-9970-4df3-b1fa-9fc08c36f1a5,treatment.asia,expired,78,14,9,CommuniGal Communication Ltd.,15/10/2024 15:50,15/10/2025 15:50
-bf68b0e2-9731-4458-af08-099f68ebb652,treatment.at,resell,78,14,9,Greenmark IT GmbH ( https://nic.at/registrar/618 ),,
-8035e0bd-4cb4-4854-b4a9-f52b573643ae,treatment.attorney,available,78,14,9,,,
-09b52e8a-c891-402c-b6ef-f4940292760a,treatment.auction,available,78,14,9,,,
-c4d5aaa6-9732-46ea-b83e-bd74700c17a9,treatment.audio,available,78,14,9,,,
-8555b385-5b48-4338-ba49-031180b41d89,treatment.auto,available,78,14,9,,,
-d90732ad-969f-46d1-9d20-81225263a6ae,treatment.autos,premium,78,14,9,,,
-5e958369-807a-4c0b-8fde-606c250b7268,treatment.baby,available,78,14,9,,,
-ff79768d-e91f-4182-8dc8-c0e4d69f705a,treatment.bargains,available,78,14,9,,,
-029faa63-fae9-4d83-8819-04fdf11e67e7,treatment.bayern,available,78,14,9,,,
-acd0598a-455a-45ca-be15-c374a0815711,treatment.beauty,premium,78,14,9,,,
-6bb5d237-3c09-4070-adef-d698a5236ff3,treatment.beer,available,78,14,9,,,
-ff47c545-f1f2-42b6-8cee-b64f98b83d65,treatment.berlin,available,78,14,9,,,
-722e8390-ca63-4dc0-bb96-c21da7c6fdef,treatment.bet,available,78,14,9,,,
-6f9ece49-d3c8-46aa-b986-0f7bda51fc20,treatment.bid,premium,78,14,9,,,
-946d75f4-c32d-418d-b669-db7dcd255206,treatment.bike,available,78,14,9,,,
-f6a16585-d915-44ef-b802-78615999c5aa,treatment.bingo,available,78,14,9,,,
-24e449cf-6004-4109-96a6-aece8bdd3568,treatment.bio,premium,78,14,9,,,
-114ab1fa-38ac-433e-86ee-e24543159a8a,treatment.black,available,78,14,9,,,
-0a31fe1e-69ec-4ff3-b240-5bdd8e8d7003,treatment.blackfriday,available,78,14,9,,,
-d2454e83-c26d-4078-bf36-7edf21c7570f,treatment.blog,premium,78,14,9,,,
 ea63544b-b908-4ce5-b795-0c4c46ac8c6d,therapy.dev,expired,94,92,7,Squarespace Domains II LLC.,15/05/2022 20:59,15/05/2025 20:59
 fc6e6c78-ca10-470f-b14c-cbcca477078d,therapy.io,resell,94,92,7,"GoDaddy.com, LLC",28/08/2013 00:18,28/08/2025 00:18
 a6315cfb-1886-4737-bb97-ccf92a2f6ce9,therapy.it,resell,94,92,7,,26/08/2010 12:16,26/08/2025 00:00
@@ -773,7 +773,7 @@ d89c5211-7a1c-435f-93f6-a702203c09de,healthcare.tips,resell,76,27,10,"GoDaddy.co
 729a2cb0-0ad1-4fee-957f-e40698725399,healthcare.tires,available,76,27,10,,,
 a268372b-43db-4235-8521-7192a4e50674,healthcare.top,resell,76,27,10,西部数码国际有限公司,27/01/2017 18:00,27/01/2033 18:00
 8ad9cda5-f9ea-4cb5-988f-0e4f3a3ebaf6,healthcare.tours,expired,76,27,10,IONOS SE,13/11/2020 17:22,13/11/2025 17:22
-65373d94-9813-4bac-9df2-3a101bd09673,healthcare.town,available,76,27,10,,,
+65373d94-9813-4bac-9df2-3a101bd09673,healthcare.town,premium,76,27,10,,,
 ab12c144-b139-4352-a11c-a5b50f2f3a84,healthcare.toys,available,76,27,10,,,
 70136bff-82fc-46aa-9477-cd59e4410675,healthcare.trade,resell,76,27,10,Porkbun,31/07/2019 13:04,31/07/2026 13:04
 1059b42c-5b00-4275-aafe-e721859cdb9f,healthcare.training,resell,76,27,10,"GoDaddy.com, LLC",27/06/2016 15:05,27/06/2026 15:05
@@ -781,21 +781,21 @@ bea436c6-3539-4440-95ea-3752d9d4522f,healthcare.travel,resell,76,27,10,Dynadot I
 2c7ce5a8-ba9a-4ff8-b53a-6200c34076dd,healthcare.tube,expired,76,27,10,"Latin American Telecom, LLC",08/11/2017 19:27,08/11/2025 19:27
 9ea934b3-b3a2-4b67-9ec1-92c6c78a3bb4,healthcare.tv,resell,76,27,10,Dynadot Inc,08/12/2018 09:02,08/12/2026 09:02
 b32fa6b0-90c6-420d-8a64-718ef1f7ae07,healthcare.university,expiring,76,27,10,Dynadot Inc,18/12/2024 20:09,18/12/2025 20:09
-51ec3d36-afd4-4f6f-9998-9398c815e7c3,healthcare.uno,available,76,27,10,,,
+51ec3d36-afd4-4f6f-9998-9398c815e7c3,healthcare.uno,premium,76,27,10,,,
 c28e70bd-4947-4227-9d52-cb3edd73faa3,healthcare.us,resell,76,27,10,Epik LLC,24/04/2002 14:01,23/04/2027 23:59
-dec58886-07e8-4866-98b2-2377bc8faacc,healthcare.vacations,available,76,27,10,,,
+dec58886-07e8-4866-98b2-2377bc8faacc,healthcare.vacations,premium,76,27,10,,,
 d8623aab-48f2-440a-a3e2-022d191ce7cc,healthcare.vana,available,76,27,10,,,
 2cc4047e-34a1-4fe1-89d0-09f4ef362e02,healthcare.vc,expiring,76,27,10,1API GmbH,21/12/2010 18:26,21/12/2025 18:26
 a5ff1825-3171-4cee-8ec1-b4d0fbf67753,healthcare.ventures,resell,76,27,10,Porkbun LLC,05/06/2023 15:15,05/06/2026 15:15
-01a67d3b-2b69-44e4-91d8-c8c1158effe0,healthcare.vet,available,76,27,10,,,
+01a67d3b-2b69-44e4-91d8-c8c1158effe0,healthcare.vet,premium,76,27,10,,,
 79cd2663-d293-4b8e-ab57-ac7ae1d27a73,healthcare.viajes,available,76,27,10,,,
-8399f376-829b-4a52-a38c-2faa6f25544f,healthcare.villas,available,76,27,10,,,
+8399f376-829b-4a52-a38c-2faa6f25544f,healthcare.villas,premium,76,27,10,,,
 65dae528-4d95-41a6-a0c0-0d3464d5ca68,healthcare.vin,available,76,27,10,,,
-127a9820-55e1-4f86-a174-49a573af7d17,healthcare.vip,available,76,27,10,,,
+127a9820-55e1-4f86-a174-49a573af7d17,healthcare.vip,premium,76,27,10,,,
 023de464-317d-4cc4-ab36-bd83f798158d,healthcare.vodka,available,76,27,10,,,
-5c4a166f-3dd4-4769-9ff3-f23678f57e6e,healthcare.vote,available,76,27,10,,,
+5c4a166f-3dd4-4769-9ff3-f23678f57e6e,healthcare.vote,premium,76,27,10,,,
 2e832461-92f5-4e51-8ab6-ae44431bacea,healthcare.voting,available,76,27,10,,,
-9f8e9ff0-c0b2-4cd4-8338-b0c9cc87d660,healthcare.voto,available,76,27,10,,,
+9f8e9ff0-c0b2-4cd4-8338-b0c9cc87d660,healthcare.voto,premium,76,27,10,,,
 0c53cc31-e6f5-4408-b9a0-24dd485e2e18,healthcare.voyage,available,76,27,10,,,
 2979af8f-636e-4b26-a9d3-0384e0cb0683,healthcare.watch,premium,76,27,10,,,
 dfd315a9-4b8e-49d6-9fce-baeb2258a4c1,healthcare.webcam,available,76,27,10,,,
