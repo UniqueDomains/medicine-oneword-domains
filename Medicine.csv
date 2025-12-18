@@ -336,6 +336,18 @@ a9bd2afd-e4e3-4d8f-9674-ad16824a93f8,care.boo,premium,80,31,4,,,
 2c5d288c-7da2-485e-b2bb-298bc815cec7,care.bot,premium,80,31,4,,,
 0a5b9ff4-62ea-4fed-839e-05b475a7a782,care.boutique,resell,80,31,4,"Spaceship, Inc.",08/08/2025 07:58,08/08/2026 07:58
 70dbb89f-d9c1-4400-bc33-de45f21895ed,care.build,premium,80,31,4,,,
+ac309c28-9117-4081-bb5f-e9ff8d73045f,treatment.ac,available,78,14,9,,,
+c627af6b-596e-4e71-ac3b-104cd6187194,treatment.accountant,available,78,14,9,,,
+fa55f07c-98f5-45de-9a76-f4c650c35a99,treatment.accountants,available,78,14,9,,,
+d594f51b-0f83-49a6-8910-943117fe09c7,treatment.actor,available,78,14,9,,,
+b9931feb-f352-405d-8014-52760de7c77b,treatment.adult,available,78,14,9,,,
+006a074e-133d-4967-9237-12e0bfc5dd85,treatment.ag,available,78,14,9,,,
+40a8aa4d-74f9-4d9a-83b7-8369bc8fa307,treatment.airforce,available,78,14,9,,,
+a638f537-572d-495d-83bd-4f79a0309634,treatment.apartments,available,78,14,9,,,
+1a0141ba-4686-49a0-90f1-8d4fa11302c0,treatment.app,sold,78,14,9,Namecheap Inc.,28/07/2021 19:39,28/07/2026 19:39
+5dfd0031-e52c-4792-903e-4255627ca59f,treatment.archi,available,78,14,9,,,
+6a0e133a-5fb8-491f-bc37-aeff853772b1,treatment.army,available,78,14,9,,,
+18c9dab0-face-47fb-b8ef-ad049e2f4eb5,treatment.art,premium,78,14,9,,,
 276a42b5-9970-4df3-b1fa-9fc08c36f1a5,treatment.asia,expired,78,14,9,CommuniGal Communication Ltd.,15/10/2024 15:50,15/10/2025 15:50
 bf68b0e2-9731-4458-af08-099f68ebb652,treatment.at,resell,78,14,9,Greenmark IT GmbH ( https://nic.at/registrar/618 ),,
 8035e0bd-4cb4-4854-b4a9-f52b573643ae,treatment.attorney,available,78,14,9,,,
@@ -745,18 +757,6 @@ c3fcf0aa-863d-4154-b991-88f210116865,treatment.yachts,premium,78,14,9,,,
 82696a19-d9db-4c16-8a1a-0e607073f73d,treatment.yoga,available,78,14,9,,,
 e99be8be-9e18-430e-b8cd-6474ff9e3f6b,treatment.zip,premium,78,14,9,,,
 1e0a7fdd-335c-400b-a265-819df39b089f,treatment.zone,resell,78,14,9,"Chengdu West Dimension Digital Technology Co., Ltd.",24/02/2021 08:21,24/02/2026 08:21
-ac309c28-9117-4081-bb5f-e9ff8d73045f,treatment.ac,available,78,14,9,,,
-c627af6b-596e-4e71-ac3b-104cd6187194,treatment.accountant,available,78,14,9,,,
-fa55f07c-98f5-45de-9a76-f4c650c35a99,treatment.accountants,available,78,14,9,,,
-d594f51b-0f83-49a6-8910-943117fe09c7,treatment.actor,available,78,14,9,,,
-b9931feb-f352-405d-8014-52760de7c77b,treatment.adult,available,78,14,9,,,
-006a074e-133d-4967-9237-12e0bfc5dd85,treatment.ag,available,78,14,9,,,
-40a8aa4d-74f9-4d9a-83b7-8369bc8fa307,treatment.airforce,available,78,14,9,,,
-a638f537-572d-495d-83bd-4f79a0309634,treatment.apartments,available,78,14,9,,,
-1a0141ba-4686-49a0-90f1-8d4fa11302c0,treatment.app,sold,78,14,9,Namecheap Inc.,28/07/2021 19:39,28/07/2026 19:39
-5dfd0031-e52c-4792-903e-4255627ca59f,treatment.archi,available,78,14,9,,,
-6a0e133a-5fb8-491f-bc37-aeff853772b1,treatment.army,available,78,14,9,,,
-18c9dab0-face-47fb-b8ef-ad049e2f4eb5,treatment.art,premium,78,14,9,,,
 ea63544b-b908-4ce5-b795-0c4c46ac8c6d,therapy.dev,expired,94,92,7,Squarespace Domains II LLC.,15/05/2022 20:59,15/05/2025 20:59
 fc6e6c78-ca10-470f-b14c-cbcca477078d,therapy.io,resell,94,92,7,"GoDaddy.com, LLC",28/08/2013 00:18,28/08/2025 00:18
 a6315cfb-1886-4737-bb97-ccf92a2f6ce9,therapy.it,resell,94,92,7,,26/08/2010 12:16,26/08/2025 00:00
