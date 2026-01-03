@@ -1,4 +1,6 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+0a5b9ff4-62ea-4fed-839e-05b475a7a782,care.boutique,resell,80,31,4,"Spaceship, Inc.",08/08/2025 07:58,08/08/2026 07:58
+70dbb89f-d9c1-4400-bc33-de45f21895ed,care.build,premium,80,31,4,,,
 5305d9a9-81e2-4f8d-92d1-12c6dc99f716,care.buzz,premium,80,31,4,,,
 c8d02bdb-037b-4375-8814-7fd25565f0a0,care.bz,premium,80,31,4,,,
 a85dc32a-570b-4def-b50f-7604057063cd,care.cam,premium,80,31,4,,,
@@ -336,8 +338,6 @@ a6bae29f-da9e-40dd-91a3-a9294e2c897c,care.blackfriday,available,80,31,4,,,
 80f897b3-a949-4c59-af96-2b6369f838d9,care.boats,premium,80,31,4,,,
 a9bd2afd-e4e3-4d8f-9674-ad16824a93f8,care.boo,premium,80,31,4,,,
 2c5d288c-7da2-485e-b2bb-298bc815cec7,care.bot,premium,80,31,4,,,
-0a5b9ff4-62ea-4fed-839e-05b475a7a782,care.boutique,resell,80,31,4,"Spaceship, Inc.",08/08/2025 07:58,08/08/2026 07:58
-70dbb89f-d9c1-4400-bc33-de45f21895ed,care.build,premium,80,31,4,,,
 ac309c28-9117-4081-bb5f-e9ff8d73045f,treatment.ac,available,78,14,9,,,
 c627af6b-596e-4e71-ac3b-104cd6187194,treatment.accountant,available,78,14,9,,,
 fa55f07c-98f5-45de-9a76-f4c650c35a99,treatment.accountants,available,78,14,9,,,
@@ -770,11 +770,13 @@ bb1af77a-f645-4792-a786-e23e8d78df42,therapy.org,resell,94,92,7,"GoDaddy.com, LL
 f25bfeac-cdde-4fb1-bc4e-049751508a88,therapy.store,premium,94,92,7,,,
 18fe9e63-0000-4337-94b3-2bdf7f3fa0a6,therapy.tech,premium,94,92,7,,,
 e93f69b6-fa48-41c9-953e-74eed5bfc96f,therapy.xyz,resell,94,92,7,"Go Daddy, LLC",15/12/2020 21:02,15/12/2025 23:59
-e0f4fa86-c727-43a1-b0b2-16aa542a55a6,healthcare.tax,available,76,27,10,,,
+3415c4b6-5bb3-4aff-b9f3-09a324d781c0,healthcare.talk,available,76,27,10,,,
+31fdf6f7-378f-4538-80d6-7d50e1a95a57,healthcare.tattoo,available,76,27,10,,,
+e0f4fa86-c727-43a1-b0b2-16aa542a55a6,healthcare.tax,premium,76,27,10,,,
 31a81a2a-db32-43aa-8fe3-b91ff7797274,healthcare.taxi,available,76,27,10,,,
 9fcf11a8-47f1-42dd-82ef-9c23086abc64,healthcare.team,expiring,76,27,10,"GoDaddy.com, LLC",09/01/2024 18:40,09/01/2026 18:40
 727c519d-a6e9-4124-a177-01cabcc9a253,healthcare.tech,premium,76,27,10,,,
-3d6300cc-304b-4afa-b9aa-933f0984f242,healthcare.tel,available,76,27,10,,,
+3d6300cc-304b-4afa-b9aa-933f0984f242,healthcare.tel,premium,76,27,10,,,
 ebd09cee-c520-4dd6-a9a6-e16095259bcd,healthcare.tennis,available,76,27,10,,,
 733b898f-7dca-484f-9c2d-e0e996c4db30,healthcare.theater,available,76,27,10,,,
 2310a2c8-606f-4509-b741-292ac55df2bc,healthcare.theatre,available,76,27,10,,,
@@ -997,5 +999,3 @@ b779b975-f1ad-4c24-8790-2142b91398fc,healthcare.kitchen,resell,76,27,10,"Sav.com
 971d5e9e-2d75-45d4-bba6-51b08243e144,healthcare.law,resell,76,27,10,"GoDaddy.com, LLC",30/06/2017 02:49,30/06/2026 02:49
 dbf26129-fce2-4cb1-83b3-0c7b5c40a8b8,healthcare.lawyer,premium,76,27,10,,,
 25970016-40c7-44c0-9487-c02802abe265,healthcare.lease,available,76,27,10,,,
-163ba79d-68c4-493f-8412-b4a9467a9cd2,healthcare.lgbt,available,76,27,10,,,
-f085965b-5be3-438a-9d73-6295fffdcf35,healthcare.lifestyle,premium,76,27,10,,,
