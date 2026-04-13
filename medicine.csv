@@ -5221,7 +5221,6 @@ f8142c1e-7bf9-4035-95e8-bc9ab13bf682,cure.forsale,available,19.99,52.99,72,26,4,
 161eae7a-ac9a-4dbd-8843-8a69a13644c1,cure.free,premium,1250,1250,72,26,4,name.com,,
 990343b6-a4ca-48da-9bd1-052c8cdbc84e,cure.furniture,available,39.99,151.99,72,26,4,name.com,,
 f76f01ca-5ab9-40b2-b686-bb04795b7b7c,cure.futbol,available,19.99,24.99,72,26,4,name.com,,
-203b9d51-95a3-41f7-919e-970eb39f227d,cure.fyi,resell,,,72,26,4,Dynadot Inc,09/05/2023 02:25,09/05/2026 02:25
 85bd7c71-8ead-47dc-9462-4cf8d7136fcd,cure.game,premium,1625,1625,72,26,4,name.com,,
 3e55a5dd-8a13-4fce-bc06-646c1dcb8343,cure.games,available,19.99,43.99,72,26,4,name.com,,
 709308f9-e886-4ccf-9cda-74d4ca529d1a,cure.garden,premium,100,45.99,72,26,4,name.com,,
@@ -5388,6 +5387,7 @@ b3011bee-c68a-4fbe-9f6c-815448d99f1e,cure.security,available,2950,,72,26,4,namec
 27fa2743-138d-4d94-b733-1bb8fbb9dea9,cure.sexy,premium,12500,12500,72,26,4,name.com,,
 fddb1e09-365e-4efa-bcfa-8ecc8d3ff596,cure.shiksha,available,19.99,74.99,72,26,4,name.com,,
 c4e85708-5079-4e48-a797-521c7cace6e6,cure.shoes,available,39.99,83.99,72,26,4,name.com,,
+33e50f77-2371-4da3-9c3d-3a40c93f9993,cure.shop,premium,625,,72,26,4,name.com,,
 31bb2a66-16d7-496a-8b37-31935c96f54b,cure.shopping,available,14.99,45.99,72,26,4,name.com,,
 6e9eedba-858a-43fb-bd45-55570bf70c25,cure.show,available,17.99,56.99,72,26,4,name.com,,
 56c3c979-529e-415e-8ad9-014469b5170b,cure.singles,available,12.99,43.99,72,26,4,name.com,,
@@ -5417,8 +5417,7 @@ bf4c7362-5b24-4ef7-911e-6304c86cf785,cure.sydney,available,54.98,,72,26,4,namech
 e29fd80f-fb53-4e65-a618-278adcec7f42,cure.tattoo,available,48.98,,72,26,4,namecheap,,
 e761ec24-5237-4d5d-bd21-2e2e8d0bf87b,cure.tax,available,14.99,92.99,72,26,4,name.com,,
 9aa4b00a-524a-41b8-841f-19c17438eb19,cure.taxi,available,10.99,84.99,72,26,4,name.com,,
-8edc51f5-df58-4a6c-9c68-ebadac9fb08a,cure.team,resell,,,72,26,4,"DNSPod, Inc.",11/05/2019 02:13,11/05/2026 02:13
-533748ed-52bd-4fd9-894f-a18c90081a36,cure.technology,available,17.99,41.99,72,26,4,name.com,,
+533748ed-52bd-4fd9-894f-a18c90081a36,cure.technology,resell,17.99,41.99,72,26,4,"Spaceship, Inc.",23/02/2026 08:56,23/02/2027 08:56
 bcae37f6-a1b4-4b68-876a-65a948e317a4,cure.tennis,available,80.99,86.99,72,26,4,name.com,,
 e13546d9-3ec9-40f6-ab55-8aa5780e5be5,cure.theater,available,19.99,83.99,72,26,4,name.com,,
 3c27dc0f-e1b0-484f-b926-416bdd227258,cure.theatre,available,620,,72,26,4,namecheap,,
@@ -5459,6 +5458,7 @@ d8246860-d7bf-4162-8d35-b2e163c13bc3,cure.work,premium,62.5,14.99,72,26,4,name.c
 3e8c2009-9dc0-4850-943d-e10526349bdc,cure.works,premium,123.75,123.75,72,26,4,name.com,,
 3f3df2e2-3c41-40ef-a023-374f2f877dbe,cure.world,resell,,,72,26,4,"Chengdu West Dimension Digital Technology Co., Ltd.",19/02/2017 03:01,19/02/2027 03:01
 9b9b9775-b55d-49a4-a534-b0b6f1245989,cure.wtf,resell,,,72,26,4,"Sav.com, LLC - 43",03/11/2025 15:15,03/11/2026 15:15
+f00dd490-15d0-4268-a528-1d028465e191,cure.xyz,resell,,,72,26,4,Dynadot LLC,24/09/2017 11:31,24/09/2030 23:59
 3b6d076d-ceca-4da8-b6cf-6367c4f31c3c,cure.yachts,premium,812.5,20.99,72,26,4,name.com,,
 2163c0cf-fa31-4656-bec5-15bfd6b5e127,cure.you,premium,312.5,312.5,72,26,4,name.com,,
 30ba604a-adc5-404b-9563-7b35d0506695,cure.zip,premium,73.75,73.75,72,26,4,name.com,,
