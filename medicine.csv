@@ -357,6 +357,7 @@ fcb90a74-f9d6-41e1-a1e0-de724ae7af1b,medicine.management,premium,,,94,23,8,,,
 aa1c50c5-b3df-4f03-8584-3161563d223b,medicine.osaka,premium,,,94,23,8,,,
 5214df37-def4-4923-ba1c-4bcf18e85380,medicine.property,premium,,,94,23,8,,,
 f05b3936-9179-4400-92f1-9d2ba9102d93,medicine.qpon,premium,,,94,23,8,,,
+ff875701-d5be-4d47-ac07-f342e186b65d,medicine.so,available,68.98,,94,23,8,namecheap,,
 88011d0d-7e2d-42b8-8457-5d0e7232af46,medicine.win,premium,,,94,23,8,,,
 a92a0a1a-bed9-4ed7-bcec-b9b08e454ba4,medicine.barcelona,available,38.98,,80,27,8,namecheap,,
 4bcad46b-bdbe-4e78-9836-c5562c70bf1b,medicine.broker,available,19.99,,80,27,8,name.com,,
@@ -754,7 +755,6 @@ f9708182-fd79-4530-b165-b89890843ac6,medical.beer,available,41.98,,100,32,7,name
 df6af3d4-179d-4404-8273-0929de4d0800,medical.berlin,available,89.98,,100,32,7,namecheap,,
 b366033e-d852-4391-8394-20f8da5cc656,medical.best,resell,,,100,32,7,"Spaceship, Inc.",05/12/2020 15:06,05/12/2026 23:59
 62726bcb-2ceb-4111-85a5-53601dd1cf10,medical.bet,resell,,,100,32,7,"GoDaddy.com, LLC",07/08/2023 04:25,07/08/2027 04:25
-7240d537-7c53-4492-abb8-a132b1e14806,medical.bid,resell,,,100,32,7,Porkbun,22/05/2020 13:00,22/05/2026 13:00
 ea24b30a-1386-4726-b898-c8d91570c83a,medical.bike,available,14.99,50.99,100,32,7,name.com,,
 46366984-cb00-4407-b4da-a1dcdf4aadb7,medical.bio,premium,1000,1000,100,32,7,name.com,,
 71ae0abc-e95d-477f-b768-de066e9f2c34,medical.black,resell,,,100,32,7,"Xiamen ChinaSource Internet Service Co., Ltd",07/06/2025 15:16,07/06/2026 15:16
@@ -899,7 +899,6 @@ bc6eb547-5975-4aba-b544-f4a9c988bed7,medical.jetzt,premium,,,100,32,7,,,
 2148bc7e-ea0f-4352-89ff-d00d4d2fc0b2,medical.kids,premium,62.5,22.5,100,32,7,name.com,,
 093b7978-a681-4339-aa26-06ca1da552bc,medical.kitchen,available,14.99,84.99,100,32,7,name.com,,
 65fb8d6c-8f6a-46b0-ba8c-b11c4fb17529,medical.kiwi,premium,54.04,54.04,100,32,7,name.com,,
-7d833faa-44dd-43c7-9eff-38817c31a479,medical.land,resell,,,100,32,7,"Spaceship, Inc.",27/05/2022 00:32,27/05/2026 00:32
 67a8319c-23fe-4080-a4da-b466d6ef5327,medical.lease,premium,82.5,82.5,100,32,7,name.com,,
 ccaa6548-94fa-4cf1-bfda-ba719de46ebf,medical.lgbt,available,19.99,105.99,100,32,7,name.com,,
 df8570cf-68cd-431d-b5d2-7c09c50482c7,medical.lifestyle,premium,455,650,100,32,7,namecheap,,
@@ -919,7 +918,6 @@ af3fcc66-c64c-4346-8e7a-5166fb2cbcea,medical.luxe,premium,500,27.99,100,32,7,nam
 b4ef427d-998f-41f9-aa79-52cde95e7547,medical.makeup,premium,2500,20.99,100,32,7,name.com,,
 03597934-2a54-43de-ab35-b37b73cbfb45,medical.markets,premium,500,500,100,32,7,name.com,,
 cd3f84df-a0c1-41a2-b0ef-58baee75d041,medical.mba,available,19.99,50.99,100,32,7,name.com,,
-390cca91-2689-42ee-94c5-0803f2a74bc5,medical.media,resell,,,100,32,7,"Sav.com, LLC",07/03/2024 20:31,07/03/2027 20:31
 5879ea13-e904-4539-8490-06f3d5d79bda,medical.melbourne,premium,419.98,419.98,100,32,7,name.com,,
 ca8a08ea-0930-4144-a7cd-1ddc0143b07c,medical.meme,premium,812.5,812.5,100,32,7,name.com,,
 eb050d33-2152-4a69-a56f-406d61043470,medical.memorial,premium,123.75,123.75,100,32,7,name.com,,
@@ -945,6 +943,7 @@ f3bbcdff-fa84-423d-936c-b6f615bc3f1d,medical.nyc,premium,6250,46.99,100,32,7,nam
 669d403c-6ad6-4457-9e25-abf0840197d3,medical.observer,premium,1000,1000,100,32,7,name.com,,
 9aba4835-6d2b-4b5c-ab5d-3988d7715664,medical.ong,premium,62.5,31.25,100,32,7,name.com,,
 c9f5473c-e50f-4dfc-b399-5e2f6980622d,medical.onl,premium,62.5,125,100,32,7,name.com,,
+645d0f12-160e-41a9-a2c3-a99171d8b031,medical.online,premium,,,100,32,7,,,
 1e37c2fc-93a9-4398-b650-6bcc7d86661c,medical.ooo,premium,7762.5,124.99,100,32,7,name.com,,
 43d24c8b-7ef2-460e-841b-bb4bf703d029,medical.organic,available,19.99,73.99,100,32,7,name.com,,
 c94b1cb3-71ea-4f76-acff-052294674bd0,medical.paris,premium,365.04,365.04,100,32,7,name.com,,
@@ -971,6 +970,7 @@ be536242-e46b-4dfe-8210-5dcb158c36c3,medical.realty,premium,910,1300,100,32,7,na
 d82b139c-7879-4103-959e-2ba31e252353,medical.red,resell,,,100,32,7,Squarespace Domains II LLC,09/11/2019 10:11,09/11/2028 10:11
 fca23d73-eeae-4f81-868c-17249a4c86b9,medical.reise,premium,123.75,123.75,100,32,7,name.com,,
 51af0587-65b9-48f7-9029-7720b9157173,medical.rent,premium,250,250,100,32,7,name.com,,
+3c3d7bdf-b159-48e4-b8b4-8e423d19a745,medical.report,premium,1000,1000,100,32,7,name.com,,
 52699175-40fa-4d20-acbe-d589da9c7c94,medical.republican,available,5.99,46.99,100,32,7,name.com,,
 fe80ccbb-83ff-422a-a413-f809ab0284bc,medical.rest,premium,2047.5,2925,100,32,7,namecheap,,
 ca0a5dca-aea7-48f9-bd52-bd4bd8b59b2d,medical.restaurant,available,29.99,83.99,100,32,7,name.com,,
@@ -991,7 +991,6 @@ fe7c36bc-f567-4430-96c0-943a55ab9f4e,medical.sex,available,154.98,,100,32,7,name
 706485c8-96a4-41e9-8472-c91718ba3028,medical.sexy,available,2999,2999,100,32,7,name.com,,
 4ae9a1f5-cff3-4af9-8ba4-3e2354923ff0,medical.sh,available,59.99,99,100,32,7,name.com,,
 ed4cb1e9-e57a-4835-9741-41ac39a00968,medical.shiksha,premium,750,750,100,32,7,name.com,,
-5b06bb64-e2f8-4bc5-9ad8-7afa942b1bcb,medical.shoes,resell,,,100,32,7,Dynadot Inc,20/05/2019 10:07,20/05/2026 10:07
 928096f9-e145-4deb-9f37-7c658f2c7a5d,medical.shopping,resell,,,100,32,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/06/2023 15:15,16/06/2026 15:15
 819116d1-4893-4b5d-b202-2eff6b876dcd,medical.show,resell,,,100,32,7,"Sav.com, LLC - 10",29/10/2025 15:15,29/10/2026 15:15
 9c738cce-48e0-4a6d-a25e-43109c47b107,medical.site,premium,1562.5,6250,100,32,7,name.com,,
@@ -999,3 +998,4 @@ ed4cb1e9-e57a-4835-9741-41ac39a00968,medical.shiksha,premium,750,750,100,32,7,na
 e1bdb1d6-1c6f-4198-814c-b1ba0ef0cb5a,medical.soccer,available,19.99,37.99,100,32,7,name.com,,
 4772a7f8-b683-4607-bb8b-4cb47c2a5553,medical.solar,available,9.99,83.99,100,32,7,name.com,,
 c701e7d7-6057-4c9e-8746-68be9cb80c0f,medical.solutions,resell,,,100,32,7,Porkbun LLC,10/09/2016 12:40,10/09/2026 12:40
+f98d09ba-e8f2-4af5-bc37-91e83fc0921f,medical.soy,premium,373.75,373.75,100,32,7,name.com,,
