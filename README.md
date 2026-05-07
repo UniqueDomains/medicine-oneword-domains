@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                      |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| medicine.hot       | premium   | —          | —             | 94             | 27     | 8      | —                              |
-| medicine.life      | resell    | —          | —             | 94             | 27     | 8      | Xin Net Technology Corporation |
-| medical.solar      | available | $9.99      | $83.99        | 100            | 32     | 7      | name.com                       |
-| medical.pics       | resell    | $1.99      | $45.99        | 100            | 32     | 7      | Dynadot LLC                    |
-| healthcare.company | premium   | $520       | $520          | 76             | 33     | 10     | namecheap                      |
-| medical.soccer     | available | $19.99     | $37.99        | 100            | 32     | 7      | name.com                       |
-| medical.co         | resell    | $172,500   | $48.99        | 100            | 32     | 7      | GoDaddy.com, LLC               |
-| medical.soy        | premium   | $373.75    | $373.75       | 100            | 32     | 7      | name.com                       |
-| medical.sh         | available | $59.99     | $99           | 100            | 32     | 7      | name.com                       |
-| healthcare.info    | resell    | $22,994.25 | $35.99        | 76             | 31     | 10     | GoDaddy.com, LLC               |
-| medical.skin       | premium   | $2,500     | $20.99        | 100            | 32     | 7      | name.com                       |
-| medical.sexy       | available | $2,999     | $2,999        | 100            | 32     | 7      | name.com                       |
-| healthcare.farm    | resell    | $49.98     | —             | 76             | 31     | 10     | Sav.com, LLC                   |
-| medical.site       | premium   | $1,562.50  | $6,250        | 100            | 32     | 7      | name.com                       |
-| medical.sex        | available | $154.98    | —             | 100            | 32     | 7      | namecheap                      |
-| medical.solutions  | resell    | —          | —             | 100            | 32     | 7      | Porkbun LLC                    |
-| medical.shiksha    | premium   | $750       | $750          | 100            | 32     | 7      | name.com                       |
-| medical.security   | available | $2,950     | —             | 100            | 32     | 7      | namecheap                      |
-| medical.show       | resell    | —          | —             | 100            | 32     | 7      | Sav.com, LLC - 10              |
-| medical.services   | premium   | $1,000     | $1,000        | 100            | 32     | 7      | name.com                       |
+| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| medicine.hot       | premium   | —          | —             | 94             | 27     | 8      | —                                                   |
+| medicine.life      | resell    | —          | —             | 94             | 27     | 8      | Xin Net Technology Corporation                      |
+| medical.solar      | available | $9.99      | $83.99        | 100            | 32     | 7      | name.com                                            |
+| medical.pics       | resell    | $1.99      | $45.99        | 100            | 32     | 7      | Dynadot LLC                                         |
+| healthcare.company | premium   | $520       | $520          | 76             | 33     | 10     | namecheap                                           |
+| medical.soccer     | available | $19.99     | $37.99        | 100            | 32     | 7      | name.com                                            |
+| medical.co         | resell    | $172,500   | $48.99        | 100            | 32     | 7      | GoDaddy.com, LLC                                    |
+| medical.skin       | premium   | $2,500     | $20.99        | 100            | 32     | 7      | name.com                                            |
+| medical.sh         | available | $59.99     | $99           | 100            | 32     | 7      | name.com                                            |
+| healthcare.info    | resell    | $22,994.25 | $35.99        | 76             | 32     | 10     | GoDaddy.com, LLC                                    |
+| medical.site       | premium   | $1,562.50  | $6,250        | 100            | 32     | 7      | name.com                                            |
+| medical.sexy       | available | $2,999     | $2,999        | 100            | 32     | 7      | name.com                                            |
+| healthcare.farm    | resell    | $49.98     | —             | 76             | 32     | 10     | Sav.com, LLC                                        |
+| medical.shiksha    | premium   | $750       | $750          | 100            | 32     | 7      | name.com                                            |
+| medical.sex        | available | $154.98    | —             | 100            | 32     | 7      | namecheap                                           |
+| medical.show       | resell    | —          | —             | 100            | 32     | 7      | Sav.com, LLC - 10                                   |
+| medical.services   | premium   | $1,000     | $1,000        | 100            | 32     | 7      | name.com                                            |
+| medical.security   | available | $2,950     | —             | 100            | 32     | 7      | namecheap                                           |
+| medical.shopping   | resell    | —          | —             | 100            | 32     | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| medical.sbs        | premium   | $207.19    | $276.25       | 100            | 32     | 7      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
