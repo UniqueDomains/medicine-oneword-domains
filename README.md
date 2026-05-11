@@ -16,7 +16,7 @@ This selection contains 20,139 domains tied to the keyword medicine, spread acro
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,166 domains · **Median ask:** $2,695.10 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-09  
+**Last updated:** 2026-05-11  
 **Canonical page:** `https://unique.domains/domains/sector/Medicine`  
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | healthcare.company | premium   | $520       | $520          | 76             | 33     | 10     | namecheap                                           |
 | medical.sexy       | available | $2,999     | $2,999        | 100            | 32     | 7      | name.com                                            |
 | medical.co         | resell    | $172,500   | $48.99        | 100            | 32     | 7      | GoDaddy.com, LLC                                    |
-| medical.shiksha    | premium   | $750       | $750          | 100            | 32     | 7      | name.com                                            |
+| medical.site       | premium   | $1,562.50  | $6,250        | 100            | 32     | 7      | name.com                                            |
 | medical.sex        | available | $154.98    | —             | 100            | 32     | 7      | namecheap                                           |
 | healthcare.info    | resell    | $22,994.25 | $35.99        | 76             | 32     | 10     | GoDaddy.com, LLC                                    |
-| medical.services   | premium   | $1,000     | $1,000        | 100            | 32     | 7      | name.com                                            |
+| medical.shiksha    | premium   | $750       | $750          | 100            | 32     | 7      | name.com                                            |
 | medical.security   | available | $2,950     | —             | 100            | 32     | 7      | namecheap                                           |
 | healthcare.farm    | resell    | $49.98     | —             | 76             | 32     | 10     | Sav.com, LLC                                        |
-| medical.sbs        | premium   | $207.19    | $276.25       | 100            | 32     | 7      | name.com                                            |
+| medical.services   | premium   | $1,000     | $1,000        | 100            | 32     | 7      | name.com                                            |
 | medical.rodeo      | available | $13.28     | —             | 100            | 32     | 7      | namecheap                                           |
 | medical.show       | resell    | —          | —             | 100            | 32     | 7      | Sav.com, LLC - 10                                   |
-| medical.sarl       | premium   | $82.50     | $82.50        | 100            | 32     | 7      | name.com                                            |
+| medical.sbs        | premium   | $207.19    | $276.25       | 100            | 32     | 7      | name.com                                            |
 | medical.rip        | available | $7.99      | $29.99        | 100            | 32     | 7      | name.com                                            |
 | medical.shopping   | resell    | —          | —             | 100            | 32     | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| medical.salon      | premium   | $123.75    | $123.75       | 100            | 32     | 7      | name.com                                            |
+| medical.sarl       | premium   | $82.50     | $82.50        | 100            | 32     | 7      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Medicine Keyword Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Medicine Keyword Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
