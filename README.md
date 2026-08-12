@@ -1,10 +1,10 @@
-# One-Word Medicine Domain Names (149,189)
+# One-Word Medicine Domain Names (151,941)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-149%2C189%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-151%2C941%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word medicine domain names spanning 506 different TLDs. The median ask across the selection is $688.57, reflecting a broad mix of pricing tiers. Updated daily, the list gives investors and founders a fast way to compare medicine-related domain names before buying.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **149,189 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **151,941 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 149,189 domains · **Median ask:** $648.39 · **High-demand under $2,500:** 592
+**Public extract:** 1,000 rows · **Live catalog:** 151,941 domains · **Median ask:** $638.20 · **High-demand under $2,500:** 592
 
 **Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/sector/medicine`
@@ -76,13 +76,13 @@ print(df.head())
 | lab.hospital      | premium   | $78.54      | $78.54        | high           | medium | 3      | namesilo               |
 | lab.surgery       | available | $54.99      | $54.99        | high           | medium | 3      | namesilo               |
 | dna.doctor        | resell    | —           | —             | high           | medium | 3      | Go France Domains, LLC |
-| lab.rehab         | premium   | $242        | $242          | high           | medium | 3      | namesilo               |
+| care.surgery      | premium   | $520        | $520          | high           | low    | 4      | namecheap              |
 | cell.healthcare   | available | $88.99      | $88.99        | high           | low    | 4      | namesilo               |
 | dna.health        | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC       |
-| care.surgery      | premium   | $520        | $520          | high           | low    | 4      | namecheap              |
+| cell.health       | premium   | $1,107      | $71.40        | high           | low    | 4      | namesilo               |
 | cell.hiv          | available | $184.99     | —             | high           | low    | 4      | name.com               |
 | eye.health        | resell    | —           | —             | medium         | low    | 3      | GoDaddy.com, LLC       |
-| cell.health       | premium   | $1,107      | $71.40        | high           | low    | 4      | namesilo               |
+| cure.healthcare   | premium   | $123.75     | $123.75       | high           | low    | 4      | name.com               |
 | cell.hospital     | available | $57.99      | $57.99        | high           | low    | 4      | namesilo               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 149,189 live domains                       |
+| 1,000-row public sample | 151,941 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 592 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
