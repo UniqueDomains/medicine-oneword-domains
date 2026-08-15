@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar              |
 | ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| room.management   | resell    | —           | —             | high           | low    | 4      | Porkbun LLC            |
 | dna.hospital      | available | $57.99      | $57.99        | high           | medium | 3      | namesilo               |
 | room.co           | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC       |
 | dna.surgery       | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo               |
 | lab.healthcare    | available | $88.99      | $88.99        | high           | medium | 3      | namesilo               |
+| room.me           | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc            |
+| eye.hospital      | premium   | $500        | —             | medium         | low    | 3      | name.com               |
+| lab.hiv           | available | $184.99     | —             | high           | medium | 3      | name.com               |
 | experiment.health | resell    | $19.99      | —             | high           | low    | 10     | Spaceship, Inc.        |
 | lab.hospital      | premium   | $78.54      | $78.54        | high           | medium | 3      | namesilo               |
 | lab.surgery       | available | $54.99      | $54.99        | high           | medium | 3      | namesilo               |
 | dna.doctor        | resell    | —           | —             | high           | medium | 3      | Go France Domains, LLC |
-| care.surgery      | premium   | $520        | $520          | high           | low    | 4      | namecheap              |
+| lab.rehab         | premium   | $242        | $242          | high           | medium | 3      | namesilo               |
 | cell.healthcare   | available | $88.99      | $88.99        | high           | low    | 4      | namesilo               |
 | dna.health        | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC       |
+| care.surgery      | premium   | $520        | $520          | high           | low    | 4      | namecheap              |
+| cell.hiv          | available | $184.99     | —             | high           | low    | 4      | name.com               |
+| eye.health        | resell    | —           | —             | medium         | low    | 3      | GoDaddy.com, LLC       |
 | cell.health       | premium   | $1,107      | $71.40        | high           | low    | 4      | namesilo               |
 | cell.hospital     | available | $57.99      | $57.99        | high           | low    | 4      | namesilo               |
-| lab.doctor        | resell    | —           | —             | high           | medium | 3      | Go Canada Domains, LLC |
-| cure.healthcare   | premium   | $123.75     | $123.75       | high           | low    | 4      | name.com               |
-| cure.hospital     | available | $57.99      | $57.99        | high           | low    | 4      | namesilo               |
-| lab.health        | resell    | —           | —             | high           | medium | 3      | DotHealth LLC          |
-| cure.shop         | premium   | $625        | —             | high           | low    | 4      | name.com               |
-| cure.surgery      | available | $67.49      | $71.99        | high           | low    | 4      | name.com               |
-| care.health       | resell    | —           | —             | high           | low    | 4      | GoDaddy.com, LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
