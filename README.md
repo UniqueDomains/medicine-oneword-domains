@@ -16,7 +16,7 @@ This is a curated set of one-word medicine domain names spanning 506 different T
 
 **Public extract:** 1,000 rows · **Live catalog:** 165,498 domains · **Median ask:** $594.84 · **High-demand under $2,500:** 580
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/medicine`
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | lab.hospital      | premium   | $78.54      | $78.54        | high           | medium | 3      | namesilo               |
 | lab.surgery       | available | $54.99      | $54.99        | high           | medium | 3      | namesilo               |
 | dna.doctor        | resell    | —           | —             | high           | medium | 3      | Go France Domains, LLC |
-| care.surgery      | premium   | $520        | $520          | high           | low    | 4      | namecheap              |
+| lab.rehab         | premium   | $242        | $242          | high           | medium | 3      | namesilo               |
 | cell.healthcare   | available | $88.99      | $88.99        | high           | low    | 4      | namesilo               |
 | dna.health        | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC       |
-| cell.health       | premium   | $1,107      | $71.40        | high           | low    | 4      | namesilo               |
+| care.surgery      | premium   | $520        | $520          | high           | low    | 4      | namecheap              |
 | cell.hiv          | available | $184.99     | —             | high           | low    | 4      | name.com               |
 | eye.health        | resell    | —           | —             | medium         | low    | 3      | GoDaddy.com, LLC       |
-| cure.healthcare   | premium   | $123.75     | $123.75       | high           | low    | 4      | name.com               |
+| cell.health       | premium   | $1,107      | $71.40        | high           | low    | 4      | namesilo               |
 | cell.hospital     | available | $57.99      | $57.99        | high           | low    | 4      | namesilo               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
