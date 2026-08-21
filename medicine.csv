@@ -35,6 +35,7 @@ c4ef8dda-b4b3-478e-a956-f32430c8c51c,medical.health,resell,,,high,low,7,"GoDaddy
 17fbbe64-8a51-4727-9b53-7454c1464e51,medicine.doctor,premium,854,854,high,low,8,namesilo,,
 37870ac8-3dca-4511-890e-2883145a4d0a,public.healthcare,premium,242,242,high,low,6,namesilo,,
 124d9ddc-0c82-4701-8620-bc67be4847fd,room.hiv,available,184.99,,high,low,4,name.com,,
+885aa09c-b70a-4729-a28c-06fa1c0b7bf9,publichealth.doctor,resell,,,high,low,13,"Go China Domains, LLC",02/11/2016 16:00,02/11/2026 16:00
 c4c0e178-d7a8-4f59-96bc-659a25f29ad9,child.doctor,available,,,high,low,5,,,
 dc060eae-db74-4338-b813-899549e4a696,trial.doctor,available,14.99,,high,low,5,name.com,,
 2c7956b0-7e44-4198-b0d8-327d76634195,dental.doctor,premium,250,250,high,low,6,name.com,,
@@ -164,6 +165,7 @@ bf8e8e24-40e7-4d5a-b739-d3390cd7b30a,room.expert,premium,1040,1040,high,low,4,na
 70e8332a-2537-4be6-9aa5-1b7627040918,fitness.healthcare,resell,,,high,low,7,Edomains LLC,13/10/2023 15:15,13/10/2026 15:15
 62504bb3-9851-4cf5-844b-69cefdff3aa2,operation.healthcare,available,88.99,88.99,high,low,9,namesilo,,
 5ecb9dcc-6c1c-47d5-b06f-175cdfbd3cdc,remedial.hospital,available,57.99,57.99,high,low,8,namesilo,,
+332c6f36-51b3-42a1-80b8-8c57a90d71b6,hospitals.hospital,available,57.99,57.99,medium,low,9,namesilo,,
 8a101178-cdfa-4e69-929c-1392e8a89578,healthcare.surgery,premium,500,,high,low,10,name.com,,
 bb3a39c5-d3cb-43a5-ab38-af1087182b1a,management.surgery,available,54.99,54.99,high,low,10,namesilo,,
 2a032c47-486a-458d-a8b4-c6463837a051,remedial.surgery,available,67.49,71.99,high,low,8,name.com,,
@@ -174,7 +176,6 @@ ac440d58-1127-4436-9fec-4bc1871c3b27,room.services,resell,,,high,low,4,"GoDaddy.
 cc7298e9-f383-42b6-8fac-c21f3198bf62,management.health,premium,650,71.5,high,low,10,namecheap,,
 1ef214eb-7f9d-46df-bb9e-ca3863c432df,psychology.doctor,resell,,,high,low,10,"GoDaddy.com, LLC",30/10/2016 22:45,30/10/2026 22:45
 b4437e66-b1d2-4062-8c73-849811082af6,healthier.doctor,available,14.99,,high,low,9,name.com,,
-00cb028a-e3e8-4ef9-b1f3-8eb2fb5bf47f,related.doctor,available,14.99,,high,low,7,name.com,,
 61f52908-7de3-4dcb-b8d7-d327bae7090d,room.systems,available,21.99,,high,low,4,name.com,,
 a19259d5-651e-4706-9388-180ac3b39038,management.healthcare,premium,520,520,high,low,10,namecheap,,
 8816fbe1-4bb0-4fba-9858-fb6912692b14,science.hiv,available,,,high,low,7,,,
@@ -197,6 +198,7 @@ b10829e2-b012-4304-9fac-7d5f50042347,pharmacy.health,resell,,,high,low,8,"GoDadd
 9753c6aa-3bf7-4869-9f26-a5a93b745631,dentist.health,resell,,,high,low,7,"GoDaddy.com, LLC",07/11/2023 20:54,07/11/2026 20:54
 8792ef68-5e37-411b-91e4-d4cbfec3ea07,procedure.doctor,available,14.99,,medium,low,9,name.com,,
 cf10ca0a-60c5-4574-ae22-04ee8b87b977,room.tech,premium,3125,12500,high,low,4,name.com,,
+2e4bb01b-74e8-4e46-8cc7-4513bb7f3503,diagnostic.hospital,available,55.98,71.98,medium,low,10,namecheap,,
 0b20d41d-d08d-46fb-9bd7-25997f365f3d,biology.healthcare,available,88.99,88.99,high,low,7,namesilo,,
 a5005b52-6819-4ed5-b88f-250533ea86ef,pharmacist.healthcare,available,91.99,,high,low,10,name.com,,
 83dd1c82-1db3-4503-9359-a63558462ced,laboratory.hospital,available,57.99,57.99,high,low,10,namesilo,,
@@ -223,17 +225,16 @@ e7a66cc9-3976-42fb-a1f8-42077355bc82,services.surgery,premium,128.7,128.7,high,l
 4b453370-ee8f-419d-876e-ff2277ed4e97,medication.healthcare,available,91.99,,high,low,10,name.com,,
 6056e9c0-a302-4824-abe8-44a1a75b75c2,vigor.surgery,available,54.99,54.99,high,low,5,namesilo,,
 00a686b9-b917-4929-99d2-57bd470c0fd6,study.hiv,available,,,high,low,5,,,
-0e204cc6-5a5e-49ec-8197-3df2989fef74,related.hospital,available,57.99,57.99,high,low,7,namesilo,,
 8d1382cd-c9b1-46bb-a1bc-e3221baa1240,psychology.hospital,available,57.99,57.99,high,low,10,namesilo,,
 11c34f16-38aa-4422-9f92-375f89677fc8,healthier.hospital,available,57.99,57.99,high,low,9,namesilo,,
 480b5d37-eca9-41f8-bcd2-63bcf6c8dbb2,anesthesia.hospital,available,57.99,57.99,high,low,10,namesilo,,
 9f8847e1-b3de-481c-a165-afb2a8713602,support.rehab,premium,1107,1107,high,medium,7,namesilo,,
-ab8344f0-e628-4766-95c0-459f5ce30e94,related.surgery,available,54.99,54.99,high,low,7,namesilo,,
 cec55ac6-e97d-44d5-b243-813e7bc814a6,anesthesia.surgery,available,54.99,54.99,high,low,10,namesilo,,
 a34edbca-0645-45b3-88a9-dea526623849,recovery.surgery,premium,118.8,118.8,high,low,8,namesilo,,
 b5096ac7-17a6-4763-98eb-606250fdd076,clinic.surgery,premium,242,242,high,low,6,namesilo,,
 945c7f0b-2494-48b2-88d9-bb94d33ffefb,healthier.surgery,available,54.99,54.99,high,low,9,namesilo,,
 4c6d9cfb-c5d4-4086-b489-ff22c2c13c41,psychology.surgery,available,54.99,54.99,high,low,10,namesilo,,
+d24f99cf-110e-44a6-96d0-392318e3d8a9,clinical.health,resell,,,medium,low,8,"Spaceship, Inc.",26/04/2025 20:55,26/04/2027 20:55
 c39f8611-ca64-490b-ab42-c66e70f40e7e,room.lifestyle,premium,1960,2800,high,low,4,namecheap,,
 60a07420-91ae-489b-bc6a-ed4051328283,room.living,premium,1960,2800,high,low,4,namecheap,,
 4baf8dc8-4dd8-422d-8574-2b4715cb3f57,vigor.healthcare,available,88.99,88.99,high,low,5,namesilo,,
@@ -242,7 +243,7 @@ c39f8611-ca64-490b-ab42-c66e70f40e7e,room.lifestyle,premium,1960,2800,high,low,4
 299bbf3a-70a9-4473-a12d-0afebcea3780,room.space,premium,1625,6500,high,low,4,namecheap,,
 6f83ad48-8c00-441e-acf0-8b1629f5de2f,medical.clinic,resell,,,high,low,7,Dynadot Inc,26/08/2015 17:31,26/08/2026 17:31
 fed74be3-c16f-4d56-93da-bfb1abcdf6c6,public.clinic,premium,118.8,118.8,high,low,6,namesilo,,
-d9913bd4-1b6d-4ae7-b550-6d5d02a72cba,related.health,available,19.99,,high,low,7,name.com,,
+ea2a34a3-a38c-4405-8555-0620bac3e118,biomedical.doctor,available,5.98,154.98,medium,low,10,namecheap,,
 c6a8e525-ca3e-4483-b8ee-f6e7bbba09e0,recovery.health,resell,,,high,low,8,"GoDaddy.com, LLC",08/11/2023 00:59,08/11/2026 00:59
 d13649a8-56c1-476e-b431-8bd82705bd50,clinic.health,premium,6250,,high,low,6,name.com,,
 0e56f568-1d21-433f-9f1c-91c95380d97b,anesthesia.health,resell,,,high,low,10,"GoDaddy.com, LLC",07/11/2023 19:51,07/11/2026 19:51
@@ -252,7 +253,6 @@ d13649a8-56c1-476e-b431-8bd82705bd50,clinic.health,premium,6250,,high,low,6,name
 98113fc1-e089-4c8b-af58-7c279a76f712,room.study,premium,116,116,high,low,4,namesilo,,
 cd00b700-993e-485e-952c-4eab443de748,science.care,premium,64.35,128.7,high,medium,7,namecheap,,
 27b69bf4-603a-4efe-addb-ea31724a6e45,anesthesia.healthcare,available,88.99,88.99,high,low,10,namesilo,,
-6fbb8c83-6662-4a77-9e1c-4f3175a465d6,related.healthcare,available,88.99,88.99,high,low,7,namesilo,,
 1a4bdcc9-f446-4ec6-9706-705604a3dd7c,psychology.healthcare,available,88.99,88.99,high,low,10,namesilo,,
 f2724645-83cd-46fd-8dd9-e8d244c16c2c,clinic.healthcare,premium,500,,high,low,6,name.com,,
 1ad65cd1-2f3d-48c4-95b6-19220e0d6200,room.education,available,34.99,34.99,high,low,4,namesilo,,
@@ -287,6 +287,7 @@ ebff0471-b6f1-42a6-aaf6-702ee8534ead,room.help,premium,875,,high,low,4,name.com,
 333d005d-3f0a-4170-a385-032d7e684b31,shot.pet,available,19.99,,high,low,4,name.com,,
 99f71ae0-7545-452c-ba7c-bf00af9b2f37,room.review,premium,1107,116,high,low,4,namesilo,,
 6c38fc81-b38b-414e-967e-030b39bf25ee,eye.hospital,premium,500,,medium,low,3,name.com,,
+ca1c4899-396e-431b-9caf-dc61afd7eacc,strength.healthcare,available,88.99,88.99,medium,low,8,namesilo,,
 34914b23-9001-43fd-8fe5-0ea67df0ebc3,room.online,premium,1562.5,,high,low,4,name.com,,
 27f208ff-16a5-4dc2-9b73-f44717ae5af5,support.dentist,premium,242,242,high,medium,7,namesilo,,
 3db8887e-dc34-43bc-9ee7-c172db9cce82,shot.dental,available,59.98,,high,low,4,namecheap,,
@@ -454,6 +455,7 @@ a1f9d962-a74a-4313-b088-abd9ed16cdbf,room.kaufen,available,5.99,26.99,high,low,4
 d0c0807d-b3ed-4657-8760-c6d261451529,support.horse,available,,,high,high,7,,,
 f1cb9f2f-a940-45ad-8c27-ab8be313de5f,room.investments,available,14.99,,high,low,4,name.com,,
 27fae95f-2ccd-46bb-b948-0e95e68ba3a1,room.ooo,premium,8667.5,,high,low,4,name.com,,
+113cead6-d1a3-4009-b00c-c94a4da7879d,support.dental,resell,,,high,medium,7,"GoDaddy.com, LLC",14/08/2014 16:26,14/08/2026 16:26
 b205efb3-602a-45f6-bf23-cee2c81e9096,room.financial,premium,242,242,high,low,4,namesilo,,
 a05266e5-b2df-45d3-be31-fb01ce9eaaf4,room.fan,resell,,,high,low,4,"Sav.com, LLC - 14",23/09/2025 15:16,23/09/2026 15:16
 c11cd1fd-e3ff-4f47-a796-45818e94a49e,shot.solutions,available,,,high,high,4,,,
@@ -716,6 +718,7 @@ b3d8d610-605a-467f-b419-a6e6484b97d0,room.watch,available,4.99,,high,low,4,name.
 709f21f2-2ef4-4e98-95dd-65ae288f9505,shot.education,available,34.99,34.99,high,low,4,namesilo,,
 1825440b-199b-49c5-881e-ca71f41614e1,support.institute,resell,,,high,medium,7,Dynadot Inc,12/06/2025 17:00,12/06/2026 17:00
 39584c2b-b7e2-4b80-b7d9-0ae35a1872d5,attendant.healthcare,available,91.99,113.99,high,low,9,name.com,,
+38803fcc-6404-4b87-ad65-5c72e284e70c,system.surgery,available,54.99,54.99,medium,medium,6,namesilo,,
 d3448ee3-a126-4756-8cc6-702886e4d4d3,shot.co,resell,,,high,low,4,Domainbox Limited,21/07/2010 21:12,20/07/2027 23:59
 3db824ec-059f-4f3b-8502-f1b24790ccdd,nurses.surgery,available,54.99,54.99,medium,low,6,namesilo,,
 48909ca0-739d-45dd-9732-8fcf5f5fd426,facility.health,available,19.99,,high,low,8,name.com,,
@@ -731,7 +734,6 @@ cb0edccb-358d-4a44-a671-2c72d0c23fd5,healthy.clinic,resell,,,high,low,7,"GoDaddy
 b58453a0-7e3a-4c5b-bf17-8444a754876f,pharmaceutical.clinic,available,19.99,,high,low,14,name.com,,
 c385d772-fd58-4957-b5fe-885fe480784b,doctor.clinic,resell,,,high,low,6,"WEDOS Internet, a.s.",23/08/2015 16:00,23/08/2031 16:00
 23b3f911-a16e-4c0f-ae69-9e5e8d6d5df8,process.doctor,available,14.99,,high,low,7,name.com,,
-38803fcc-6404-4b87-ad65-5c72e284e70c,system.surgery,available,54.99,54.99,medium,medium,6,namesilo,,
 0c5563aa-5928-4284-b39c-62e1536022df,shot.consulting,available,26.99,,high,low,4,name.com,,
 2b94a864-4846-4caf-86fa-36c71a23a13f,teeth.doctor,resell,,,high,low,5,"GoDaddy.com, LLC",30/10/2016 16:00,30/10/2026 16:00
 70f097a6-413c-44de-a9df-df8f7db27a98,office.surgery,available,,,high,low,6,,,
@@ -822,6 +824,7 @@ a60fbc8e-ed5a-4b13-963b-f7140ad4bcf6,study.expert,premium,1040,1040,high,low,5,n
 172150a6-b724-4d01-a8a2-d62dd0598648,shot.associates,available,21.99,,high,low,4,name.com,,
 0f7ce32c-bd1f-4331-871c-65116c6646c0,shot.im,available,,,high,high,4,,,
 d36f8d91-1184-4aa3-93c7-57d246e12d30,shot.protection,available,1999.99,2049.99,high,low,4,namesilo,,
+57b6423d-e69e-4ebf-a1c6-f11a900651cb,healthful.doctor,available,5.98,154.98,medium,low,9,namecheap,,
 0b9a4476-b7b4-49c3-b96d-8e68977c69a0,shot.xyz,resell,,,high,low,4,"Go Daddy, LLC",02/06/2014 17:36,02/06/2026 23:59
 6a2891bc-2cce-49b7-a682-9f996391e057,shot.prof,premium,411.25,,high,low,4,name.com,,
 533b5364-1375-4508-a2d9-d2720bc66358,shot.yoga,available,32.49,32.49,high,low,4,namesilo,,
@@ -996,6 +999,3 @@ d2f1be43-94a3-4ad0-950e-58ea6bfba6da,shot.casa,available,2.19,12.99,high,low,4,n
 8c5baa07-9aa5-4eff-ae80-2df970925169,skin.dog,resell,,,high,low,4,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00
 3e3fe7f5-369a-48b7-b2e6-eea7d48481fe,shot.maison,available,19.99,,high,low,4,name.com,,
 ffcf932f-6647-4082-b9da-f26938d40f27,shot.democrat,available,9.99,,high,low,4,name.com,,
-d01fca3d-a888-4bab-9ea4-ee1bdc66d772,support.xyz,resell,,,high,medium,7,"Go Daddy, LLC",28/07/2021 23:20,28/07/2026 23:59
-204e1d62-140f-471a-be99-f9e8fc3094c7,shot.apartments,available,19.99,,high,low,4,name.com,,
-f41832f4-68b3-4bec-bfbe-759da27e1dfa,support.prof,premium,811.25,,high,medium,7,name.com,,
