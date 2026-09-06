@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| dna.hospital      | available | $57.99    | $57.99        | high           | medium | 3      | namesilo                 |
-| physical.help     | resell    | $1.99     | $50.99        | medium         | low    | 8      | Dynadot Inc              |
-| dna.surgery       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                 |
-| lab.healthcare    | available | $88.99    | $88.99        | high           | medium | 3      | namesilo                 |
-| experiment.health | resell    | $19.99    | —             | high           | low    | 10     | Spaceship, Inc.          |
-| lab.hospital      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                 |
-| lab.surgery       | available | $54.99    | $54.99        | high           | medium | 3      | namesilo                 |
-| dna.doctor        | resell    | —         | —             | high           | medium | 3      | Go France Domains, LLC   |
-| care.surgery      | premium   | $520      | $520          | high           | low    | 4      | namecheap                |
-| cell.healthcare   | available | $88.99    | $88.99        | high           | low    | 4      | namesilo                 |
-| dna.health        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC         |
-| cell.health       | premium   | $1,107    | $71.40        | high           | low    | 4      | namesilo                 |
-| cell.hospital     | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                 |
-| lab.doctor        | resell    | —         | —             | high           | medium | 3      | Go Canada Domains, LLC   |
-| cure.shop         | premium   | $625      | —             | high           | low    | 4      | name.com                 |
-| room.care         | available | $29.99    | —             | high           | low    | 4      | name.com                 |
-| lab.health        | resell    | —         | —             | high           | medium | 3      | DotHealth LLC            |
-| home.bio          | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
-| room.dental       | available | $59.98    | —             | high           | low    | 4      | namecheap                |
-| care.health       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC         |
+| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| room.management   | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                               |
+| dna.hospital      | available | $57.99      | $57.99        | high           | medium | 3      | namesilo                                                  |
+| room.co           | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                                          |
+| dna.surgery       | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo                                                  |
+| lab.healthcare    | available | $88.99      | $88.99        | high           | medium | 3      | namesilo                                                  |
+| room.me           | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                               |
+| eye.hospital      | premium   | $500        | —             | medium         | low    | 3      | name.com                                                  |
+| lab.hiv           | available | $184.99     | —             | high           | medium | 3      | name.com                                                  |
+| experiment.health | resell    | $19.99      | —             | high           | low    | 10     | Spaceship, Inc.                                           |
+| lab.best          | premium   | $83.30      | $83.30        | high           | medium | 3      | namesilo                                                  |
+| lab.surgery       | available | $54.99      | $54.99        | high           | medium | 3      | namesilo                                                  |
+| dna.doctor        | resell    | —           | —             | high           | medium | 3      | Go France Domains, LLC                                    |
+| lab.hospital      | premium   | $78.54      | $78.54        | high           | medium | 3      | namesilo                                                  |
+| cell.healthcare   | available | $88.99      | $88.99        | high           | low    | 4      | namesilo                                                  |
+| dna.health        | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| care.inc          | premium   | $2,061.50   | $2,660        | medium         | low    | 4      | namesilo                                                  |
+| cell.hiv          | available | $184.99     | —             | high           | low    | 4      | name.com                                                  |
+| eye.glass         | resell    | —           | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| care.surgery      | premium   | $520        | $520          | high           | low    | 4      | namecheap                                                 |
+| cell.hospital     | available | $57.99      | $57.99        | high           | low    | 4      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
