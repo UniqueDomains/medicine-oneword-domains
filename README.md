@@ -16,7 +16,7 @@ This is a curated set of one-word medicine domain names spanning 506 different T
 
 **Public extract:** 1,000 rows · **Live catalog:** 183,205 domains · **Median ask:** $568.12 · **High-demand under $2,500:** 559
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/sector/medicine`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| room.management   | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                               |
-| dna.hospital      | available | $57.99      | $57.99        | high           | medium | 3      | namesilo                                                  |
-| room.co           | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| dna.surgery       | premium   | $118.80     | $118.80       | high           | medium | 3      | namesilo                                                  |
-| lab.healthcare    | available | $88.99      | $88.99        | high           | medium | 3      | namesilo                                                  |
-| room.me           | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc                                               |
-| eye.hospital      | premium   | $500        | —             | medium         | low    | 3      | name.com                                                  |
-| lab.hiv           | available | $184.99     | —             | high           | medium | 3      | name.com                                                  |
-| experiment.health | resell    | $19.99      | —             | high           | low    | 10     | Spaceship, Inc.                                           |
-| lab.best          | premium   | $83.30      | $83.30        | high           | medium | 3      | namesilo                                                  |
-| lab.surgery       | available | $54.99      | $54.99        | high           | medium | 3      | namesilo                                                  |
-| dna.doctor        | resell    | —           | —             | high           | medium | 3      | Go France Domains, LLC                                    |
-| lab.hospital      | premium   | $78.54      | $78.54        | high           | medium | 3      | namesilo                                                  |
-| cell.healthcare   | available | $88.99      | $88.99        | high           | low    | 4      | namesilo                                                  |
-| dna.health        | resell    | —           | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
-| care.inc          | premium   | $2,061.50   | $2,660        | medium         | low    | 4      | namesilo                                                  |
-| cell.hiv          | available | $184.99     | —             | high           | low    | 4      | name.com                                                  |
-| eye.glass         | resell    | —           | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| care.surgery      | premium   | $520        | $520          | high           | low    | 4      | namecheap                                                 |
-| cell.hospital     | available | $57.99      | $57.99        | high           | low    | 4      | namesilo                                                  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| lab.audio       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                 |
+| lab.media       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC              |
+| lab.shop        | premium   | $1,250    | —             | high           | medium | 3      | name.com                 |
+| oral.doctor     | available | $5.98     | $154.98       | low            | low    | 4      | namecheap                |
+| form.digital    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC              |
+| cure.shop       | premium   | $625      | —             | high           | low    | 4      | name.com                 |
+| oral.horse      | available | $32.49    | $32.49        | low            | low    | 4      | namesilo                 |
+| life.foundation | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC             |
+| home.bio        | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
+| room.doctor     | available | $14.99    | —             | high           | low    | 4      | name.com                 |
+| oral.health     | resell    | —         | —             | low            | low    | 4      | GoDaddy.com, LLC         |
+| oral.dentist    | premium   | $512      | $512          | medium         | low    | 4      | namesilo                 |
+| room.healthcare | available | $88.99    | $88.99        | high           | low    | 4      | namesilo                 |
+| oral.solutions  | resell    | —         | —             | low            | low    | 4      | Dynadot Inc              |
+| pill.fun        | premium   | $156.25   | —             | medium         | low    | 4      | name.com                 |
+| room.hiv        | available | $184.99   | —             | high           | low    | 4      | name.com                 |
+| room.health     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.          |
+| room.clinic     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                 |
+| room.hospital   | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                 |
+| shop.guru       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
