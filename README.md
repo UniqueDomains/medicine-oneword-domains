@@ -1,10 +1,10 @@
-# One-Word Medicine Domain Names (186,365)
+# One-Word Medicine Domain Names (187,335)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-186%2C365%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-187%2C335%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word medicine domain names spanning 506 different TLDs. The median ask across the selection is $688.57, reflecting a broad mix of pricing tiers. Updated daily, the list gives investors and founders a fast way to compare medicine-related domain names before buying.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **186,365 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **187,335 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 186,365 domains · **Median ask:** $559.77 · **High-demand under $2,500:** 553
+**Public extract:** 1,000 rows · **Live catalog:** 187,335 domains · **Median ask:** $557.59 · **High-demand under $2,500:** 553
 
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/sector/medicine`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| lab.audio          | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                 |
-| lab.media          | resell    | —         | —             | high           | medium | 3      | Porkbun LLC              |
-| lab.shop           | premium   | $1,250    | —             | high           | medium | 3      | name.com                 |
-| care.ryukyu        | available | $22.98    | —             | medium         | medium | 4      | namecheap                |
-| home.directory     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
-| pet.surgery        | premium   | $250      | $250          | medium         | medium | 3      | name.com                 |
-| oral.doctor        | available | $5.98     | $154.98       | low            | low    | 4      | namecheap                |
-| life.foundation    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC             |
-| home.bio           | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
-| oral.dog           | available | $5.98     | $86.98        | low            | low    | 4      | namecheap                |
-| life.school        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
-| brain.host         | premium   | $625      | —             | high           | medium | 5      | name.com                 |
-| oral.services      | available | $5.48     | $51.98        | low            | low    | 4      | namecheap                |
-| oral.health        | resell    | —         | —             | low            | low    | 4      | GoDaddy.com, LLC         |
-| heart.you          | premium   | $236,900  | —             | high           | low    | 5      | Dynadot, LLC             |
-| pill.gg            | available | $82.98    | —             | medium         | low    | 4      | namecheap                |
-| room.health        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.          |
-| nurse.mobile       | premium   | $375      | —             | medium         | low    | 5      | name.com                 |
-| room.doctor        | available | $14.99    | —             | high           | low    | 4      | name.com                 |
-| shop.international | resell    | —         | —             | high           | medium | 4      | Go Canada Domains, LLC   |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| lab.audio       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo     |
+| home.directory  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC  |
+| brain.host      | premium   | $625      | —             | high           | medium | 5      | name.com     |
+| care.ryukyu     | available | $22.98    | —             | medium         | medium | 4      | namecheap    |
+| home.solar      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC  |
+| heart.you       | premium   | $236,900  | —             | high           | low    | 5      | Dynadot, LLC |
+| oral.doctor     | available | $5.98     | $154.98       | low            | low    | 4      | namecheap    |
+| life.foundation | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC |
+| immune.club     | premium   | $1,300    | $19.50        | medium         | low    | 6      | namecheap    |
+| oral.hiv        | available | $195.99   | $195.99       | low            | low    | 4      | namesilo     |
+| life.school     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC  |
+| immune.cyou     | premium   | $390      | $780          | medium         | low    | 6      | namecheap    |
+| room.cheap      | available | $5.98     | $49.98        | medium         | low    | 4      | namecheap    |
+| life.tools      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC  |
+| immune.date     | premium   | $375      | $62.50        | medium         | low    | 6      | name.com     |
+| brain.skin      | available | $1.65     | $15.75        | high           | medium | 5      | namesilo     |
+| oral.us         | resell    | —         | —             | low            | low    | 4      | Dynadot Inc  |
+| immune.fast     | premium   | $62.50    | $62.50        | medium         | low    | 6      | name.com     |
+| genes.hospital  | available | $71.98    | —             | medium         | low    | 5      | namecheap    |
+| first.solutions | resell    | —         | —             | high           | medium | 5      | Porkbun LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 186,365 live domains                       |
+| 1,000-row public sample | 187,335 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 553 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
