@@ -1,10 +1,10 @@
-# One-Word Medicine Domain Names (190,639)
+# One-Word Medicine Domain Names (97,105)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-190%2C639%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-97%2C105%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word medicine domain names spanning 506 different TLDs. The median ask across the selection is $688.57, reflecting a broad mix of pricing tiers. Updated daily, the list gives investors and founders a fast way to compare medicine-related domain names before buying.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **190,639 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **97,105 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 190,639 domains · **Median ask:** $550.74 · **High-demand under $2,500:** 553
+**Public extract:** 1,000 rows · **Live catalog:** 97,105 domains · **Median ask:** $569.65 · **High-demand under $2,500:** 238
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/sector/medicine`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| lab.healthcare    | available | $88.99    | $88.99        | high           | medium | 3      | namesilo                 |
-| experiment.health | resell    | $19.99    | —             | high           | low    | 10     | Spaceship, Inc.          |
-| lab.hospital      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                 |
-| lab.surgery       | available | $54.99    | $54.99        | high           | medium | 3      | namesilo                 |
-| dna.doctor        | resell    | —         | —             | high           | medium | 3      | Go France Domains, LLC   |
-| lab.shop          | premium   | $1,250    | —             | high           | medium | 3      | name.com                 |
-| room.care         | available | $29.99    | —             | high           | low    | 4      | name.com                 |
-| lab.doctor        | resell    | —         | —             | high           | medium | 3      | Go Canada Domains, LLC   |
-| cure.shop         | premium   | $625      | —             | high           | low    | 4      | name.com                 |
-| room.doctor       | available | $14.99    | —             | high           | low    | 4      | name.com                 |
-| lab.health        | resell    | —         | —             | high           | medium | 3      | DotHealth LLC            |
-| home.bio          | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG |
-| shot.doctor       | available | $14.99    | —             | high           | low    | 4      | name.com                 |
-| lab.media         | resell    | —         | —             | high           | medium | 3      | Porkbun LLC              |
-| life.surgery      | premium   | $260      | $260          | high           | medium | 4      | namecheap                |
-| shot.healthcare   | available | $88.99    | $88.99        | high           | low    | 4      | namesilo                 |
-| life.health       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC         |
-| oral.dentist      | premium   | $512      | $512          | medium         | low    | 4      | namesilo                 |
-| shot.hiv          | available | $184.99   | —             | high           | low    | 4      | name.com                 |
-| life.hospital     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| medical.observer   | premium   | $1,000    | $1,000        | high           | low    | 7      | name.com         |
+| health.archi       | available | $24.99    | —             | high           | medium | 6      | name.com         |
+| medical.co         | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| health.airforce    | premium   | $128.70   | $128.70       | high           | medium | 6      | namecheap        |
+| health.audio       | available | $104.99   | $114.99       | high           | medium | 6      | namesilo         |
+| medical.pics       | resell    | $1.99     | $45.99        | high           | low    | 7      | Dynadot LLC      |
+| health.army        | premium   | $260      | $260          | high           | medium | 6      | namecheap        |
+| health.auto        | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo         |
+| medicine.capital   | resell    | $9.99     | —             | high           | low    | 8      | Dynadot Inc      |
+| health.attorney    | premium   | $1,300    | $1,300        | high           | medium | 6      | namecheap        |
+| health.blackfriday | available | $114.99   | $114.99       | high           | medium | 6      | namesilo         |
+| medicine.cx        | resell    | $26.98    | —             | high           | low    | 8      | CentralNic Ltd   |
+| health.auction     | premium   | $1,300    | $1,300        | high           | medium | 6      | namecheap        |
+| health.car         | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo         |
+| health.ac          | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| health.autos       | premium   | $2,600    | $2,600        | high           | medium | 6      | namecheap        |
+| health.cars        | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo         |
+| health.agency      | resell    | —         | —             | high           | medium | 6      | Porkbun LLC      |
+| health.baby        | premium   | $3,250    | $65           | high           | medium | 6      | namecheap        |
+| health.country     | available | $2,450    | —             | high           | medium | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 190,639 live domains                       |
+| 1,000-row public sample | 97,105 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 553 high-demand names under $2,500         |
+| Basic exported fields   | 238 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
