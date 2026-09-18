@@ -38,28 +38,23 @@ ef2d3b72-6b4c-415c-a62e-3a868c3c940c,medicine.surgery,premium,260,260,high,low,8
 b1b38161-d92d-4055-8c90-0e5a426bee4c,hospitals.cv,premium,1339.98,8.85,medium,low,9,namesilo,,,
 a19000a0-6a4a-4421-a838-7c67dcfcae98,clinical.onl,available,3.48,28.98,low,low,8,namecheap,,,12/08/2026 11:04
 7e4b882b-b818-4f92-bdca-fa7d447d8fa3,clinical.country,available,2298,2450,medium,low,8,namecheap,,,12/08/2026 11:04
-6687b316-e617-4aa5-93c6-fa3d26201802,doctors.sucks,premium,2938.6,2938.6,medium,low,7,namecheap,,,
 3975a75b-f5a7-4823-8240-a245e9de8979,clinical.football,available,19.99,37.99,low,low,8,name.com,,,12/08/2026 11:04
 65dbf733-c1e4-4f2f-b0ed-4736f2f4f365,medicine.health,resell,,,high,low,8,"GoDaddy.com, LLC",07/11/2023 23:41,07/11/2026 23:41,
 f2ca4f41-521d-467e-a742-e186902ffa7c,clinical.florist,available,14.99,46.99,low,low,8,name.com,,,12/08/2026 11:04
 24d40af4-36d9-46f5-b708-466bda56134c,hospitals.vc,available,39,,medium,low,9,name.com,,,
 91cb6150-2803-40a4-a431-c543196e9bbc,nurses.meme,premium,112.5,,medium,low,6,name.com,,,
 abbafe96-f4bc-46a4-a601-de279b6c126d,nurses.tattoo,available,34.99,34.99,medium,low,6,namesilo,,,
-5b365d3e-95bb-4cac-a8b8-a05f7e792414,doctors.review,premium,12500,,medium,low,7,name.com,,,
 ad2b34ba-2317-49ab-b282-706a0e166c2b,nurses.camera,available,21.99,,medium,low,6,name.com,,,
 6b6b8b78-04f4-4408-92db-4416e1f2e995,recognition.channel,premium,36.25,,high,low,11,name.com,,,
 a1fcfb32-569f-4ee7-9c0d-354df242a321,hospitals.tools,available,17.99,,medium,low,9,name.com,,,
 394aa326-1f64-4541-a364-2aaa0ed4df85,nurses.support,available,11.99,,medium,low,6,name.com,,,
-09f7bb54-234a-4c08-b015-a879bce637df,doctors.ski,available,39.99,,medium,low,7,name.com,,,
 745e0ccf-5cb1-48ae-8b49-3c30e7f178a1,nurses.voto,available,19.99,,medium,low,6,name.com,,,
 9b60199e-58a9-4fa6-a150-298bd86cddce,hospitals.hosting,available,309.99,329.99,medium,low,9,namesilo,,,
 a03a1a74-0807-43fa-a0cb-07205a458f8f,publichealth.health,premium,1300,78,medium,low,13,namecheap,,,16/09/2026 13:13
 f0829a18-4d7e-42f6-a62a-da954351fe48,nurses.football,available,19.99,,medium,low,6,name.com,,,
 7a3186b4-476f-42a8-bb82-e870955dc8e9,clinical.equipment,available,19.99,41.99,low,low,8,name.com,,,12/08/2026 11:04
 636ecd25-3d5a-491d-bd09-ec4423ef51b9,research.shop,premium,3125,,high,low,8,name.com,,,
-774157b5-7ca0-4906-8da6-6d6b9cbf3d29,doctors.melbourne,premium,89.31,,medium,low,7,name.com,,,
 d36c8a52-d09c-4fc8-9900-792efdac05a3,clinical.uno,premium,156.25,312.5,low,low,8,name.com,,,12/08/2026 11:04
-957b4dac-c791-4bc7-a17e-974f34f0fd44,doctors.download,premium,437.5,,medium,low,7,name.com,,,
 6b878277-6ef3-48eb-b0a7-72b3f6347d55,nurses.cv,premium,80.33,8.85,medium,low,6,namesilo,,,
 f45aee71-fa0c-40b9-bf4a-4f0e9776e23f,hospitals.boston,premium,96,21.24,medium,low,9,namesilo,,,
 aac5cb0b-a021-4bad-abcc-3016a0219197,hospitals.furniture,available,39.99,,medium,low,9,name.com,,,
@@ -71,8 +66,6 @@ aac5cb0b-a021-4bad-abcc-3016a0219197,hospitals.furniture,available,39.99,,medium
 a4267224-2f0d-40eb-980e-e911cf6357e0,remedy.clothing,available,19.99,46.99,medium,low,6,name.com,,,13/08/2026 11:01
 00bdf045-84eb-4cfe-8087-5845b749cc2c,hospitals.audio,available,104.99,114.99,medium,low,9,namesilo,,,
 0d12e6a1-62e5-4646-aa8f-6ac2ba83a32b,nurses.blue,available,23.99,,medium,low,6,name.com,,,
-93ed9ab7-2dba-48e2-a3b2-71caebd08382,doctors.dog,available,5.99,,medium,low,7,name.com,,,
-6eb0fdcf-a973-4b77-848b-68c9d135b46f,doctors.foo,premium,311.25,,medium,low,7,name.com,,,
 eda7ddd5-0717-4358-92af-703515395d8e,remedy.sbs,premium,384,768,medium,low,6,namesilo,,,13/08/2026 11:01
 483b4573-0d45-40a3-aecf-bc988eb4f9c6,hospitals.accountants,available,43.99,,medium,low,9,name.com,,,
 ddf90a4e-ee14-4c1a-987b-f0a5325616f6,hospitals.bond,premium,43.66,88.06,medium,low,9,namesilo,,,
@@ -85,18 +78,14 @@ a6ebee02-4bba-4045-beb1-544aef3a7cfa,hospitals.sale,premium,118.8,118.8,medium,l
 263169f6-533b-4b10-876b-23bbcbdbad9e,remedy.ltd,resell,,,medium,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",08/06/2024 17:00,08/06/2027 17:00,13/08/2026 11:01
 95ec15eb-cda4-462a-a609-ce1b88f07eaf,nurses.sbs,premium,141.44,282.88,medium,low,6,namesilo,,,
 755a91c2-79c6-499e-857c-e8d375a9bcfb,food.solutions,resell,,,high,medium,4,Porkbun LLC,08/06/2017 08:37,08/06/2026 08:37,
-4eee38a6-2a04-49d9-8cbb-8119e41d4c4a,doctors.quest,premium,812.5,,medium,low,7,name.com,,,
 d5d6b4b1-8137-4e8f-b505-bed91b2afc68,nurses.coach,available,19.99,,medium,low,6,name.com,,,
 d96e9dc7-26e5-4278-bfd1-b5a619e7fbca,nurses.how,premium,111.25,,medium,low,6,name.com,,,
-0647819d-1382-4c5a-a4f8-22aa72ae61b5,doctors.mx,resell,,,medium,low,7,GoDaddy.com,17/01/2018 00:00,17/01/2029 00:00,
 9389143c-c718-436e-b2ca-598f49a0f558,prescription.mobile,premium,750,,high,low,12,name.com,,,
-b816f467-b4bc-40a3-9ef6-a029f3ec21de,doctors.gripe,available,8.98,,medium,low,7,namecheap,,,
 3bc2ec5b-777a-4358-96e9-ee2d75e22f84,research.skin,resell,,,high,low,8,Dynadot LLC,02/09/2021 12:57,02/09/2026 23:59,
 f5f928c7-cdf1-4b5c-95b9-1d927ab5597a,hospitals.paris,available,51.98,,medium,low,9,namecheap,,,
 303e7bf2-13f5-409f-98bb-aa1055f0d8f2,remedy.press,premium,625,1250,medium,low,6,name.com,,,13/08/2026 11:01
 299f9fed-b369-4d5c-b50f-1465ba35189b,food.rodeo,resell,,,high,medium,4,Porkbun,21/01/2022 02:58,21/01/2027 02:58,
 c62342d3-9918-4b0b-8289-f65dc458e03f,hospitals.asia,resell,,,medium,low,9,"NameCheap, Inc.",20/06/2008 07:07,20/06/2026 07:07,
-c33eec55-41da-452c-b6ee-adb2c05c3db3,doctors.productions,available,14.99,,medium,low,7,name.com,,,
 20d3223a-e99e-4d5f-a919-40e41350fe78,remedy.zip,premium,161.25,161.25,medium,low,6,name.com,,,13/08/2026 11:01
 582f8e1f-952d-4756-a7fd-ce7aa4c5707d,medicinal.dog,available,5.98,86.98,medium,low,9,namecheap,,,24/08/2026 19:01
 b64bc3b7-f1ea-4355-9029-7c91274387d4,hospitals.hot,premium,116,116,medium,low,9,namesilo,,,
@@ -106,28 +95,23 @@ b64bc3b7-f1ea-4355-9029-7c91274387d4,hospitals.hot,premium,116,116,medium,low,9,
 edc8b4ec-6539-49c4-a456-25fe884a6b7d,clinical.actor,available,9.48,54.98,low,low,8,namecheap,,,12/08/2026 11:04
 e02ee428-af42-4937-ba51-944aa1b13853,medicinal.school,available,9.99,46.99,low,low,9,name.com,,,24/08/2026 19:01
 39382211-cede-4213-8822-8f7036ea7e61,clinical.attorney,available,62.99,62.99,low,low,8,namesilo,,,12/08/2026 11:04
-5ff68673-6a42-48d5-817d-3582c81bbaaf,doctors.group,resell,,,medium,low,7,"Sav.com, LLC",24/08/2022 13:15,24/08/2026 13:15,
 f5414ff4-ed01-45be-8aa7-f0989904506e,care.ryukyu,available,22.98,,medium,medium,4,namecheap,,,
 ff9a87dd-8c4f-4092-b79b-515ee06e169d,clinical.accountant,premium,437.5,62.5,low,low,8,name.com,,,12/08/2026 11:04
-d2be8ff7-2a97-48e8-acee-015a47bfe311,doctors.top,resell,,,medium,low,7,成都西维数码科技有限公司,17/11/2014 16:00,17/11/2026 16:00,
 d219a40b-4a49-4ecb-93fd-210602636d77,hospitals.media,available,7.99,,medium,low,9,name.com,,,
 23e3ed30-adba-476c-9ab4-57a1f7ced5c6,nurses.download,available,5.25,6.25,medium,low,6,namesilo,,,
 0d8c6869-8405-49b3-bea8-1005ee63a1ad,medicinal.money,available,11.98,38.98,low,low,9,namecheap,,,24/08/2026 19:01
 f78cce31-0fa1-45b4-91b9-9b1e2971d77e,clinical.app,resell,,,medium,low,8,"Spaceship, Inc.",13/01/2022 17:12,13/01/2027 17:12,12/08/2026 11:04
 6c412284-402b-4d7c-9445-4d8ed078d827,medicinal.haus,available,11.98,37.98,low,low,9,namecheap,,,24/08/2026 19:01
-b489d983-39b5-4cb1-94c4-68350f55104e,doctors.auction,available,4.99,,medium,low,7,name.com,,,
 21fc2011-5b29-4f6c-b32a-6afb7216612d,clinical.wedding,available,32.49,32.49,low,low,8,namesilo,,,12/08/2026 11:04
 a779e162-1813-416b-9dc1-151c3a538bb8,hospitals.boo,premium,36.25,,medium,low,9,name.com,,,
 99a51ddb-65af-4907-9d71-2a92a6780157,clinical.bingo,available,14.99,77.99,low,low,8,name.com,,,12/08/2026 11:04
 67585449-27da-496d-8638-66f9188a1b70,medicinal.cars,available,2070,2950,low,low,9,namecheap,,,24/08/2026 19:01
 2c2f0417-3f9a-4c35-9fff-b54d52a8163c,remedy.day,premium,73.75,73.75,medium,low,6,name.com,,,13/08/2026 11:01
-625552ed-77b6-4750-9332-7dd358d3a47f,doctors.football,available,19.99,,medium,low,7,name.com,,,
 81fe186e-d0ca-4d77-ba06-c96b233539e4,remedy.equipment,available,19.99,41.99,medium,low,6,name.com,,,13/08/2026 11:01
 ae38637a-d40c-444d-87be-9efb342408ae,nurses.rehab,premium,242,242,medium,low,6,namesilo,,,
 fed7a2b6-06a6-42f7-96ac-c4c9da77e612,hospitals.promo,available,19.99,,medium,low,9,name.com,,,
 8781857c-701c-4c73-adf2-fd92b1a728d3,medicinal.day,available,12.98,16.98,medium,low,9,namecheap,,,24/08/2026 19:01
 417c1a41-8bc1-4c2a-ad4e-f21548945ec9,hospitals.protection,available,1999.99,2049.99,medium,low,9,namesilo,,,
-f838df3a-5093-4ef9-8f82-c60016318e42,doctors.dating,premium,123.75,,medium,low,7,name.com,,,
 26124c96-a1e1-45b8-90a4-6b8c91c133f3,nurses.hospital,available,57.99,57.99,medium,low,6,namesilo,,,
 fc7bc0c7-a682-4d3c-b1d7-86e4db821a4b,remedy.toys,available,14.98,82.48,medium,low,6,namecheap,,,13/08/2026 11:01
 1cea592f-657b-4c5f-8847-54b738ab5130,life.tools,resell,,,high,medium,4,Porkbun LLC,21/01/2020 20:25,21/01/2027 20:25,
@@ -140,7 +124,6 @@ a2dd8da4-9289-40dc-976b-9d2fd3f13a3e,remedy.engineer,available,17.99,56.99,mediu
 c6afe6d6-2faf-4811-81ab-9a510bcb861f,nurses.family,premium,118.8,118.8,medium,low,6,namesilo,,,
 65ec5985-f477-4dc2-878b-8fb4afea17e4,medicinal.dating,available,12.98,86.98,low,low,9,namecheap,,,24/08/2026 19:01
 aed2d60e-169f-47f2-9076-8b9d25f1874e,nurses.host,available,4.99,109.99,medium,low,6,namesilo,,,
-cde5ea2d-c7f7-4620-af64-9c00ce67b27a,doctors.voto,available,19.99,,medium,low,7,name.com,,,
 4dcfefc3-409e-43fe-8791-9b6043cc4b7a,medicinal.beauty,available,1.8,19.98,medium,low,9,namecheap,,,24/08/2026 19:01
 5f6fcb71-e6c4-4796-93b8-595fe59881f7,hospitals.solar,available,9.99,,medium,low,9,name.com,,,
 cdd28bd4-5d54-48e0-9c23-21d44aa809af,hospitals.recipes,available,11.99,,medium,low,9,name.com,,,
@@ -199,29 +182,23 @@ fbdd3cea-8a14-4bf1-a367-e517daa33eee,hospitals.cars,available,1999.99,2199,mediu
 7f4202a2-30d7-4dcf-9a04-fc73bb564455,nurses.car,available,1999.99,2199,medium,low,6,namesilo,,,
 039ff3c6-c4b2-4204-a66a-a5c1a27f238b,nurses.yoga,available,32.49,32.49,medium,low,6,namesilo,,,
 a3c7bfbf-f5e8-43aa-81f0-28e5c1600ba4,remedy.run,resell,,,medium,low,6,"Spaceship, Inc.",09/05/2026 05:48,09/05/2027 05:48,13/08/2026 11:01
-0b09d70d-423a-44d2-ab25-f392ae9acdb9,doctors.sex,available,154.98,,medium,low,7,namecheap,,,
 6c7d5c09-123e-4e7a-9f23-aca84ec0e4f2,hospitals.blog,premium,640,0.99,medium,low,9,namesilo,,,
-5585d253-4a57-40a3-92bb-e71dfc712306,doctors.rodeo,available,16.99,,medium,low,7,name.com,,,
 e53e0893-20f9-4d52-9b69-d0c9dee83adf,clinical.recipes,available,5.48,95.98,low,low,8,namecheap,,,12/08/2026 11:04
 da4429c5-780f-4851-b4dc-ef9fdd33d434,tooth.ryukyu,available,22.98,,medium,low,5,namecheap,,,
 a4229548-b784-49aa-9151-d6f7afe0190b,clinical.london,available,12.98,41.98,low,low,8,namecheap,,,12/08/2026 11:04
 46ac453a-dc23-48f4-ba5e-87e99048c40b,herbalmedicine.click,available,1.99,,high,low,15,name.com,,,
 6a59a3f3-f535-4c99-beb1-da5e371bdaee,medicine.clinic,premium,500,,high,low,8,name.com,,,
 4240c54a-1193-4f4e-a12e-b85f41e66cd7,nurses.menu,available,27.99,27.99,medium,low,6,namesilo,,,
-5384a9d9-5e2d-45c4-aea9-df77137add8c,doctors.study,premium,62.5,,medium,low,7,name.com,,,
 0e8a148a-d136-4b41-acac-7d02a5eda660,healthcare.pics,resell,,,high,low,10,"Spaceship, Inc.",14/02/2026 09:31,14/02/2027 23:59,
 9cedec88-52d4-4415-8884-81ca373de433,clinical.info,resell,,,medium,low,8,"GoDaddy.com, LLC",12/09/2001 17:03,12/09/2026 17:03,12/08/2026 11:04
 7bf7622e-cefa-460a-b6f5-f8d55a3e9181,medicinal.holiday,available,9.99,83.99,low,low,9,name.com,,,24/08/2026 19:01
 a403b38e-247b-4671-812c-8072c9a8641e,clinical.fund,premium,118.8,118.8,low,low,8,namesilo,,,12/08/2026 11:04
 60724f5e-4782-414a-be6f-d834f82c7683,clinical.kim,available,5.98,32.98,low,low,8,namecheap,,,12/08/2026 11:04
-ce8e0a42-5703-4e44-8ae4-16a8660c66eb,doctors.cricket,premium,437.5,,medium,low,7,name.com,,,
 97944b4d-a588-4d9a-bc37-9cf33ff6ca5c,remedy.soy,available,24.99,24.99,medium,low,6,name.com,,,13/08/2026 11:01
 92fea70d-d5fd-419c-80d6-5f54b6d2f07e,nurses.email,premium,242,242,medium,low,6,namesilo,,,
 e30eae9d-f976-4f9f-96bc-fc6d3a6f799f,medicinal.info,resell,,,low,low,9,Dynadot Inc,22/10/2025 17:00,22/10/2026 17:00,24/08/2026 19:01
 958ac1cf-4ebc-408a-be69-353ba96eee9a,clinical.services,premium,130,260,low,low,8,namecheap,,,12/08/2026 11:04
-605b2764-8d29-4897-b066-405301c2dcf5,doctors.film,available,89.99,,medium,low,7,name.com,,,
 ddbb9bd1-9ba4-4eaf-a371-0a1e9c999dd4,medicinal.shoes,available,34.98,81.98,low,low,9,namecheap,,,24/08/2026 19:01
-a8d634f9-0529-4101-8238-05f96d1a8e8f,doctors.energy,available,21.99,,medium,low,7,name.com,,,
 cb3204b4-23d5-420a-9b13-e7299f8f4a46,nurses.toys,available,19.99,,medium,low,6,name.com,,,
 722fdfe4-0962-40aa-8288-5f795b7ece62,nurses.jetzt,available,9.99,,medium,low,6,name.com,,,
 fdf794ee-137a-4022-bbb6-ddaa825a1ac7,ambulances.healthcare,available,88.99,88.99,medium,low,10,namesilo,,,
@@ -237,7 +214,6 @@ fd92c856-5452-418c-98dc-2fbf373fd699,nurses.gifts,available,9.99,,medium,low,6,n
 b0ea658e-1017-44c8-bf10-154f2cc60160,nurses.boston,premium,242,21.24,medium,low,6,namesilo,,,
 d3b7f681-55b6-4dc1-8a15-c7795fe0bc90,clinical.dentist,premium,500,500,low,low,8,name.com,,,12/08/2026 11:04
 41952d5e-64a9-4139-a136-8ec5d23d199a,nurses.vin,available,11.99,,medium,low,6,name.com,,,
-c41a4f0e-af66-40b4-b2ce-ef3887bbeeec,doctors.life,resell,,,medium,low,7,"Spaceship, Inc.",29/09/2021 17:00,29/09/2027 17:00,
 3250d026-f737-4897-af57-346c58294902,hospitals.srl,available,31.99,31.99,medium,low,9,namesilo,,,
 0d2a7fa6-9dab-4680-80bc-dbd43bb674c5,remedy.rentals,available,6.98,56.98,medium,low,6,namecheap,,,13/08/2026 11:01
 c1f87469-eef6-48eb-a596-b6cac15f2506,medicinal.country,available,2298,2450,medium,low,9,namecheap,,,24/08/2026 19:01
@@ -263,8 +239,6 @@ b48586ef-cad3-4d32-aedb-3685613dcc3d,biomedical.dog,available,5.98,86.98,medium,
 3842de5c-9461-457f-9e94-d58706ecf515,medicinal.global,available,34.98,127.98,low,low,9,namecheap,,,24/08/2026 19:01
 a4372700-777b-496f-bb82-0612be4810f2,diagnostic.voyage,available,9.99,83.99,medium,low,10,name.com,,,14/08/2026 05:47
 26e06309-a06f-4b5b-b50e-ced8fc2f7883,clinical.mx,available,22.98,58.98,low,low,8,namecheap,,,12/08/2026 11:04
-46d89aae-b9d5-4f27-9697-742562b5bd23,doctors.boats,premium,812.5,,medium,low,7,name.com,,,
-4e50fa91-caea-4121-9e3d-c60fee9bb5f6,doctors.jewelry,available,19.99,,medium,low,7,name.com,,,
 4f442896-e761-4287-ada2-41bb220ac9dd,science.ventures,resell,,,medium,medium,7,"GoDaddy.com, LLC",04/08/2015 07:54,04/08/2027 07:54,08/09/2026 14:15
 bbf1ad84-2b13-469c-9efc-047f7451682b,medically.graphics,available,22.98,31.98,low,low,9,namecheap,,,15/09/2026 13:56
 e23ca94d-72c3-43ae-ac4a-8080aad326b7,biomedical.vet,available,41.99,41.99,medium,low,10,namesilo,,,10/08/2026 02:15
@@ -294,7 +268,6 @@ ba78bbee-c734-4d0d-9c46-87b326a57d9d,doctor.boutique,resell,,,high,low,6,Dynadot
 689f78c3-dc9e-4105-82fd-8281d00a5243,neuroscience.surgery,available,54.99,54.99,medium,low,12,namesilo,,,17/09/2026 07:18
 f471733b-2973-41f4-8dfc-950a1dbfa839,remedy.gold,available,7.98,130.98,medium,low,6,namecheap,,,13/08/2026 11:01
 df5c4143-1d68-465f-af6a-19515b6956b4,medically.parts,available,10.48,45.98,low,low,9,namecheap,,,15/09/2026 13:56
-31f5486a-8bbb-4bb3-b449-87b908cb1763,doctors.autos,premium,812.5,,medium,low,7,name.com,,,
 3468c18d-8926-4ef5-b7bf-5cf23345fb08,medically.farm,available,4.98,49.98,low,low,9,namecheap,,,15/09/2026 13:56
 447885dc-fda8-463e-b1db-e686c0527c74,diagnostic.contact,available,13.98,16.78,medium,low,10,namecheap,,,14/08/2026 05:47
 840287b5-61fd-4f9b-a8a7-a1143a25e31a,clinical.osaka,available,32.98,41.98,low,low,8,namecheap,,,12/08/2026 11:04
@@ -336,7 +309,6 @@ a2fb2c12-7f74-4b7b-b7f9-737e072b9565,medically.how,available,30.98,41.98,low,low
 81d1d0a4-081c-4b95-a51e-a6390255c146,diagnostic.forum,available,1.8,49.98,medium,low,10,namecheap,,,14/08/2026 05:47
 53d90000-24ce-44b1-baa5-a11a60b21d50,clinical.bet,available,8.98,35.98,low,low,8,namecheap,,,12/08/2026 11:04
 98080bc6-b54d-4b14-9864-f2e8bba53daf,medically.center,available,4.98,42.98,low,low,9,namecheap,,,15/09/2026 13:56
-d953be07-ec5b-489a-bc98-ce2fb22a65b7,doctors.audio,available,159.98,,medium,low,7,namecheap,,,
 74363aff-2598-4c94-8f5b-b84f828fcbe5,remedy.degree,available,14.99,64.99,medium,low,6,name.com,,,13/08/2026 11:01
 b17ea7d2-889c-4325-b594-e91215fbc2a2,medicinal.codes,available,3.98,92.98,low,low,9,namecheap,,,24/08/2026 19:01
 0126dcb5-d19f-401a-a405-5806daf10fc1,publichealth.melbourne,available,58,58,low,low,13,namesilo,,,16/09/2026 13:13
@@ -378,13 +350,11 @@ a94d06ba-72c7-40fa-90dc-f06551c8a229,surgical.download,available,5.25,6.25,low,l
 b80bec95-d21d-4206-8802-4a17611a4329,ambulances.consulting,available,26.99,,medium,low,10,name.com,,,
 c4792f6c-a906-4acb-8a8d-ec03b8ed37dd,medicine.hiv,available,,,high,low,8,,,,
 4dab7200-b6c7-4cb9-8ce5-3a21b2dfe01c,clinical.fashion,available,32.49,32.49,low,low,8,namesilo,,,12/08/2026 11:04
-de902b7e-0ab3-45f0-8837-2710c65b9802,doctors.voting,available,1448,,medium,low,7,namecheap,,,
 81ae8238-3acc-4296-a745-a5bc5bbdbfca,ambulances.horse,available,32.49,32.49,medium,low,10,namesilo,,,
 bd040e95-1411-45c5-9e0f-2902b29d78db,medically.jetzt,available,23.99,23.99,low,low,9,namesilo,,,15/09/2026 13:56
 d962676d-a1fb-460a-b708-52f6bd37bc3a,medically.mba,available,11.98,49.98,low,low,9,namecheap,,,15/09/2026 13:56
 ce07fabb-9dfd-4fdf-a59b-6c7ea7ec0f29,diagnostic.webcam,available,11.99,11.99,medium,low,10,namesilo,,,14/08/2026 05:47
 848744a2-5543-4727-89f7-7a5ef279a6c5,publichealth.berlin,available,79.98,89.98,low,low,13,namecheap,,,16/09/2026 13:13
-d6911f77-08c8-4af1-a702-3ced54018612,doctors.motorcycles,premium,812.5,,medium,low,7,name.com,,,
 78f24d75-30e5-4842-9afb-74c2b5f7c009,cells.boutique,available,6.99,,medium,low,5,name.com,,,
 f24759f3-3545-4863-8722-b7bc9af9cb6f,remedy.training,available,8.98,53.98,medium,low,6,namecheap,,,13/08/2026 11:01
 bd8fd3b6-191d-4cf0-8b18-5d0d79d243d6,herbalmedicine.com,premium,296125,,high,low,15,"GoDaddy.com, LLC",31/10/2000 11:36,31/10/2026 10:36,
@@ -405,12 +375,11 @@ c09c7f5c-1bfa-4136-ae02-c9b08324042f,tolerant.skin,available,1.8,19.98,medium,lo
 3cbd190e-4cbb-44d5-ba4d-5049cd78300a,prescription.desi,available,22.98,,high,low,12,namecheap,,,
 cfd4ba94-5622-4009-af1d-6b1ba8d46249,research.cafe,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",15/10/2025 15:15,15/10/2026 15:15,
 59d22c15-a078-44c7-a944-5dbdaa89efc9,publichealth.furniture,available,27.99,94.99,low,low,13,namesilo,,,16/09/2026 13:13
-19eb2901-bcf7-4f40-9852-e50270fd7403,doctors.luxury,available,49.99,,medium,low,7,name.com,,,
 c3285d16-e0b5-4616-be7b-a6b2bc3f22e1,cells.glass,available,77.99,,medium,low,5,name.com,,,
 c413b746-e915-439c-8a78-d731e9358728,medically.one,available,7.99,24.75,low,low,9,namesilo,,,15/09/2026 13:56
+6687b316-e617-4aa5-93c6-fa3d26201802,doctors.sucks,premium,2658.67,2658.67,low,low,7,namesilo,,,18/09/2026 07:41
 a72c1b17-a06d-4493-bf48-fcb6804afd16,cells.guide,available,10.99,,medium,low,5,name.com,,,
 e1b82232-24dc-4568-951a-b2efaeb07772,vaccination.channel,available,16.48,,high,low,11,namecheap,,,
-6d011200-81ee-456c-87d4-a99c15922a26,doctors.reise,available,99.99,,medium,low,7,name.com,,,
 57e12063-0f8f-440d-880b-a9f156c3f5b0,hospitals.work,premium,302.5,11.8,medium,low,9,namesilo,,,
 f817fc8c-32f5-48cd-9484-b88532961337,publichealth.cash,available,12.99,38.99,low,low,13,namesilo,,,16/09/2026 13:13
 ed8e17c6-ccfe-44da-839a-5aa1c0e7e8f1,publichealth.host,available,4.99,109.99,low,low,13,namesilo,,,16/09/2026 13:13
@@ -434,13 +403,13 @@ d9d74495-df56-4e6f-83ed-28cb7afe5ab9,publichealth.design,available,58.49,58.49,l
 9cd7f1e6-24f1-4f4a-8df6-7a0e7d56d871,nurses.band,available,29.99,,medium,low,6,name.com,,,
 85514cfd-bcbb-44a7-9a10-788590c3d8c5,surgical.degree,available,52.99,52.99,medium,low,8,namesilo,,,11/09/2026 04:01
 8a52ea58-026e-4d9a-bdfb-b860d1e4943b,nurses.associates,available,21.99,,medium,low,6,name.com,,,
-ddb8865f-485e-4709-a037-47b3e2d3e56d,doctors.dance,available,17.99,,medium,low,7,name.com,,,
 4a85f40e-b121-4481-9382-0e2f9eaa6a2a,cells.education,available,39.99,,medium,low,5,name.com,,,
 58c286d9-fc05-4436-ba98-b22fa8dbb2f6,ambulances.giving,available,5.99,,medium,low,10,name.com,,,
 993b59b2-a4ad-4170-995f-5afea7dc9b99,clinical.vegas,available,12.99,43.99,low,low,8,namesilo,,,12/08/2026 11:04
 6532e880-8ca5-4415-b22a-cf64c37b7ba4,surgical.makeup,available,1.8,21.98,low,low,8,namecheap,,,11/09/2026 04:01
 291aefc8-a0ff-4f2b-b5aa-035067085172,surgical.art,premium,291.2,83.3,low,low,8,namesilo,,,11/09/2026 04:01
 8282c380-0ef9-4e96-889d-1370dd42dc2d,publichealth.support,available,8.99,26.99,low,low,13,namesilo,,,16/09/2026 13:13
+5b365d3e-95bb-4cac-a8b8-a05f7e792414,doctors.review,premium,13800,116,low,low,7,namesilo,,,18/09/2026 07:41
 6eee8cbb-5269-4595-8055-f3a6670a5b78,cells.car,available,2400,,medium,low,5,namecheap,,,
 3e78d2f4-f7c6-4cf4-aa28-444e98136b81,hospitals.now,resell,,,medium,low,9,Porkbun LLC,28/11/2025 07:35,28/11/2026 07:35,
 07cb0549-0163-4217-a382-f2ac2d5e85f0,medicinal.rehab,available,14.99,52.99,medium,low,9,name.com,,,24/08/2026 19:01
@@ -452,6 +421,7 @@ dc9f2c8b-1b42-4515-83a3-b5f2d4e4dd44,clinical.broker,available,11.98,47.98,low,l
 9a86c8ce-d4a8-4d4e-9d2d-c2447af5ad45,nurses.fashion,available,32.49,32.49,medium,low,6,namesilo,,,
 7fca8d50-50b2-4e2f-8225-1d48f6d11681,clinical.website,premium,625,1250,low,low,8,name.com,,,12/08/2026 11:04
 b6f7c409-64c7-41f2-a1f5-66e045e52dc5,nurses.airforce,available,103.99,103.99,medium,low,6,namesilo,,,
+09f7bb54-234a-4c08-b015-a879bce637df,doctors.ski,available,27.99,64.99,low,low,7,namesilo,,,18/09/2026 07:41
 cd294967-a44e-4276-8275-68bf65fb0020,publichealth.coffee,available,16.99,42.99,low,low,13,namesilo,,,16/09/2026 13:13
 9d5fcca4-0b36-4aed-8b2d-95c129a98226,neuroscience.sex,available,69.98,154.98,medium,low,12,namecheap,,,17/09/2026 07:18
 a4e2a0cc-5e79-41df-9a6e-9523662c2ab1,nurses.spot,premium,116,116,medium,low,6,namesilo,,,
@@ -459,7 +429,6 @@ a6cd5830-a087-4db0-af3a-c0b3f4e2c4de,surgical.music,available,47.98,52.48,low,lo
 89bb109c-9f37-47e5-a2fa-3b9e191e129a,nurses.pics,available,1.99,,medium,low,6,name.com,,,
 98bf5808-7ccb-4442-ae5b-d3db6cad1d64,clinical.reisen,available,3.99,20.99,low,low,8,namesilo,,,12/08/2026 11:04
 1691a744-8d92-468a-980e-8560e7d23a7a,medicinal.accountant,available,25.98,31.98,low,low,9,namecheap,,,24/08/2026 19:01
-2002bea8-3897-4977-a671-719592664453,doctors.forex,available,19.99,,medium,low,7,name.com,,,
 3039858b-977b-43b1-9350-86318244d60f,medically.video,available,4.98,49.48,low,low,9,namecheap,,,15/09/2026 13:56
 ae84f9a3-fc3d-480d-b7b1-37f4a7cec78a,diagnostic.technology,available,3.98,37.98,medium,low,10,namecheap,,,14/08/2026 05:47
 d8f170af-a829-41d9-80ef-805bb5cb5df9,pediatric.prof,available,25.98,29.38,low,low,9,namecheap,,,04/09/2026 22:48
@@ -477,10 +446,10 @@ fac1d2e9-4d5c-4ea0-be29-7eda90299b82,vaccination.broker,available,19.99,,high,lo
 ca4e549a-1056-40ef-a6ac-cb591b9eb054,medically.clinic,available,11.98,82.98,medium,low,9,namecheap,,,15/09/2026 13:56
 2e1897b4-08f0-4265-bfec-c915da37b9bd,neuroscience.haus,available,14.99,33.99,medium,low,12,namesilo,,,17/09/2026 07:18
 74cd7ba4-93fd-43e2-8af6-925113e39412,strength.hospital,available,55.98,71.98,medium,low,8,namecheap,,,14/09/2026 04:30
-96f291e4-6bea-4c9c-b3e7-3b25918785b7,doctors.poker,available,14.99,,medium,low,7,name.com,,,
 c5ddf332-d49c-43eb-8b83-eab130f89396,diagnostic.contractors,available,9.99,45.99,medium,low,10,name.com,,,14/08/2026 05:47
 0bea3f5b-5b07-4cae-b28e-49ba005cdbad,surgical.supplies,resell,,,medium,low,8,Dynadot Inc,20/01/2020 23:18,20/01/2027 23:18,11/09/2026 04:01
 42b71a3a-162f-44d6-ac85-04a00fa60464,nurses.foundation,available,5.99,,medium,low,6,name.com,,,
+774157b5-7ca0-4906-8da6-6d6b9cbf3d29,doctors.melbourne,available,58,58,low,low,7,namesilo,,,18/09/2026 07:41
 6152a39c-efd7-424c-8b58-d90896bb835f,tolerant.giving,available,5.99,40.99,medium,low,8,name.com,,,22/08/2026 19:55
 83418dda-5361-48d2-ba52-b669f5791b2d,ambulances.melbourne,available,53.98,,medium,low,10,namecheap,,,
 550354e3-bfcd-4a4a-aba9-d3e2a982d5f4,surgical.properties,available,15.98,43.98,low,low,8,namecheap,,,11/09/2026 04:01
@@ -489,14 +458,15 @@ c5ddf332-d49c-43eb-8b83-eab130f89396,diagnostic.contractors,available,9.99,45.99
 f193f47c-4a89-4cfb-ae7f-360eec93bb78,clinical.wine,available,8.48,75.98,low,low,8,namecheap,,,12/08/2026 11:04
 96d75dd1-7391-424c-9d33-518178a18148,remedy.futbol,available,5.98,21.98,medium,low,6,namecheap,,,13/08/2026 11:01
 a2672fc8-5a21-4fab-9c79-867c0134ccac,physical.protection,available,1999.99,2049.99,medium,low,8,namesilo,,,08/09/2026 15:48
-5b9d314f-1099-4913-b203-bc16898c122a,doctors.nexus,premium,311.25,,medium,low,7,name.com,,,
 3fb03dcc-4515-4511-b10d-836cc77e9282,attention.dev,resell,,,high,low,9,Namecheap Inc.,15/02/2024 21:32,15/02/2027 21:32,
 84e90cc4-201d-4bc4-9ea1-b2586196edba,prescription.shop,resell,,,high,low,12,"Go Canada Domains, LLC",26/09/2016 15:00,26/09/2026 23:59,
+957b4dac-c791-4bc7-a17e-974f34f0fd44,doctors.download,premium,455,65,low,low,7,namecheap,,,18/09/2026 07:41
 b597dd11-69d5-4541-a73e-655f7f60ea69,physical.express,available,9.98,49.98,medium,low,8,namecheap,,,08/09/2026 15:48
 e04212ea-0d0a-4e81-b267-a59e213f0503,recommendation.barcelona,available,38.98,,medium,low,14,namecheap,,,
 74ea7ae2-266e-41b4-860a-db33d903e414,remedy.miami,available,23.49,23.49,medium,low,6,namesilo,,,13/08/2026 11:01
 895e2b28-2978-4786-b00b-5d0fb01059ea,ambulances.mov,available,15.98,,medium,low,10,namecheap,,,
 a1207fc8-7a06-4d40-b588-39b9ecc2719f,nurses.baby,available,17.99,54.99,medium,low,6,namesilo,,,
+93ed9ab7-2dba-48e2-a3b2-71caebd08382,doctors.dog,available,7.49,64.99,low,low,7,namesilo,,,18/09/2026 07:41
 033cfc52-f1e6-4c86-b17a-1ddfb0ff3a88,physical.fish,available,44.49,44.49,medium,low,8,namesilo,,,08/09/2026 15:48
 c66799de-6e95-4e6d-a4a1-f41bd5ccc10c,remedy.institute,available,5.98,37.98,medium,low,6,namecheap,,,13/08/2026 11:01
 57520661-4021-474e-a96d-0e104d1e2bed,medically.date,available,5.25,6.25,low,low,9,namesilo,,,15/09/2026 13:56
@@ -528,7 +498,6 @@ c4f12b19-707d-415b-867a-310d6ca64b6b,medicinal.camp,available,11.99,77.99,low,lo
 5c6fc6a0-91a9-4924-ac82-219af4d79a51,nurses.irish,available,9.99,,medium,low,6,name.com,,,
 782766de-c5b4-42bf-b195-f16abde709e2,neuroscience.dentist,available,65.99,65.99,medium,low,12,namesilo,,,17/09/2026 07:18
 fafd8fb6-0db4-480c-bbbc-af88b6c67994,cells.gifts,available,9.99,,medium,low,5,name.com,,,
-83745bd2-be84-4cb8-8d15-8f13dced1a5c,doctors.press,premium,625,,medium,low,7,name.com,,,
 f584e20f-13ed-4da0-a0fe-3ab3e224e948,ambulances.ong,available,16.99,,medium,low,10,name.com,,,
 e71915fa-ef55-4bf0-be29-c59417be371c,medicine.rehab,premium,1107,1107,high,low,8,namesilo,,,
 6755dc7c-cec2-45a7-aec7-1093075e282c,physical.law,available,95.99,95.99,medium,low,8,namesilo,,,08/09/2026 15:48
@@ -538,12 +507,11 @@ bb8bf6fd-c0d6-4849-99b9-71205744d0e5,tolerant.study,premium,62.5,62.5,low,low,8,
 7b6d7c09-558b-4c7d-96eb-a6c14d39c3a7,diagnostic.free,premium,116,116,medium,low,10,namesilo,,,14/08/2026 05:47
 2eefe90a-e9f9-4f46-9332-616395b35c21,ambulances.technology,available,17.99,,medium,low,10,name.com,,,
 36dcdd0d-c280-4eef-bb07-8979f287160e,hospitals.free,premium,116,116,medium,low,9,namesilo,,,
-a9481ca6-29da-400b-8f27-eb2fef308f75,fittest.red,available,14.99,,medium,low,7,name.com,,,
 f5ee850c-947d-4b3f-9117-46fe181422b5,cells.security,available,2950,,medium,low,5,namecheap,,,
 cd264ff1-1df9-4743-a6f3-d3d85e99fa8a,neuroscience.land,available,15.99,41.99,medium,low,12,namesilo,,,17/09/2026 07:18
+6eb0fdcf-a973-4b77-848b-68c9d135b46f,doctors.foo,premium,323.7,323.7,low,low,7,namecheap,,,18/09/2026 07:41
 21646ae6-3a3a-41c9-a485-e6be1fbb428f,biomedical.beer,available,1.98,43.98,low,low,10,namecheap,,,10/08/2026 02:15
 ac99b66a-e843-4444-988e-15a663295467,medically.red,available,9.48,28.48,low,low,9,namecheap,,,15/09/2026 13:56
-8bdd7fe3-969a-41bc-9f5d-47d9f0f1ab3c,doctors.boo,premium,311.25,,medium,low,7,name.com,,,
 5824426e-4981-4a99-81d8-ca80499dcede,tolerant.irish,available,5.98,31.98,low,low,8,namecheap,,,22/08/2026 19:55
 baf54c60-73b4-48a1-a117-d49f2c11ba0c,neuroscience.glass,available,72.99,72.99,medium,low,12,namesilo,,,17/09/2026 07:18
 cb606a85-0042-4fdf-b1bc-ffd9e517bd4c,cells.barcelona,available,38.98,,medium,low,5,namecheap,,,
@@ -555,10 +523,8 @@ ea3cf25c-ccee-499a-84b7-6d927c4099f8,remedy.style,available,7.98,49.98,medium,lo
 2c136979-c8de-42a2-88d7-9bc56dd4bdf3,physical.hospital,available,55.98,71.98,medium,low,8,namecheap,,,08/09/2026 15:48
 5dd89fd7-a8f4-4e7c-a05e-ab014c3b8539,physical.moi,available,25.99,25.99,medium,low,8,namesilo,,,08/09/2026 15:48
 d9a6d945-1bfd-4a33-851d-c132b58819ee,cells.limo,available,19.99,,medium,low,5,name.com,,,
-c9543eea-4bbf-40cc-842b-8bcee0c5a4f6,fittest.flowers,available,159.98,,medium,low,7,namecheap,,,
 d09d8d5b-dc29-4566-9bac-36713bf1a967,medically.new,available,488.98,601.98,low,low,9,namecheap,,,15/09/2026 13:56
 2d2068a0-16fe-47b4-8b64-b7c9a880f60e,biomedical.moi,available,25.99,25.99,low,low,10,namesilo,,,10/08/2026 02:15
-425c4664-01e9-407b-a773-1bae7bdf0782,doctors.country,available,2450,,medium,low,7,namecheap,,,
 c9ed4820-ab82-42e0-a4b0-b71cba52fe1f,hospitals.tel,available,10.79,10.79,medium,low,9,namesilo,,,
 4c007670-7544-43c6-aa53-5eb57a523fae,sanitary.health,premium,650,78,medium,medium,8,namecheap,,,09/09/2026 21:16
 84d7f369-70d7-4420-869e-1688d3aa0a10,physical.nyc,available,31.99,31.99,medium,low,8,namesilo,,,08/09/2026 15:48
@@ -578,7 +544,6 @@ d7387d81-24c4-46e4-9db7-fe1548c11efa,healthier.ryukyu,available,22.98,,high,low,
 607143dc-0135-47e3-9363-586817196c88,cells.gratis,available,26.99,,medium,low,5,name.com,,,
 6b7fefe1-2655-4f22-a39f-a33f2bc4cb12,publichealth.hockey,available,59.99,59.99,low,low,13,namesilo,,,16/09/2026 13:13
 b487d696-85fa-4451-ac11-1bb2fe2aad19,physical.hiv,available,195.99,195.99,medium,low,8,namesilo,,,08/09/2026 15:48
-63b2305a-ce37-455f-87e2-d7dfca5f39a9,doctors.art,premium,341.25,,medium,low,7,name.com,,,
 6d333cd3-2455-4c0d-aecf-ede5e9e2e589,neuroscience.inc,premium,2061.5,2660,medium,low,12,namesilo,,,17/09/2026 07:18
 7d943b16-e341-43b7-af06-8acae2b56bba,prescription.paris,available,51.98,,high,low,12,namecheap,,,
 d850a8ab-b9da-40ae-b644-2f909ed8d687,surgical.uno,premium,302.5,302.5,low,low,8,namesilo,,,11/09/2026 04:01
@@ -601,9 +566,9 @@ eef14317-abf9-4eea-94b7-a3990cccb32b,biomedical.clothing,available,19.99,46.99,l
 f557b055-3f60-4395-9370-ebf5d5610cae,biomedical.prof,available,25.98,29.38,low,low,10,namecheap,,,10/08/2026 02:15
 2c25891c-6ad8-4db0-8e82-51b61ec4c068,hospitals.loan,available,5.25,6.25,medium,low,9,namesilo,,,
 7e2f7402-1f59-41a1-8a16-857dbe9ec625,biomedical.jewelry,available,19.99,84.99,low,low,10,name.com,,,10/08/2026 02:15
-0e241bfe-1b97-4cbe-b75a-5ee1570b75bb,fittest.art,premium,52.5,,medium,low,7,name.com,,,
-4d73e6e7-fc86-4d66-bd4f-ecbbeb43b71d,fittest.army,available,19.99,,medium,low,7,name.com,,,
+0647819d-1382-4c5a-a4f8-22aa72ae61b5,doctors.mx,resell,,,low,low,7,GoDaddy.com,17/01/2018 00:00,17/01/2029 00:00,18/09/2026 07:41
 6569a6ec-0274-4128-95e1-bef7cedbd5ac,nurses.men,available,5.25,6.25,medium,low,6,namesilo,,,
+b816f467-b4bc-40a3-9ef6-a029f3ec21de,doctors.gripe,available,6.99,6.99,low,low,7,namesilo,,,18/09/2026 07:41
 24483c5a-7f1b-460e-bed3-a9db4ef00094,surgical.land,available,5.98,54.98,low,low,8,namecheap,,,11/09/2026 04:01
 5903bb72-22a6-424a-924a-c8eaf81a7463,clinical.science,premium,625,81.25,medium,low,8,name.com,,,12/08/2026 11:04
 1faace51-5623-4cf7-a832-f334b3369004,medicinal.win,available,5.98,9.98,low,low,9,namecheap,,,24/08/2026 19:01
@@ -615,7 +580,6 @@ be6009b0-b7ce-49bd-8789-2bbab0c56c9d,ambulances.fast,available,29.49,29.49,mediu
 2387c309-eed0-4f22-b2db-3225a9efa97d,remedy.estate,available,6.98,52.98,medium,low,6,namecheap,,,13/08/2026 11:01
 be3ee517-f229-4539-9ea1-62a7dd25fe7d,medicinal.social,available,3.98,55.98,low,low,9,namecheap,,,24/08/2026 19:01
 0d40a567-9ae0-40dc-ac47-623385af8c2f,nurses.click,available,1.99,,medium,low,6,name.com,,,
-a0ca0a5d-e03d-475e-ac78-8a98a85f1ed9,fittest.blog,available,5.99,,medium,low,7,name.com,,,
 efaf8237-db53-49e3-ad06-b4d37f3b0ab1,physical.hair,available,1.8,21.98,medium,low,8,namecheap,,,08/09/2026 15:48
 fea16bab-4513-49d1-9e71-48fe7e71165b,publichealth.voyage,available,58.99,58.99,low,low,13,namesilo,,,16/09/2026 13:13
 3b0888b8-eb31-48f9-b26d-40cefd2a2784,remedy.immo,available,14.99,45.99,medium,low,6,name.com,,,13/08/2026 11:01
@@ -634,7 +598,6 @@ d890e64e-bac5-40a3-bc84-82a52d6adc16,physical.group,resell,,,medium,low,8,Dynado
 21e0a3b5-d30e-46f2-993f-db96226fd55d,cells.coffee,available,23.99,,medium,low,5,name.com,,,
 f2f3d3d4-4c45-4789-9bc4-e1b68c0223d1,hospitals.solutions,available,5.99,,medium,low,9,name.com,,,
 d3b70267-df00-4522-955f-490a3010fd1d,biomedical.boutique,available,2.98,41.98,low,low,10,namecheap,,,10/08/2026 02:15
-1334ec2d-3272-4a75-a8b8-5dee99e51a78,doctors.rsvp,premium,311.25,,medium,low,7,name.com,,,
 315a1ba0-b7ca-4220-b859-de28a0bbbc5e,pediatric.cafe,available,5.98,64.98,low,low,9,namecheap,,,04/09/2026 22:48
 ca1d57dc-9d44-4a31-a437-993477b21316,medicinal.ac,available,28.98,76.98,low,low,9,namecheap,,,24/08/2026 19:01
 8a79d052-b3cf-46b0-9cab-3ac033b6b26d,surgical.llc,available,11.98,54.98,low,low,8,namecheap,,,11/09/2026 04:01
@@ -642,8 +605,7 @@ ca1d57dc-9d44-4a31-a437-993477b21316,medicinal.ac,available,28.98,76.98,low,low,
 244198a7-9970-41c4-9a07-025b7d34c3da,remedy.financial,available,17.48,66.98,medium,low,6,namecheap,,,13/08/2026 11:01
 aa920903-0a02-47dc-8a23-15d076ae8498,tolerant.hospital,available,55.98,71.98,medium,low,8,namecheap,,,22/08/2026 19:55
 88cde11a-b9d1-4955-923b-e963f2df01bb,pediatric.guru,available,2.98,54.98,low,low,9,namecheap,,,04/09/2026 22:48
-43899738-99e4-4e35-ba4e-56e519680a60,fittest.chat,available,9.99,,medium,low,7,name.com,,,
-3b722e7e-410d-4dc6-b242-5c5266ed57f7,fittest.blue,available,23.99,,medium,low,7,name.com,,,
+c33eec55-41da-452c-b6ee-adb2c05c3db3,doctors.productions,available,10.99,40.49,low,low,7,namesilo,,,18/09/2026 07:41
 d51174a0-bdfa-4874-bfff-7b613ce2e6f5,diagnostic.rich,available,94.99,1999,medium,low,10,namesilo,,,14/08/2026 05:47
 f4393247-e764-453e-8c93-84e190d9fb7e,biomedical.credit,available,9.48,131.98,low,low,10,namecheap,,,10/08/2026 02:15
 8cf4ecd2-b0d2-4a30-ac9d-cf037f80f70e,clinical.work,resell,,,low,low,8,West263 International Limited,14/05/2017 16:58,14/05/2027 16:58,12/08/2026 11:04
@@ -652,12 +614,9 @@ fb455527-4a7f-42b4-a391-769f6390b693,publichealth.to,available,39.98,39.98,low,l
 5d451c9f-9431-4489-a237-274408f3518a,hospitals.systems,available,21.99,,medium,low,9,name.com,,,
 93f4ac7f-0127-4d89-a09e-2adfdb167484,medically.airforce,available,103.99,103.99,low,low,9,namesilo,,,15/09/2026 13:56
 de2b6498-e7dd-470c-8eae-025aba7d4120,nurses.vana,available,2498,,medium,low,6,namecheap,,,
-387bf15e-d1ae-472e-a171-68ba5c8eeaa4,fittest.rsvp,available,14.99,,medium,low,7,name.com,,,
 92af9a82-edd8-45d1-804a-2ba2a4041fa6,physical.my,premium,69,98.58,medium,low,8,namecheap,,,08/09/2026 15:48
 b1828dfe-540f-4363-a043-533bc3147b01,healthful.game,available,309.99,329.99,low,low,9,namesilo,,,21/08/2026 02:02
 473b607a-d6b9-4a0f-a1f4-523f2b994ed5,diagnostic.bayern,available,34.99,34.99,medium,low,10,namesilo,,,14/08/2026 05:47
-d857a028-b229-4853-9116-c87d18ae80d9,doctors.fishing,premium,100,,medium,low,7,name.com,,,
-ff48220c-dd31-48a4-9a98-a4f1d6cef3f8,doctors.club,resell,,,medium,low,7,"Soluciones Corporativas IP, SL",04/06/2014 00:15,03/06/2030 23:59,
 3d75dcd2-6e38-4aa0-9a9b-a8a0f2140f20,strength.juegos,available,368.98,478.98,medium,low,8,namecheap,,,14/09/2026 04:30
 70839d71-cd14-4f3e-a018-d38940392ea7,tolerant.tv,available,29.98,40.98,low,low,8,namecheap,,,22/08/2026 19:55
 f85641c6-7391-4f14-9335-8f3c46f44589,remedy.holiday,available,9.99,83.99,medium,low,6,name.com,,,13/08/2026 11:01
@@ -674,17 +633,15 @@ a1b3beb5-9b17-4b13-bcb9-e3a0f22c68df,recognition.shop,resell,,,high,low,11,"Spac
 f9c42115-b2ac-4ba0-a507-3d1f418f496c,physical.soy,available,28.98,39.98,medium,low,8,namecheap,,,08/09/2026 15:48
 9aa7089f-aefb-4099-b153-54998504b4ba,clinical.boutique,available,2.98,41.98,low,low,8,namecheap,,,12/08/2026 11:04
 f5a049da-2946-4588-a8f8-87771179a92b,medicinal.limo,available,19.99,71.99,low,low,9,name.com,,,24/08/2026 19:01
-9e5b0fed-7a24-4371-8eec-56ba472cc518,fittest.science,premium,437.5,,medium,low,7,name.com,,,
 12f054ba-f0be-4022-9072-0f75014f0929,publichealth.plumbing,available,72.99,72.99,low,low,13,namesilo,,,16/09/2026 13:13
 9e58743e-51dd-4cc9-a407-f7738feae9fe,pediatric.villas,available,59.99,59.99,low,low,9,namesilo,,,04/09/2026 22:48
 c8eeb80c-9493-461d-92aa-bd4d3db85c24,medically.broker,available,11.98,47.98,low,low,9,namecheap,,,15/09/2026 13:56
+5ff68673-6a42-48d5-817d-3582c81bbaaf,doctors.group,resell,,,low,low,7,"Sav.com, LLC",24/08/2022 13:15,24/08/2027 13:15,18/09/2026 07:41
 41d58192-7090-4e9b-9f0f-b263523ecf78,diagnostic.cam,available,2.98,22.98,medium,low,10,namecheap,,,14/08/2026 05:47
-3ee987bd-d7b4-45c0-bd96-2e952514ea08,fittest.buzz,available,2.49,,medium,low,7,name.com,,,
 ecd859d4-cbe9-4004-b6c8-0362feff30f4,prescription.construction,available,15.99,,high,low,12,name.com,,,
 fa953ce6-de97-40ec-817a-2eb488c99583,health.realty,available,109.99,299,high,medium,6,namesilo,,,
 c25369ca-6669-40d9-b4c8-e26ca6f82ddc,clinical.email,available,4.98,40.98,low,low,8,namecheap,,,12/08/2026 11:04
 474c4fdc-0be5-41af-90e5-8bad6af56503,healthful.london,available,12.98,41.98,low,low,9,namecheap,,,21/08/2026 02:02
-f58e4721-27e9-4555-a346-ce50e3f240c4,doctors.trade,premium,437.5,,medium,low,7,name.com,,,
 b9ea0a94-b395-4d56-8b18-85318bdef305,cells.ong,available,16.99,,medium,low,5,name.com,,,
 ca7b195e-7e15-44fe-ba7f-63e816de3014,ambulances.porn,available,154.98,,medium,low,10,namecheap,,,
 81fc35a8-6479-499f-96c7-35f346e57b79,biomedical.archi,available,14.98,132.98,low,low,10,namecheap,,,10/08/2026 02:15
@@ -694,9 +651,8 @@ ca7b195e-7e15-44fe-ba7f-63e816de3014,ambulances.porn,available,154.98,,medium,lo
 96f2f65a-08b1-4b13-b387-61e354c3a233,clinical.photos,available,8.98,40.98,low,low,8,namecheap,,,12/08/2026 11:04
 60b759bd-70d4-48e9-850b-ddaae1957b76,physical.deal,premium,116,116,medium,low,8,namesilo,,,08/09/2026 15:48
 792d2575-df17-4914-9d25-8b90a22e665b,medically.loans,available,17.48,144.98,low,low,9,namecheap,,,15/09/2026 13:56
+d2be8ff7-2a97-48e8-acee-015a47bfe311,doctors.top,resell,,,low,low,7,成都西维数码科技有限公司,17/11/2014 16:00,17/11/2026 16:00,18/09/2026 07:41
 5a0ff492-63ad-4d70-89fe-d025e67cef42,cells.accountant,premium,437.5,,medium,low,5,name.com,,,
-8796b939-e5a2-4a4c-b93b-31e1ed3bd099,fittest.menu,available,38.98,,medium,low,7,namecheap,,,
-c764072f-3d69-41f3-b769-7cacd4cbc589,fittest.bio,available,9.99,,medium,low,7,name.com,,,
 07d35f53-347f-4744-b682-c397ba13fcf2,pediatric.info,resell,,,low,low,9,"GoDaddy.com, LLC",12/09/2001 18:05,12/09/2030 18:05,04/09/2026 22:48
 ed09a2f7-aac9-4ad2-8264-8563a6c03740,publichealth.diet,available,108.98,159.98,low,low,13,namecheap,,,16/09/2026 13:13
 58d48fda-be7c-42d0-9a29-9328495eb9ca,hospitals.direct,available,19.99,,medium,low,9,name.com,,,
@@ -706,10 +662,9 @@ eb7139f2-b531-4c50-a9f5-10b97b011f64,physical.autos,available,1.8,21.98,medium,l
 de61cb8e-ca7e-4da2-9369-0d955ab138d2,biomedical.store,premium,156.25,625,medium,low,10,name.com,,,10/08/2026 02:15
 28db8682-e279-4a3d-8509-a5dafe874b11,medicinal.productions,available,6.48,50.98,low,low,9,namecheap,,,24/08/2026 19:01
 0ddfd8ef-984e-40ea-878c-eb62f34430a9,medically.organic,available,17.99,85.99,low,low,9,namesilo,,,15/09/2026 13:56
-b3d930d2-e92a-4bbb-afbd-57fa4e6dbc49,doctors.camera,available,21.99,,medium,low,7,name.com,,,
 732256bc-5671-491c-89e0-01c72411fbcd,nurses.ceo,available,10.19,109.99,medium,low,6,namesilo,,,
 59fffd48-8329-472b-9928-4590476cb4e2,ambulances.win,available,5.25,6.25,medium,low,10,namesilo,,,
-8d09c239-93db-46e3-a075-73e633e5a101,doctors.creditcard,available,9.99,,medium,low,7,name.com,,,
+b489d983-39b5-4cb1-94c4-68350f55104e,doctors.auction,available,36.99,36.99,low,low,7,namesilo,,,18/09/2026 07:41
 c19837ba-1556-4861-95d7-f477c37dca79,healthful.sbs,available,1.54,25.98,low,low,9,namecheap,,,21/08/2026 02:02
 74318e0e-35b1-478a-bb46-329d27b71789,nurses.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 62af1c21-e0ee-40a0-81d6-3131c022f2c4,medicinal.mobile,premium,750,750,medium,low,9,name.com,,,24/08/2026 19:01
@@ -719,15 +674,12 @@ c19837ba-1556-4861-95d7-f477c37dca79,healthful.sbs,available,1.54,25.98,low,low,
 062917b5-77ce-4c21-af10-ea5b49b2f8e5,medicinal.jetzt,available,13.99,29.99,low,low,9,name.com,,,24/08/2026 19:01
 35f2e93a-6ff0-4777-82fd-47ea168e11ba,heart.you,premium,236900,,high,low,5,"Dynadot, LLC",07/10/2025 04:25,07/10/2026 04:25,
 29042bdd-ce72-4b41-8c7f-084bc2bfd424,tolerant.solutions,available,5.99,41.99,low,low,8,name.com,,,22/08/2026 19:55
-6e22f03b-fb6f-4668-8751-7ac762daa3e1,fittest.viajes,available,57.98,,medium,low,7,namecheap,,,
 f4b6732e-f599-4587-a17b-4c8a75986a7a,tolerant.parts,available,10.48,45.98,low,low,8,namecheap,,,22/08/2026 19:55
 a4018d43-7819-4616-8078-9d6f76e8537a,biomedical.menu,available,27.99,27.99,low,low,10,namesilo,,,10/08/2026 02:15
-1b0c8f05-e231-4d26-99d6-541211334a81,fittest.rehab,available,14.99,,medium,low,7,name.com,,,
 edc9cca6-199b-432f-989b-0b1aa7945953,biomedical.guide,available,10.99,57.99,low,low,10,name.com,,,10/08/2026 02:15
 c85ad64b-804f-481d-ac66-494b57b074d9,cells.art,premium,153.75,,medium,low,5,name.com,,,
 c49f3122-522d-4c90-b1ed-5ceca6d99ed7,capsule.vet,available,43.98,52.98,medium,low,7,namecheap,,,11/08/2026 18:13
 6183f5cc-7a87-478a-82e8-e1f5283762c1,community.rentals,premium,118.8,118.8,medium,medium,9,namesilo,,,08/09/2026 12:57
-629c3ed9-9b43-467a-bde7-bd62e65e47ae,fittest.paris,available,51.98,,medium,low,7,namecheap,,,
 26f9a63d-56fd-4818-ba1d-c958580bf41c,medically.computer,available,22.48,48.98,low,low,9,namecheap,,,15/09/2026 13:56
 7f3709f0-2553-45c1-b504-03c47bfcd955,mental.onl,available,3.48,28.98,medium,low,6,namecheap,,,08/09/2026 12:21
 679285fb-88de-4316-9a1d-bb3b1a698ed6,nurses.supply,available,25.99,25.99,medium,low,6,namesilo,,,
@@ -747,17 +699,16 @@ ac0b87df-26fd-4324-be4e-8138fd6ef4f8,physical.productions,available,6.48,50.98,m
 bf42cab8-9315-4e31-b0c7-538531f4a926,diagnostic.fish,available,14.99,56.99,medium,low,10,name.com,,,14/08/2026 05:47
 87ed4fa8-40aa-4db4-a7da-0de4050dfd5b,neuroscience.shopping,available,29.98,37.98,medium,low,12,namecheap,,,17/09/2026 07:18
 2c810991-3df8-4b65-8c6a-c91a31865d7c,healthful.poker,available,5.98,85.98,low,low,9,namecheap,,,21/08/2026 02:02
-0e968c96-be03-4a61-88e4-2ded1c9b2984,doctors.buzz,premium,125,,medium,low,7,name.com,,,
 4534c30f-bb8d-4d8a-809e-e6df3c9d81c7,nurses.inc,premium,2061.5,2660,medium,low,6,namesilo,,,
 68d1a966-a286-4370-801e-51a0efec1017,neuroscience.holiday,available,64.99,64.99,medium,low,12,namesilo,,,17/09/2026 07:18
 e913bdbb-8431-44c7-b29d-de749a0ce139,neuroscience.dad,available,12.98,16.98,medium,low,12,namecheap,,,17/09/2026 07:18
+625552ed-77b6-4750-9332-7dd358d3a47f,doctors.football,available,25.99,25.99,low,low,7,namesilo,,,18/09/2026 07:41
 3b8b30ca-1915-4392-9a29-a9e13eec9f5d,tolerant.fish,available,14.99,56.99,low,low,8,name.com,,,22/08/2026 19:55
 71d03657-df57-41b1-b10b-fd5961f481b9,ambulances.cricket,available,23.59,23.59,medium,low,10,namesilo,,,
 7386730b-bb1e-43b0-a0f7-2b7e0b996bcf,pediatric.design,available,3.99,58.49,low,low,9,namesilo,,,04/09/2026 22:48
 ca1e6859-00ec-4905-ad7a-49aee4286861,pediatric.vana,available,2298,2498,low,low,9,namecheap,,,04/09/2026 22:48
 cd12200e-4796-4983-9c5d-c69d89c11ae8,medicinal.voting,available,1398,1448,medium,low,9,namecheap,,,24/08/2026 19:01
 3d13074d-1882-4e51-aa8c-fd5fde5ffb60,pediatric.red,available,9.48,28.48,low,low,9,namecheap,,,04/09/2026 22:48
-0c1bfee6-8d89-4146-bce0-22970e94e71a,fittest.gift,available,23.98,,medium,low,7,namecheap,,,
 08b4cc2a-d83d-4bfc-b676-e8330eae0a24,medicinal.company,available,3.99,23.99,low,low,9,name.com,,,24/08/2026 19:01
 e49ed119-e34d-46f8-ba0c-2bec4aa5d58d,strength.place,available,22.49,22.49,medium,low,8,namesilo,,,14/09/2026 04:30
 e5021248-e8df-4590-a7e9-76fa44150775,publichealth.cv,available,14.98,14.98,low,low,13,namecheap,,,16/09/2026 13:13
@@ -778,18 +729,16 @@ b9fe54fb-02c1-4737-b28f-884b587fafae,ambulances.soy,available,24.99,,medium,low,
 11905072-a7fa-47ff-aa5e-eea71b7f9b10,cells.vip,premium,3125,,medium,low,5,name.com,,,
 5d9e2529-caa3-4e03-934b-19f4daaed566,ambulances.security,available,1999.99,2049.99,medium,low,10,namesilo,,,
 40dc9877-28bc-4f4b-8ff1-95285bf67db5,diagnostic.boston,available,23.49,23.49,medium,low,10,namesilo,,,14/08/2026 05:47
+f838df3a-5093-4ef9-8f82-c60016318e42,doctors.dating,premium,128.7,128.7,low,low,7,namecheap,,,18/09/2026 07:41
 19b2aa8d-0d7c-4380-afce-d7b7eb4aca98,hospitals.forsale,premium,118.8,118.8,medium,low,9,namesilo,,,
 0f7a5fe1-65e8-4895-a0de-452294f8dbf7,biomedical.town,available,6.98,47.48,medium,low,10,namecheap,,,10/08/2026 02:15
 d7801d7c-e48f-49af-a6fa-753730a0fe33,pediatric.vacations,available,38.99,38.99,low,low,9,namesilo,,,04/09/2026 22:48
-a5e46414-51ab-454c-9e59-ee1903e3a9ef,doctors.green,premium,625,,medium,low,7,name.com,,,
 7d80d4aa-14a6-4480-86f0-382838d108d0,biomedical.trading,available,19.99,19.99,low,low,10,name.com,,,10/08/2026 02:15
 19d64066-90d1-4bf3-b698-0013df74e2b6,cells.motorcycles,available,1.99,,medium,low,5,name.com,,,
 0528d41a-a59f-4859-889a-e2b99c660c61,medically.jewelry,available,64.99,64.99,low,low,9,namesilo,,,15/09/2026 13:56
 5c749e8a-5d6a-4a87-ae99-a2fa8ce06f7c,diagnostic.organic,available,19.99,73.99,medium,low,10,name.com,,,14/08/2026 05:47
-60f56d75-a12e-4de3-a798-c05462d58701,doctors.esq,premium,411.25,,medium,low,7,name.com,,,
 b4b28565-39e7-4bc8-a8fb-f95e3e5e3363,strength.guitars,available,104.99,114.99,medium,low,8,namesilo,,,14/09/2026 04:30
 2d906d7f-0503-44a1-a25d-fe08dc194ff4,diagnostic.doctor,resell,,,medium,low,10,"Wild West Domains, LLC",02/11/2016 16:00,02/11/2026 16:00,14/08/2026 05:47
-ccc2178c-0587-47e6-8d09-03e37cfc11b8,fittest.gmbh,available,47.99,,medium,low,7,name.com,,,
 8a83dd80-fa48-4751-a980-a088c01a5e7c,nurses.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,
 0b381b79-de18-4124-9ee1-20c9785d3f85,healthful.storage,available,509.99,529.99,low,low,9,namesilo,,,21/08/2026 02:02
 d83b87ae-bb8c-44e2-99f9-f0edec708da0,ambulances.salon,available,14.99,,medium,low,10,name.com,,,
@@ -817,11 +766,11 @@ cdb2ad59-80b9-41f6-bae4-6b0beec14454,tolerant.soccer,available,19.99,37.99,low,l
 af608179-9b1b-4cff-ad98-f13d7e685349,medicinal.tattoo,available,2.98,48.98,low,low,9,namecheap,,,24/08/2026 19:01
 51af5f0b-504b-4a46-a414-8d04066fee6f,herbalmedicine.forex,available,19.99,,high,low,15,name.com,,,
 09a0ba7c-2733-43a4-9c06-e15237665a99,hospitals.osaka,available,39.99,,medium,low,9,name.com,,,
-627354cf-d867-46d8-8df3-7802de3f8704,doctors.works,premium,250,,medium,low,7,name.com,,,
 bf9e19f3-be14-440f-a31d-62e65035c6a4,physical.forsale,premium,118.8,118.8,medium,low,8,namesilo,,,08/09/2026 15:48
 58e29a07-14b3-4c27-8678-0eeecef8a0ca,remedy.maison,available,24.99,83.99,medium,low,6,name.com,,,13/08/2026 11:01
 58550b05-7ef1-4309-bb33-57d74dce5253,medicinal.bet,available,8.98,35.98,medium,low,9,namecheap,,,24/08/2026 19:01
 ba18a22f-6f05-4c1e-b51d-93f79b88d8ae,nurses.bz,available,25,,medium,low,6,name.com,,,
+cde5ea2d-c7f7-4620-af64-9c00ce67b27a,doctors.voto,available,11.98,86.98,low,low,7,namecheap,,,18/09/2026 07:41
 46bf7cf9-7092-4305-b3e8-1ae844c687db,physical.racing,premium,116,116,medium,low,8,namesilo,,,08/09/2026 15:48
 0aa6f80c-a129-443e-8ad3-675b06d9870d,surgical.black,available,17.48,82.98,low,low,8,namecheap,,,11/09/2026 04:01
 cde9b1d5-638f-4c9e-9ca7-eb4d9f7a9d97,publichealth.apartments,available,60.98,72.98,low,low,13,namecheap,,,16/09/2026 13:13
@@ -833,7 +782,6 @@ cfca6812-7ba3-4fa8-8247-00d54aaa9ca8,nurses.investments,available,14.99,,medium,
 10a90a6f-82e1-4818-a008-dd6f06cb7f96,strength.channel,premium,76.7,76.7,medium,low,8,namecheap,,,14/09/2026 04:30
 174c9abb-e3e1-4e4f-a56b-da7f4b746c05,biology.city,resell,,,high,low,7,"Spaceship, Inc.",21/02/2026 17:40,21/02/2027 17:40,
 e515688b-f0b7-4108-bac2-5312fa3004d2,biomedical.movie,available,40.98,446.98,low,low,10,namecheap,,,10/08/2026 02:15
-18feef35-fdc2-41ec-832a-56a94d58bcaf,fittest.help,available,1.99,,medium,low,7,name.com,,,
 460e13a2-f8ec-4c9d-bd7e-8a041c1db3d4,ambulances.parts,available,15.99,,medium,low,10,name.com,,,
 2a83717f-ad41-4f69-85b5-96d51275c555,nurses.ing,premium,112.5,,medium,low,6,name.com,,,
 cd76b39d-2f24-468f-8cd8-8a299967f537,pediatric.how,available,30.98,41.98,low,low,9,namecheap,,,04/09/2026 22:48
@@ -858,14 +806,12 @@ ec4f2f6e-2b3c-4973-828c-fe0082557757,cells.forex,available,19.99,,medium,low,5,n
 8459c50a-f1d5-4ad6-b76f-a5d597de6002,orthopedic.consulting,premium,130,260,low,low,10,namecheap,,,04/09/2026 18:03
 f25d4a5d-ad0a-4acc-be62-5eea89f8a7b8,paramedic.bio,available,5.98,84.98,medium,low,9,namecheap,,,08/09/2026 00:59
 2dea8d7c-5f95-4027-bb9f-97d927e1272b,cells.airforce,available,134.98,,medium,low,5,namecheap,,,
-4dbca432-91cd-40d9-9bed-4cab4a6fea34,doctors.lease,available,14.99,,medium,low,7,name.com,,,
 38cee3cc-bdef-478c-ae6e-de5e28c622e3,medicative.clinic,available,11.98,82.98,low,low,10,namecheap,,,24/08/2026 18:59
 415c6569-6b81-4be0-af5a-fb6850d9b2ff,diagnostic.nyc,available,6.98,43.98,medium,low,10,namecheap,,,14/08/2026 05:47
 7b9c1c46-b37a-4bf3-b9ab-7ececbbddf1c,orthopedic.press,available,4.98,43.48,low,low,10,namecheap,,,04/09/2026 18:03
 9d6f65ca-40bd-42ac-827d-d4c43c7d9566,biomedical.gripe,available,6.98,8.98,low,low,10,namecheap,,,10/08/2026 02:15
 3c1a43d9-079e-4a78-a1eb-9f0403d0d88f,nurses.condos,available,58.99,58.99,medium,low,6,namesilo,,,
 1bd9c518-7e20-4526-b3f8-ad63dde20969,orthopedic.sale,available,5.98,48.98,low,low,10,namecheap,,,04/09/2026 18:03
-68d56ade-8a06-4723-96c6-945a8109da17,doctors.pw,premium,1872.92,,medium,low,7,name.com,,,
 1dcf81d8-e39b-4a42-b6e7-3af299c6c7e0,pediatric.style,available,7.98,49.98,low,low,9,namecheap,,,04/09/2026 22:48
 f8c29d16-bae1-4949-970a-90fa1b23f42b,physical.tires,available,5.99,78.99,medium,low,8,namesilo,,,08/09/2026 15:48
 bd777b1b-abe0-4621-9f3a-5abc874c494a,medically.reise,available,27.89,97.99,low,low,9,namesilo,,,15/09/2026 13:56
@@ -879,12 +825,10 @@ f81b1c29-4dd3-4d95-817a-3c5392d3aab2,medicine.life,resell,,,high,low,8,Xin Net T
 f633836a-3efe-487a-97d5-f2c68ee77555,surgical.community,available,45.99,45.99,low,low,8,namesilo,,,11/09/2026 04:01
 74403aea-37d7-411e-b82c-aaf5e8c596e1,ambulances.kaufen,available,5.99,26.99,medium,low,10,namesilo,,,
 519f33df-8147-4ac4-b362-586ac11c4730,paramedic.dance,available,10.48,36.98,low,low,9,namecheap,,,08/09/2026 00:59
-bc355044-9c58-43c7-aaa2-5a08ccf8a35e,doctors.surf,available,43.98,,medium,low,7,namecheap,,,
 a5c7d002-7ba8-48a4-8151-d455961f55be,orthopedic.cricket,available,25.98,31.98,low,low,10,namecheap,,,04/09/2026 18:03
 800daebc-1850-4e7e-82f4-7eaf5cea6da1,strength.deals,available,39.99,39.99,medium,low,8,namesilo,,,14/09/2026 04:30
 ccd38e77-a514-4602-a03e-6a785a59d4f1,cells.vote,available,49.99,,medium,low,5,name.com,,,
 4c53c4b4-fa50-4860-9db2-886e09d416d6,hospitals.pizza,available,19.99,,medium,low,9,name.com,,,
-b4dec783-f27c-4f6a-b834-980d41785131,fittest.fitness,available,9.99,,medium,low,7,name.com,,,
 6afd8eb6-8c17-4b1d-ac1e-f78e03688b76,nurses.monster,available,1.99,,medium,low,6,name.com,,,
 25c11a84-b344-4f4e-9ddb-7cf6adc23a27,neuroscience.uno,available,3.99,27.99,medium,low,12,namesilo,,,17/09/2026 07:18
 80435c38-9ff1-4b7c-937b-1d298e422899,ambulances.football,available,19.99,,medium,low,10,name.com,,,
@@ -903,7 +847,6 @@ a47fccc5-cafc-476e-acb3-289596a8d328,neuroscience.lease,available,58.98,73.98,me
 e0053553-5100-424f-ae37-86e159026be1,neuroscience.sale,available,7.49,38.99,medium,low,12,namesilo,,,17/09/2026 07:18
 6fb36249-8f3c-48b5-bddc-e783b1f3f32e,sanitary.build,available,32.98,39.98,medium,medium,8,namecheap,,,09/09/2026 21:16
 3dc81592-313a-4433-8264-598136354761,supply.food,premium,455,650,medium,low,6,namecheap,,,14/09/2026 05:32
-665ca565-40b3-4d20-81cc-ad236b9e9a31,fittest.trading,available,19.99,,medium,low,7,name.com,,,
 2591487c-5e2f-4a9d-ba4c-24d2f46f3135,nurses.glass,available,72.99,72.99,medium,low,6,namesilo,,,
 b04ae975-4797-4263-96ab-f32579a7a0e8,capsule.food,available,4.98,48.98,medium,low,7,namecheap,,,11/08/2026 18:13
 68ff497d-a38f-4276-9bea-ecaa3db8c0f3,healthful.flights,available,23.98,75.98,low,low,9,namecheap,,,21/08/2026 02:02
@@ -914,7 +857,6 @@ f7b63dc6-446f-49a9-941e-4223de5d308d,pediatric.garden,available,1.98,43.98,low,l
 72b7b6e6-1c2b-4c60-9fa3-3d91ecf031c5,healthful.forex,available,11.98,133.98,low,low,9,namecheap,,,21/08/2026 02:02
 f01602b8-bcf1-47de-985b-989ee30a58ae,clinical.loan,premium,437.5,62.5,low,low,8,name.com,,,12/08/2026 11:04
 097fcd45-9cc8-4208-94fa-2565e393202c,medicine.living,available,5.49,39.99,high,low,8,namesilo,,,
-f48e2521-e4e7-4421-862b-264e2902be53,fittest.auction,available,4.99,,medium,low,7,name.com,,,
 19c33706-b0df-4d08-a7e9-63393253169e,orthopedic.blackfriday,available,128.98,134.98,low,low,10,namecheap,,,04/09/2026 18:03
 7d029952-26b8-4bf0-9e0f-2d1a2e7ab8d2,genetic.sarl,available,6.98,8.98,low,low,7,namecheap,,,18/08/2026 21:31
 f6bc92b5-a5dd-4b85-9608-c4b8bb3be7d5,ambulances.loan,available,5.25,6.25,medium,low,10,namesilo,,,
@@ -930,7 +872,6 @@ a30bc071-1ca3-4b5f-b2c2-dca1a2d2a515,diagnostic.coupons,available,2.98,59.98,med
 8e3700e5-32fb-49aa-b9b5-fca78e4817aa,physical.video,available,4.98,49.48,medium,low,8,namecheap,,,08/09/2026 15:48
 24ac8fcb-74e0-41fd-ab87-1aed163dcb54,medicinal.esq,available,25.98,29.98,medium,low,9,namecheap,,,24/08/2026 19:01
 1d110ec0-ddba-4238-b908-621a08234866,nurses.coupons,available,3.99,,medium,low,6,name.com,,,
-b15c156c-3deb-474d-a23c-8a5eb41d0ab6,doctors.cash,available,17.99,,medium,low,7,name.com,,,
 c967cf21-82dc-4ba8-9c39-0a097a0cdfc5,steadfast.makeup,available,1.8,19.98,medium,medium,9,namecheap,,,18/08/2026 05:08
 f1af4289-3945-4225-b5c2-ecae04a395e0,physical.ski,available,27.99,64.99,medium,low,8,namesilo,,,08/09/2026 15:48
 6ae3ce35-1c26-48a4-87a3-ec4ba4a7e6f7,remedy.guitars,available,104.99,114.99,medium,low,6,namesilo,,,13/08/2026 11:01
@@ -952,9 +893,9 @@ c9816c15-6fbc-4a56-ba36-6f141e6d41ca,genetic.voting,available,1398,1448,low,low,
 558415a7-2fda-404f-87f9-8a0bf5e80ce8,cells.democrat,available,9.99,,medium,low,5,name.com,,,
 90e06d34-e28d-41ee-91b9-a2108e810621,sanitary.guitars,available,108.98,159.98,medium,medium,8,namecheap,,,09/09/2026 21:16
 dacfb97d-99af-4614-84e5-239f23e5dd15,surgical.deals,available,39.99,39.99,low,low,8,namesilo,,,11/09/2026 04:01
-45598c84-ab55-4c46-809d-370bd7268848,doctors.family,premium,123.75,,medium,low,7,name.com,,,
 88468262-9391-4d3a-946f-1e95c86dd1c3,supply.rehab,premium,242,242,medium,low,6,namesilo,,,14/09/2026 05:32
 62f19dea-9556-4d2b-8e09-8ad9ddabb635,paramedic.srl,available,31.99,31.99,medium,low,9,namesilo,,,08/09/2026 00:59
+9d055347-ef09-46fe-9ab5-1664480d2d09,nutrition.surgery,available,54.99,54.99,low,low,9,namesilo,,,18/09/2026 07:53
 91567fe3-5cd2-4cb2-9007-195f802e6463,ambulances.protection,available,1999.99,2049.99,medium,low,10,namesilo,,,
 afdd8737-3095-4012-adb8-a2cb62a3d10b,medicine.diet,available,104.99,114.99,high,low,8,namesilo,,,
 97f376d8-1718-44ef-9524-817fd59831d2,disease.cfd,available,1.49,,high,low,7,name.com,,,
@@ -970,7 +911,6 @@ b3ab5572-1f79-4324-b621-c2bcc67d9f07,biomedical.gmbh,available,45.99,45.99,low,l
 aa0e495e-d66d-4d62-8d4c-139bcd836113,cells.cruises,available,14.99,,medium,low,5,name.com,,,
 ff9d1983-0f10-4179-b200-77e1885e87fd,pediatric.fish,available,44.49,44.49,low,low,9,namesilo,,,04/09/2026 22:48
 fc30298a-15df-41c7-978f-a6162873fa5c,medicinal.nexus,available,12.98,15.98,medium,low,9,namecheap,,,24/08/2026 19:01
-e16e160c-a206-4ec0-b842-44309cdfeec0,fittest.florist,available,14.99,,medium,low,7,name.com,,,
 7288376f-55f3-4cad-a40b-bc330447a148,treating.fishing,available,32.49,32.49,medium,low,8,namesilo,,,13/09/2026 02:45
 f6463ac4-ec13-4f46-ba04-bb15d9ec49d0,remedy.rent,available,5,81.98,medium,low,6,namecheap,,,13/08/2026 11:01
 fc2148cd-e725-4577-9fe2-15a905076ed8,hospitals.show,available,17.99,,medium,low,9,name.com,,,
@@ -995,7 +935,67 @@ b5d32c86-f24d-4425-ab1f-eaf43139a4c4,neuroscience.discount,available,30.99,30.99
 f710f9d8-7be5-4eb9-8795-d554a55f9990,biomedical.yoga,available,32.49,32.49,low,low,10,namesilo,,,10/08/2026 02:15
 cac07b8a-49e1-4102-b063-a1aa70bc71f8,healthful.mov,available,12.98,15.98,low,low,9,namecheap,,,21/08/2026 02:02
 0a6ddfc0-beaa-4d0f-813f-be2237a1b766,supply.loan,premium,1107,116,medium,low,6,namesilo,,,14/09/2026 05:32
-c7d7aa5f-81c4-4806-91aa-f02157dd41e4,fittest.tips,available,14.99,,medium,low,7,name.com,,,
 3a25a0e2-e752-4a3d-a728-7f0280427d32,cells.insure,available,9.99,,medium,low,5,name.com,,,
-75244905-6081-443a-9261-c5dd72421702,fittest.meme,available,15.98,,medium,low,7,namecheap,,,
 c677e2f8-ec1b-424f-827b-ff8dba1aeb0e,medically.photos,available,8.98,40.98,low,low,9,namecheap,,,15/09/2026 13:56
+f7f1f102-7e02-4c94-ae8c-abed3c910fa0,healthful.holdings,available,64.99,64.99,low,low,9,namesilo,,,21/08/2026 02:02
+0e9dc648-59af-49cf-85df-52cb85b8d1e1,physical.forex,available,11.98,133.98,medium,low,8,namecheap,,,08/09/2026 15:48
+41978d2e-5eaf-4a58-92a0-60395fb19676,orthopedic.games,available,11.98,42.98,low,low,10,namecheap,,,04/09/2026 18:03
+c26a1948-39b6-4be8-a8c7-68d934abe64f,orthopedic.host,available,9.99,47.48,low,low,10,namecheap,,,04/09/2026 18:03
+82932030-809a-4ba7-b85d-3d38a40720bb,joints.click,available,1.99,,medium,low,6,name.com,,,
+bfa30349-6388-466d-a961-c3945ead844f,publichealth.date,available,5.25,6.25,low,low,13,namesilo,,,16/09/2026 13:13
+4d0a2d16-f853-42ab-8fa0-8282a23d3236,supply.christmas,available,1.8,49.98,medium,low,6,namecheap,,,14/09/2026 05:32
+ea623ff7-2ba2-48b3-ab50-576f3cc058d8,publichealth.condos,available,58.99,58.99,low,low,13,namesilo,,,16/09/2026 13:13
+fc04dd69-792a-4bc2-b29f-25dad8ba49b5,medicinal.travel,available,23.98,186.98,low,low,9,namecheap,,,24/08/2026 19:01
+03e1dad0-b92b-468a-b87e-4b040b6f2e22,healthful.coffee,available,6.98,47.98,low,low,9,namecheap,,,21/08/2026 02:02
+c02c984a-3033-4217-9fa8-9118876ab5e5,diagnostic.asia,available,1.98,18.98,medium,low,10,namecheap,,,14/08/2026 05:47
+3a7afe35-920e-4f3b-833b-8ffd1a886ef7,genetic.style,available,7.98,49.98,low,low,7,namecheap,,,18/08/2026 21:31
+50ba612c-2662-42fe-acc7-61f156470cd2,clinical.gives,available,5.99,40.99,low,low,8,name.com,,,12/08/2026 11:04
+102f4d48-954c-4c34-b856-d9d73f7c2c9a,medicine.fitness,available,9.99,,high,low,8,name.com,,,
+a66d261e-06a8-4d24-ad7c-d31bc7678d1d,ambulances.la,available,27.99,27.99,medium,low,10,namesilo,,,
+c0876187-4765-4fec-97a5-127844c32871,diagnostic.domains,available,19.99,56.99,medium,low,10,name.com,,,14/08/2026 05:47
+ba18f149-11f9-46c1-9147-48e665520581,biomedical.photography,available,6.98,46.48,low,low,10,namecheap,,,10/08/2026 02:15
+1f35a87b-018c-4689-be42-47ebce9b7cfb,diagnostic.moda,available,19.99,52.99,medium,low,10,name.com,,,14/08/2026 05:47
+ef74d7e2-505f-403f-a143-9e73708ec88d,pediatric.link,premium,172.8,172.8,low,low,9,namesilo,,,04/09/2026 22:48
+2d65ab91-c4db-4810-bd59-13648307648c,steadfast.game,available,309.99,329.99,medium,medium,9,namesilo,,,18/08/2026 05:08
+898db59c-27a0-475f-ac65-aee7383fbee3,publichealth.bio,resell,,,low,low,13,,,,16/09/2026 13:13
+391f3788-f820-4f1f-a22a-d56e2f09290f,clinical.gripe,available,6.98,8.98,medium,low,8,namecheap,,,12/08/2026 11:04
+11d5ebb1-988c-4f03-a33e-a6b8d31acd24,ambulances.boston,available,23.49,23.49,medium,low,10,namesilo,,,
+eb0bcf2d-7fe1-4c14-9154-a3b945a6c4e1,treating.fit,available,2.98,45.98,low,low,8,namecheap,,,13/09/2026 02:45
+508f8393-800a-4e20-99c8-224591910e9f,nutrition.games,available,11.98,42.98,low,low,9,namecheap,,,18/09/2026 07:53
+c9e1036c-2ecc-42d6-98a3-ffe231e4265c,neuroscience.green,available,11.98,102.98,medium,low,12,namecheap,,,17/09/2026 07:18
+b29b9955-a399-48be-8b73-ea8d3ad33f99,strength.hockey,available,59.99,59.99,medium,low,8,namesilo,,,14/09/2026 04:30
+25d7fb1d-5e72-4ec2-8f61-83cb0a9a9912,drugged.io,available,34.98,75.98,low,low,7,namecheap,,,14/08/2026 20:06
+357180f0-516a-41fc-a287-5edc2c4deef5,remedy.ltda,available,34.99,34.99,medium,low,6,namesilo,,,13/08/2026 11:01
+99482216-3b25-483a-8177-3aacfdb6fe83,capsule.fund,available,11.98,92.98,medium,low,7,namecheap,,,11/08/2026 18:13
+72dcb6c7-d89a-4e11-b4f7-b0e2f3e18aab,tolerant.auto,available,2070,2950,low,low,8,namecheap,,,22/08/2026 19:55
+d46c9d85-5deb-423c-9133-a84c2c19db4f,capsule.beauty,available,1.8,19.98,medium,low,7,namecheap,,,11/08/2026 18:13
+ee919f45-c0c6-4515-ac64-e2556191c8f4,paramedic.voting,available,1398,1448,low,low,9,namecheap,,,08/09/2026 00:59
+267aec63-64fc-4439-b61d-7e67cb1137cb,surgical.productions,available,6.48,50.98,low,low,8,namecheap,,,11/09/2026 04:01
+4130aa4a-6941-4d68-8a16-1d7b607e8b2d,surgical.mom,available,1.8,45.98,low,low,8,namecheap,,,11/09/2026 04:01
+22bf69f5-34cc-4b04-8ac8-90d46168c496,nurses.nexus,premium,73.75,,medium,low,6,name.com,,,
+be30c846-5ea9-4580-9cfe-cfa6d6abda42,diagnostic.surf,available,1.98,43.98,medium,low,10,namecheap,,,14/08/2026 05:47
+e4c222e9-48ad-45d1-bbe1-a5fecb0bc79d,physical.boo,premium,167.7,167.7,medium,low,8,namecheap,,,08/09/2026 15:48
+a798caff-1757-4ed0-b6e9-625bb0c6ca83,ambulances.casa,available,2.19,12.99,medium,low,10,namesilo,,,
+52ce4dea-7d56-40eb-a0dc-7a4e1d8df8db,pediatric.talk,premium,71.4,71.4,low,low,9,namesilo,,,04/09/2026 22:48
+e5ca10b9-4439-40c5-b14e-cdeb0d385234,paramedic.bid,available,5.25,6.25,low,low,9,namesilo,,,08/09/2026 00:59
+d0eec341-3d5f-4cc7-8c10-739fc59d3d22,medicine.skin,premium,2500,,high,low,8,name.com,,,
+c5ac465a-6a8d-44a2-9ffc-8657bfafc99c,strength.onl,available,3.48,28.98,medium,low,8,namecheap,,,14/09/2026 04:30
+bab153eb-127a-490c-bb27-72be795e3560,capsule.pictures,available,14.99,18.99,medium,low,7,name.com,,,11/08/2026 18:13
+c3bc5e69-45f0-4f9d-8971-17096c97a7da,orthopedic.direct,available,14.98,53.98,low,low,10,namecheap,,,04/09/2026 18:03
+e559a92d-911e-4eab-bef3-a1c2845e85ce,orthopedic.loan,available,5.98,9.98,low,low,10,namecheap,,,04/09/2026 18:03
+0ef7329d-fd44-45da-bac1-65cd920c5285,technology.ryukyu,available,22.98,,high,low,10,namecheap,,,
+af1eae7c-699f-4f51-b8fb-f82f18038e9e,neuroscience.accountant,available,23.59,23.59,medium,low,12,namesilo,,,17/09/2026 07:18
+619e6c0e-30be-4456-b875-aea956d681bd,neuroscience.how,available,30.98,41.98,medium,low,12,namecheap,,,17/09/2026 07:18
+d63e0773-22c0-4818-b1ce-a668d0f9c2d2,capsule.boats,available,1.8,19.98,medium,low,7,namecheap,,,11/08/2026 18:13
+a4cb2784-48ba-4b77-aefb-7d709b9209c1,hospitals.mba,available,19.99,,medium,low,9,name.com,,,
+db56bb56-f55f-4029-8078-d581f055b5b6,steadfast.cars,available,1999.99,2199,medium,medium,9,namesilo,,,18/08/2026 05:08
+d33a43a6-137b-4858-a710-dbe2645ba6b8,hospitals.ooo,premium,7691.25,,medium,low,9,name.com,,,
+46fb7551-5fe0-41e9-8c08-c3209caf6585,nutrition.accountant,available,23.59,23.59,low,low,9,namesilo,,,18/09/2026 07:53
+ee35c68d-e663-42db-820f-0e1098f731ee,ambulances.vegas,available,12.99,43.99,medium,low,10,namesilo,,,
+97a1de59-500c-4da7-b243-8d0d94d19f13,treating.fast,premium,53.92,53.92,medium,low,8,namesilo,,,13/09/2026 02:45
+bab94f4b-a2c1-46b8-876f-a0d82edee338,tolerant.pictures,available,14.99,18.99,low,low,8,name.com,,,22/08/2026 19:55
+b373ad5c-f6ce-4b6b-8b3e-964b363cfca9,biomedical.dealer,premium,2015,2600,low,low,10,namecheap,,,10/08/2026 02:15
+73fa14a8-bb06-47b9-bc50-5b5964566946,surgical.diamonds,available,54.99,54.99,low,low,8,namesilo,,,11/09/2026 04:01
+7978057b-c5e8-4255-9124-e4ac66bff828,surgical.press,available,4.98,43.48,low,low,8,namecheap,,,11/09/2026 04:01
+d8d5a3fa-9774-49e3-9c05-0bd9287e0d83,neuroscience.broker,available,11.98,47.98,medium,low,12,namecheap,,,17/09/2026 07:18
+55ee4f23-9cb5-42bb-930d-9500eb5c254d,clinical.soccer,available,19.99,37.99,low,low,8,name.com,,,12/08/2026 11:04
