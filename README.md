@@ -1,10 +1,10 @@
-# One-Word Medicine Domain Names (66,156)
+# One-Word Medicine Domain Names (60,061)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-66%2C156%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-60%2C061%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word medicine domain names spanning 506 different TLDs. The median ask across the selection is $688.57, reflecting a broad mix of pricing tiers. Updated daily, the list gives investors and founders a fast way to compare medicine-related domain names before buying.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **66,156 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **60,061 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 66,156 domains · **Median ask:** $394.03 · **High-demand under $2,500:** 187
+**Public extract:** 1,000 rows · **Live catalog:** 60,061 domains · **Median ask:** $337.38 · **High-demand under $2,500:** 154
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/medicine`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| doctor.accountants | available | $43.99    | —             | high           | low    | 6      | name.com                                     |
-| clinic.doctor      | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC                                 |
-| care.inc           | premium   | $2,061.50 | $2,660        | high           | low    | 4      | namesilo                                     |
-| doctor.actor       | available | $19.99    | —             | high           | low    | 6      | name.com                                     |
-| doctor.ac          | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 42                            |
-| care.surgery       | premium   | $520      | $520          | high           | low    | 4      | namecheap                                    |
-| doctor.airforce    | available | $103.99   | $103.99       | high           | low    | 6      | namesilo                                     |
-| doctor.academy     | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 19                            |
-| nurse.mobile       | premium   | $375      | —             | high           | low    | 5      | name.com                                     |
-| doctor.apartments  | available | $19.99    | —             | high           | low    | 6      | name.com                                     |
-| doctor.army        | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 45                            |
-| clinic.health      | premium   | $6,250    | —             | high           | low    | 6      | name.com                                     |
-| doctor.archi       | available | $24.99    | —             | high           | low    | 6      | name.com                                     |
-| doctor.biz         | resell    | —         | —             | high           | low    | 6      | Sav.com LLC                                  |
-| clinic.healthcare  | premium   | $500      | —             | high           | low    | 6      | name.com                                     |
-| doctor.auction     | available | $4.99     | —             | high           | low    | 6      | name.com                                     |
-| doctor.black       | resell    | —         | —             | high           | low    | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| clinic.surgery     | premium   | $242      | $242          | high           | low    | 6      | namesilo                                     |
-| doctor.auto        | available | $2,950    | —             | high           | low    | 6      | namecheap                                    |
-| doctor.bond        | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                              |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| care.ryukyu         | available | $22.98    | —             | high           | medium | 4      | namecheap            |
+| life.tools          | resell    | —         | —             | high           | medium | 4      | Porkbun LLC          |
+| care.inc            | premium   | $2,061.50 | $2,660        | high           | low    | 4      | namesilo             |
+| doctor.accountants  | available | $43.99    | —             | high           | low    | 6      | name.com             |
+| clinic.doctor       | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC         |
+| care.surgery        | premium   | $520      | $520          | high           | low    | 4      | namecheap            |
+| doctor.actor        | available | $19.99    | —             | high           | low    | 6      | name.com             |
+| doctor.ac           | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 42    |
+| nurse.mobile        | premium   | $375      | —             | high           | low    | 5      | name.com             |
+| doctor.broker       | available | $19.99    | —             | high           | low    | 6      | name.com             |
+| doctor.academy      | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 19    |
+| clinic.health       | premium   | $6,250    | —             | high           | low    | 6      | name.com             |
+| doctor.builders     | available | $7.99     | —             | high           | low    | 6      | name.com             |
+| doctor.clinic       | resell    | —         | —             | high           | low    | 6      | WEDOS Internet, a.s. |
+| clinic.healthcare   | premium   | $500      | —             | high           | low    | 6      | name.com             |
+| doctor.construction | available | $15.99    | —             | high           | low    | 6      | name.com             |
+| doctor.cloud        | resell    | —         | —             | high           | low    | 6      | NameSilo, LLC        |
+| clinic.surgery      | premium   | $242      | $242          | high           | low    | 6      | namesilo             |
+| doctor.contractors  | available | $9.99     | —             | high           | low    | 6      | name.com             |
+| doctor.co           | resell    | —         | —             | high           | low    | 6      | InternetX GmbH       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 66,156 live domains                        |
+| 1,000-row public sample | 60,061 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 187 high-demand names under $2,500         |
+| Basic exported fields   | 154 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
