@@ -1,10 +1,10 @@
-# One-Word Medicine Domain Names (208,621)
+# One-Word Medicine Domain Names (210,565)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-208%2C621%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-210%2C565%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word medicine domain names spanning 506 different TLDs. The median ask across the selection is $688.57, reflecting a broad mix of pricing tiers. Updated daily, the list gives investors and founders a fast way to compare medicine-related domain names before buying.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **208,621 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **210,565 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 208,621 domains · **Median ask:** $258.41 · **High-demand under $2,500:** 184
+**Public extract:** 1,000 rows · **Live catalog:** 210,565 domains · **Median ask:** $256.81 · **High-demand under $2,500:** 178
 
 **Last updated:** 2026-10-16
 **Canonical page:** `https://unique.domains/domains/sector/medicine`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| health.auto        | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo          |
-| health.theater     | resell    | $80.98    | —             | high           | medium | 6      | Sav.com, LLC      |
-| doctor.dentist     | premium   | $512      | $512          | high           | medium | 6      | namesilo          |
-| health.blackfriday | available | $103.70   | $103.70       | high           | medium | 6      | spaceship         |
-| medical.pics       | resell    | $1.99     | $45.99        | high           | low    | 7      | Dynadot Inc       |
-| doctor.diet        | premium   | $2,660    | $2,660        | high           | medium | 6      | namesilo          |
-| health.car         | available | $1,863.20 | $2,064.20     | high           | medium | 6      | spaceship         |
-| medicine.capital   | resell    | $9.99     | —             | high           | low    | 8      | Dynadot Inc       |
-| doctor.engineering | premium   | $108.90   | $108.90       | high           | medium | 6      | dynadot           |
-| health.cars        | available | $1,863.20 | $2,064.20     | high           | medium | 6      | spaceship         |
-| medicine.xxx       | resell    | $154.98   | —             | high           | low    | 8      | GoDaddy.com, LLC  |
-| doctor.page        | premium   | $648.70   | $648.70       | high           | medium | 6      | namecheap         |
-| health.cricket     | available | $20.88    | $20.88        | high           | medium | 6      | spaceship         |
-| doctor.legal       | resell    | —         | —             | high           | medium | 6      | Dynadot Inc       |
-| doctor.pet         | premium   | $2,750    | $2,750        | high           | medium | 6      | dynadot           |
-| health.democrat    | available | $5.38     | $26.08        | high           | medium | 6      | spaceship         |
-| health.ac          | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC  |
-| doctor.rehab       | premium   | $242      | $242          | high           | medium | 6      | namesilo          |
-| health.flowers     | available | $100      | $100          | high           | medium | 6      | cloudflare        |
-| health.apartments  | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 14 |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| health.accountants | available | $117.99   | $117.99       | high           | medium | 6      | namesilo         |
+| health.theater     | resell    | $80.98    | —             | high           | medium | 6      | Sav.com, LLC     |
+| doctor.degree      | premium   | $242      | $242          | high           | medium | 6      | namesilo         |
+| health.archi       | available | $13.14    | $83           | high           | medium | 6      | spaceship        |
+| medical.sh         | resell    | $59.99    | $99           | high           | low    | 7      | Dynadot Inc      |
+| doctor.space       | premium   | $6,900    | $6,900        | high           | medium | 6      | namesilo         |
+| health.audio       | available | $104.99   | $114.99       | high           | medium | 6      | namesilo         |
+| medical.xxx        | resell    | $154.98   | —             | high           | low    | 7      | GoDaddy.com, LLC |
+| doctor.university  | premium   | $118.80   | $118.80       | high           | medium | 6      | namesilo         |
+| health.country     | available | $2,064.20 | $2,064.20     | high           | medium | 6      | spaceship        |
+| medicine.capital   | resell    | $9.99     | —             | high           | low    | 8      | Dynadot Inc      |
+| health.army        | premium   | $200.50   | $242          | high           | medium | 6      | unstoppable      |
+| health.cricket     | available | $20.88    | $20.88        | high           | medium | 6      | spaceship        |
+| medicine.xxx       | resell    | $154.98   | —             | high           | low    | 8      | GoDaddy.com, LLC |
+| health.associates  | premium   | $85.80    | $85.80        | high           | medium | 6      | namecheap        |
+| health.dating      | available | $20.99    | $64.99        | high           | medium | 6      | namesilo         |
+| treatment.asia     | resell    | $2.99     | —             | high           | low    | 9      | NameCheap, Inc.  |
+| health.attorney    | premium   | $1,035.20 | $1,035.20     | high           | medium | 6      | spaceship        |
+| health.democrat    | available | $5.38     | $26.08        | high           | medium | 6      | spaceship        |
+| healthcare.farm    | resell    | $49.98    | —             | high           | low    | 10     | Sav.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 208,621 live domains                                 |
+| 1,000-row public sample | 210,565 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 184 high-demand names under $2,500                   |
+| Basic exported fields   | 178 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
