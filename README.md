@@ -1,10 +1,10 @@
-# One-Word Medicine Domain Names (191,549)
+# One-Word Medicine Domain Names (191,490)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-191%2C549%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-191%2C490%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word medicine domain names spanning 506 different TLDs. The median ask across the selection is $688.57, reflecting a broad mix of pricing tiers. Updated daily, the list gives investors and founders a fast way to compare medicine-related domain names before buying.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **191,549 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **191,490 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 191,549 domains · **Median ask:** $256.37 · **High-demand under $2,500:** 4,116
+**Public extract:** 1,000 rows · **Live catalog:** 191,490 domains · **Median ask:** $255.26 · **High-demand under $2,500:** 4,133
 
-**Last updated:** 2026-10-25
+**Last updated:** 2026-10-27
 **Canonical page:** `https://unique.domains/domains/sector/medicine`
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | doctor.yoga        | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC                             |
 | doctor.cool        | premium   | $414.20    | $414.20       | high           | medium | 6      | spaceship                                    |
 | doctor.tires       | available | $5.99      | $78.99        | high           | medium | 6      | namesilo                                     |
-| health.cx          | resell    | —          | —             | high           | medium | 6      | West263 International Limited                |
+| medical.bet        | resell    | —          | —             | high           | medium | 7      | GoDaddy.com, LLC                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 191,549 live domains                                 |
+| 1,000-row public sample | 191,490 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 4,116 high-demand names under $2,500                 |
+| Basic exported fields   | 4,133 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-10-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-10-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
