@@ -1,10 +1,10 @@
-# One-Word Medicine Domain Names (191,504)
+# One-Word Medicine Domain Names (191,458)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-191%2C504%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-191%2C458%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word medicine domain names spanning 506 different TLDs. The median ask across the selection is $688.57, reflecting a broad mix of pricing tiers. Updated daily, the list gives investors and founders a fast way to compare medicine-related domain names before buying.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **191,504 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **191,458 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 191,504 domains · **Median ask:** $251.89 · **High-demand under $2,500:** 3,148
+**Public extract:** 1,000 rows · **Live catalog:** 191,458 domains · **Median ask:** $250.06 · **High-demand under $2,500:** 3,650
 
-**Last updated:** 2026-10-29
+**Last updated:** 2026-10-30
 **Canonical page:** `https://unique.domains/domains/sector/medicine`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| doctor.hamburg     | available | $69.98     | $73.98        | high           | medium | 6      | namecheap                                    |
-| treatment.guru     | resell    | $54.98     | —             | high           | low    | 9      | Name.com, Inc.                               |
-| doctor.accountant  | premium   | $650       | $84.50        | high           | medium | 6      | namecheap                                    |
-| doctor.lighting    | available | $8.24      | $21.62        | high           | medium | 6      | dynadot                                      |
-| treatment.me       | resell    | $19,548.85 | $27.99        | high           | low    | 9      | Dynadot Inc                                  |
-| doctor.beauty      | premium   | $11,040    | $11,040       | high           | medium | 6      | namesilo                                     |
-| doctor.maison      | available | $44.20     | $44.20        | high           | medium | 6      | cloudflare                                   |
-| doctor.company     | resell    | —          | —             | high           | medium | 6      | Spaceship, Inc.                              |
-| doctor.college     | premium   | $3,250     | $3,250        | high           | medium | 6      | namecheap                                    |
-| doctor.markets     | available | $5.38      | $15.73        | high           | medium | 6      | spaceship                                    |
-| doctor.gold        | resell    | —          | —             | high           | medium | 6      | DNSPod, Inc.                                 |
-| doctor.cool        | premium   | $414.20    | $414.20       | high           | medium | 6      | spaceship                                    |
-| doctor.tickets     | available | $359.99    | $488.88       | high           | medium | 6      | namesilo                                     |
-| doctor.media       | resell    | —          | —             | high           | medium | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| doctor.foo         | premium   | $499.20    | —             | high           | medium | 6      | unstoppable                                  |
-| doctor.vote        | available | $34.99     | $90.99        | high           | medium | 6      | namesilo                                     |
-| doctor.sale        | resell    | —          | —             | high           | medium | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| doctor.fund        | premium   | $85.80     | $85.80        | high           | medium | 6      | namecheap                                    |
-| health.accountants | available | $93.35     | $93.35        | high           | high   | 6      | spaceship                                    |
-| doctor.yoga        | resell    | —          | —             | high           | medium | 6      | GoDaddy.com, LLC                             |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| doctor.creditcard | available | $144.99    | $144.99       | high           | medium | 6      | namesilo         |
+| medical.xxx       | resell    | $154.98    | —             | high           | medium | 7      | GoDaddy.com, LLC |
+| doctor.attorney   | premium   | $3,900     | $3,900        | high           | medium | 6      | namecheap        |
+| doctor.democrat   | available | $7.25      | $7.25         | high           | medium | 6      | namesilo         |
+| treatment.asia    | resell    | $2.99      | —             | high           | low    | 9      | NameCheap, Inc.  |
+| doctor.dating     | premium   | $78.54     | $78.54        | high           | medium | 6      | namesilo         |
+| doctor.engineer   | available | $31.25     | $31.25        | high           | medium | 6      | spaceship        |
+| treatment.me      | resell    | $19,548.85 | $27.99        | high           | low    | 9      | Dynadot Inc      |
+| doctor.expert     | premium   | $854       | $854          | high           | medium | 6      | namesilo         |
+| doctor.memorial   | available | $135.98    | $160.98       | high           | medium | 6      | namecheap        |
+| doctor.bio        | resell    | —          | —             | high           | medium | 6      | Dynadot Inc      |
+| doctor.gifts      | premium   | $78.54     | $78.54        | high           | medium | 6      | namesilo         |
+| doctor.menu       | available | $27.99     | $27.99        | high           | medium | 6      | namesilo         |
+| doctor.cheap      | resell    | —          | —             | high           | medium | 6      | Dynadot Inc      |
+| doctor.gratis     | premium   | $207.20    | $207.20       | high           | medium | 6      | spaceship        |
+| doctor.moi        | available | $25.99     | $25.99        | high           | medium | 6      | namesilo         |
+| doctor.help       | resell    | —          | —             | high           | medium | 6      | Gandi SAS        |
+| doctor.ooo        | premium   | $14,499.93 | $109.68       | high           | medium | 6      | porkbun          |
+| doctor.navy       | available | $32.20     | $32.20        | high           | medium | 6      | cloudflare       |
+| doctor.hospital   | resell    | —          | —             | high           | medium | 6      | Dot Holding Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 191,504 live domains                                 |
+| 1,000-row public sample | 191,458 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 3,148 high-demand names under $2,500                 |
+| Basic exported fields   | 3,650 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-10-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-10-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
