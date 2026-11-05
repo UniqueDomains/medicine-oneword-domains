@@ -16,7 +16,7 @@ This is a curated set of one-word medicine domain names spanning 506 different T
 
 **Public extract:** 1,000 rows · **Live catalog:** 191,377 domains · **Median ask:** $250.78 · **High-demand under $2,500:** 4,424
 
-**Last updated:** 2026-11-01
+**Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/domains/sector/medicine`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| doctor.broker      | available | $8.24      | $32.44        | high           | medium | 6      | porkbun          |
-| medical.xxx        | resell    | $154.98    | —             | high           | medium | 7      | GoDaddy.com, LLC |
-| clinic.surgery     | premium   | $242       | $242          | high           | low    | 6      | namesilo         |
-| doctor.builders    | available | $35.99     | $35.99        | high           | medium | 6      | namesilo         |
-| treatment.guru     | resell    | $54.98     | —             | high           | low    | 9      | Name.com, Inc.   |
-| doctor.bargains    | premium   | $108.90    | $108.90       | high           | medium | 6      | dynadot          |
-| doctor.investments | available | $12.99     | $129.99       | high           | medium | 6      | namesilo         |
-| treatment.me       | resell    | $19,548.85 | $27.99        | high           | low    | 9      | Dynadot Inc      |
-| doctor.blog        | premium   | $640       | $2,660        | high           | medium | 6      | namesilo         |
-| doctor.tires       | available | $5.99      | $78.99        | high           | medium | 6      | namesilo         |
-| doctor.fyi         | resell    | —          | —             | high           | medium | 6      | Dynadot Inc      |
-| doctor.catering    | premium   | $102.67    | $102.67       | high           | medium | 6      | spaceship        |
-| doctor.viajes      | available | $35.20     | $35.20        | high           | medium | 6      | cloudflare       |
-| doctor.now         | resell    | —          | —             | high           | medium | 6      | Spaceship, Inc.  |
-| doctor.lease       | premium   | $108.90    | $108.90       | high           | medium | 6      | dynadot          |
-| health.accountants | available | $23.76     | $106.15       | high           | high   | 6      | dynadot          |
-| medical.bet        | resell    | —          | —             | high           | medium | 7      | GoDaddy.com, LLC |
-| doctor.luxe        | premium   | $242       | $17.70        | high           | medium | 6      | namesilo         |
-| health.archi       | available | $13.14     | $83           | high           | high   | 6      | spaceship        |
-| medical.business   | resell    | —          | —             | high           | medium | 7      | Dynadot Inc      |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| doctor.florist     | available | $32.99    | $32.99        | high           | medium | 6      | namesilo                      |
+| medical.pics       | resell    | $1.99     | $45.99        | high           | medium | 7      | Dynadot Inc                   |
+| doctor.agency      | premium   | $99.50    | $102.67       | high           | medium | 6      | unstoppable                   |
+| doctor.kaufen      | available | $33.98    | $37.98        | high           | medium | 6      | namecheap                     |
+| medical.xxx        | resell    | $154.98   | —             | high           | medium | 7      | GoDaddy.com, LLC              |
+| doctor.channel     | premium   | $516.67   | $516.67       | high           | medium | 6      | spaceship                     |
+| doctor.new         | available | $488.98   | $601.98       | high           | medium | 6      | namecheap                     |
+| doctor.fashion     | resell    | —         | —             | high           | medium | 6      | West263 International Limited |
+| doctor.cooking     | premium   | $83       | $26.08        | high           | medium | 6      | spaceship                     |
+| doctor.rodeo       | available | $10.92    | $10.92        | high           | medium | 6      | dynadot                       |
+| doctor.hospital    | resell    | —         | —             | high           | medium | 6      | Dot Holding Inc.              |
+| doctor.courses     | premium   | $517.70   | $517.70       | high           | medium | 6      | spaceship                     |
+| doctor.tours       | available | $5.38     | $49.88        | high           | medium | 6      | spaceship                     |
+| doctor.house       | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                   |
+| doctor.download    | premium   | $6,900    | $116          | high           | medium | 6      | namesilo                      |
+| health.accountants | available | $93.35    | $93.35        | high           | high   | 6      | spaceship                     |
+| medical.bid        | resell    | —         | —             | high           | medium | 7      | Dynadot Inc                   |
+| doctor.lifestyle   | premium   | $2,200    | $2,200        | high           | medium | 6      | dynadot                       |
+| health.archi       | available | $13.14    | $83           | high           | high   | 6      | spaceship                     |
+| medical.bot        | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-11-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Medicine Domain Names*. Version 2026-11-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
